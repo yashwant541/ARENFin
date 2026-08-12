@@ -210,14 +210,32 @@ def _manifest(job_id: str) -> dict:
     return json.loads(mf.read_text(encoding="utf-8"))
 
 
+def _send_download(path_or_buf, download_name, mimetype):
+    """send_file that works on both Flask >= 2.0 and Flask 1.x.
+
+    Flask 2.0 renamed the download-filename argument from ``attachment_filename``
+    to ``download_name``. DSS code environments on Python 3.9 often ship Flask 1.x,
+    where passing ``download_name`` raises TypeError -> HTTP 500 on download. We try
+    the modern keyword first and fall back to the legacy one. Passing ``mimetype``
+    explicitly also spares older Flask from having to guess the content type for an
+    in-memory BytesIO (the .zip case).
+    """
+    try:
+        return send_file(path_or_buf, as_attachment=True,
+                         download_name=download_name, mimetype=mimetype)
+    except TypeError:
+        return send_file(path_or_buf, as_attachment=True,
+                         attachment_filename=download_name, mimetype=mimetype)
+
+
 @app.route("/api/download/<job_id>/<fid>", methods=["GET"])
 def download(job_id, fid):
     entry = _manifest(job_id).get(fid)
     if not entry or not os.path.exists(entry["path"]):
         return jsonify({"error": "Output not found or expired."}), 404
-    return send_file(
-        entry["path"], as_attachment=True, download_name=entry["name"],
-        mimetype="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    return _send_download(
+        entry["path"], entry["name"],
+        "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
     )
 
 
@@ -232,9 +250,7 @@ def download_all(job_id):
             if os.path.exists(entry["path"]):
                 zf.write(entry["path"], arcname=entry["name"])
     buf.seek(0)
-    return send_file(buf, as_attachment=True,
-                     download_name=f"converted_{job_id}.zip",
-                     mimetype="application/zip")
+    return _send_download(buf, f"converted_{job_id}.zip", "application/zip")
 
 
 # convenience for standalone: a plain health check at root of the API
