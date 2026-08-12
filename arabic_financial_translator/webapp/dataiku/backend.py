@@ -111,7 +111,7 @@ def _convert_one(job_dir: pathlib.Path, fid: str, filename: str, data: bytes) ->
     display = filename or "file"
     ext = pathlib.Path(display).suffix.lower()
     result = {"fid": fid, "name": display, "status": "error", "message": "",
-              "sheets": 0, "flipped": 0, "review": 0, "output_name": None,
+              "sheets": 0, "rtl": 0, "reordered": 0, "review": 0, "output_name": None,
               "sample_terms": []}
 
     if ext not in ALLOWED_EXT:
@@ -132,7 +132,8 @@ def _convert_one(job_dir: pathlib.Path, fid: str, filename: str, data: bytes) ->
 
     out_path = pathlib.Path(rep.output_path)
     review = sum(s.fuzzy + s.untranslated for s in rep.sheets)
-    flipped = sum(1 for s in rep.sheets if s.was_rtl)
+    rtl = sum(1 for s in rep.sheets if s.rtl_source)
+    reordered = sum(1 for s in rep.sheets if s.columns_reversed)
 
     # a few untranslated Arabic terms surfaced as "add these to the glossary"
     terms, seen = [], set()
@@ -145,7 +146,7 @@ def _convert_one(job_dir: pathlib.Path, fid: str, filename: str, data: bytes) ->
                 break
 
     result.update(status="done", message="Converted",
-                  sheets=len(rep.sheets), flipped=flipped, review=review,
+                  sheets=len(rep.sheets), rtl=rtl, reordered=reordered, review=review,
                   output_name=out_path.name, sample_terms=terms)
     return result
 
@@ -214,7 +215,10 @@ def download(job_id, fid):
     entry = _manifest(job_id).get(fid)
     if not entry or not os.path.exists(entry["path"]):
         return jsonify({"error": "Output not found or expired."}), 404
-    return send_file(entry["path"], as_attachment=True, download_name=entry["name"])
+    return send_file(
+        entry["path"], as_attachment=True, download_name=entry["name"],
+        mimetype="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    )
 
 
 @app.route("/api/download_all/<job_id>", methods=["GET"])

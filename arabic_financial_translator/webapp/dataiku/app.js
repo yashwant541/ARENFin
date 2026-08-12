@@ -37,6 +37,35 @@
   function keyOf(f) { return f.name + "|" + f.size; }
   var ALLOWED = ["xlsx", "xlsm", "xls", "csv", "xltx"];
 
+  // Download through the DSS backend proxy WITHOUT top-level navigation.
+  // Navigating an <a href> straight to a DSS backend URL makes DSS return an
+  // HTML wrapper (you'd get "f0.htm"); fetching as a blob returns the real
+  // bytes and lets us set the correct filename client-side.
+  function downloadBlob(url, filename, btn) {
+    var restore = null;
+    if (btn) { restore = btn.innerHTML; btn.disabled = true; btn.innerHTML = '<span class="afx-spin"></span> …'; }
+    fetch(url, { credentials: "same-origin" })
+      .then(function (r) {
+        if (!r.ok) throw new Error("server returned " + r.status);
+        return r.blob();
+      })
+      .then(function (blob) {
+        var href = URL.createObjectURL(blob);
+        var a = document.createElement("a");
+        a.href = href;
+        a.download = filename || "download";
+        document.body.appendChild(a);
+        a.click();
+        setTimeout(function () { URL.revokeObjectURL(href); a.remove(); }, 1500);
+      })
+      .catch(function (e) {
+        alert("Download failed: " + (e.message || e) + "\nPlease try again.");
+      })
+      .then(function () {
+        if (btn && restore !== null) { btn.disabled = false; btn.innerHTML = restore; }
+      });
+  }
+
   // ---- health / hero stats ----------------------------------------------
   fetch(BK("/api/health"))
     .then(function (r) { return r.json(); })
@@ -138,10 +167,13 @@
       if (!r) return;
 
       if (r.status === "done") {
+        var rtlBadge = r.reordered
+          ? '<span class="afx-badge flip">' + icon("i-flip") + 'columns reordered</span>'
+          : (r.rtl ? '<span class="afx-badge rtl">' + icon("i-flip") + 'RTL → LTR</span>' : '');
         var badges =
           '<span class="afx-pill done">' + icon("i-check") + ' done</span>' +
           '<span class="afx-badge">' + icon("i-sheet") + r.sheets + ' sheet' + (r.sheets === 1 ? '' : 's') + '</span>' +
-          (r.flipped ? '<span class="afx-badge flip">' + icon("i-flip") + r.flipped + ' RTL flipped</span>' : '') +
+          rtlBadge +
           (r.review ? '<span class="afx-badge review">' + icon("i-flag") + r.review + ' to review</span>'
                     : '<span class="afx-badge clean">' + icon("i-check") + ' all matched</span>');
         meta.innerHTML = '<span>' + size + '</span><span class="afx-dotsep">·</span>' + badges +
@@ -154,8 +186,9 @@
           li.querySelector(".afx-row-body").appendChild(terms);
         }
         actions.innerHTML =
-          '<a class="afx-dl" href="' + BK("/api/download/" + job.job_id + "/" + r.fid) + '" download>' +
-          icon("i-download") + 'Download</a>';
+          '<button class="afx-dl" data-url="' + esc(BK("/api/download/" + job.job_id + "/" + r.fid)) +
+          '" data-name="' + esc(r.output_name || (name.replace(/\.[^.]+$/, "") + "_EN.xlsx")) + '">' +
+          icon("i-download") + 'Download</button>';
       } else {
         meta.innerHTML = '<span>' + size + '</span><span class="afx-dotsep">·</span>' +
           '<span class="afx-pill err">' + icon("i-alert") + esc(r.message || "failed") + '</span>';
@@ -163,9 +196,9 @@
       }
     });
 
-    var flips = (job.results || []).reduce(function (a, r) { return a + (r.flipped || 0); }, 0);
+    var rtlCount = (job.results || []).reduce(function (a, r) { return a + (r.rtl || 0); }, 0);
     countUp(el.sumDone, job.succeeded);
-    countUp(el.sumFlip, flips);
+    countUp(el.sumFlip, rtlCount);
     countUp(el.sumReview, job.total_review);
     countUp(el.sumFail, job.failed);
     el.sumFailWrap.hidden = !job.failed;
@@ -217,12 +250,15 @@
   });
 
   el.list.addEventListener("click", function (e) {
-    var btn = e.target.closest ? e.target.closest("[data-remove]") : null;
-    if (btn) removeKey(btn.getAttribute("data-remove"));
+    if (!e.target.closest) return;
+    var rm = e.target.closest("[data-remove]");
+    if (rm) { removeKey(rm.getAttribute("data-remove")); return; }
+    var dl = e.target.closest("[data-url]");
+    if (dl) { e.preventDefault(); downloadBlob(dl.getAttribute("data-url"), dl.getAttribute("data-name"), dl); }
   });
   el.clear.addEventListener("click", function () { selected = []; render(); });
   el.convert.addEventListener("click", convertAll);
   el.downloadAll.addEventListener("click", function () {
-    if (lastJob) window.location = BK("/api/download_all/" + lastJob);
+    if (lastJob) downloadBlob(BK("/api/download_all/" + lastJob), "converted_" + lastJob + ".zip", el.downloadAll);
   });
 })();

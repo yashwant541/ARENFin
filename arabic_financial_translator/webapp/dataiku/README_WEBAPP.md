@@ -108,3 +108,14 @@ Add these under the code env's **Packages to install** if they aren't present.
 | POST | `/api/convert` | multipart `files` (repeatable) → per-file results + `job_id` |
 | GET | `/api/download/<job_id>/<fid>` | one converted `.xlsx` |
 | GET | `/api/download_all/<job_id>` | all outputs of a job as `.zip` |
+
+### Downloads in Dataiku
+
+The front end downloads files by **`fetch()`-ing them as a blob** and saving
+client-side, rather than pointing a link straight at the backend URL. This is
+deliberate: in DSS, navigating a browser tab directly to a backend endpoint makes
+the DSS proxy return an HTML wrapper, so the browser saves something like
+`f0.htm` instead of your workbook. Fetching as a blob returns the real bytes and
+lets the app set the correct filename (`<name>_EN.xlsx`, or `converted_<job>.zip`).
+If you extend the app, keep downloads on the `fetch → blob` path for the same
+reason.

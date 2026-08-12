@@ -66,9 +66,13 @@ def main(argv=None):
             continue
         review = sum(s.fuzzy + s.untranslated for s in rep.sheets)
         total_review += review
-        rtl = sum(1 for s in rep.sheets if s.was_rtl)
+        rtl = sum(1 for s in rep.sheets if s.rtl_source)
+        reordered = sum(1 for s in rep.sheets if s.columns_reversed)
+        note = f"{rtl} RTL sheet(s)"
+        if reordered:
+            note += f", {reordered} column-reordered"
         print(f"  ✓ {f.name} -> {Path(rep.output_path).name}  "
-              f"[{len(rep.sheets)} sheet(s), {rtl} RTL-flipped, "
+              f"[{len(rep.sheets)} sheet(s), {note}, "
               f"{review} cell(s) to review]")
 
     print(f"\nDone. {total_review} cell(s) flagged in the Translation Log tab(s).")

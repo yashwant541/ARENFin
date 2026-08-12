@@ -84,11 +84,14 @@ confidence and method so uncertain cells can be flagged:
 
 1. Reads the grid (`.csv` sniffs delimiter + BOM; `.xlsx/.xlsm` via `openpyxl`;
    `.xls` via `pandas`/`xlrd` if present).
-2. **Decides whether to mirror columns from the *physical* position of the Arabic
-   labels**, not merely the `rightToLeft` view flag — because an Arabic sheet is often
-   *stored* logically (label in column A) and only *displayed* RTL. If the labels
-   physically sit in the rightmost columns, the grid is in mirrored/visual order and
-   gets flipped so the label lands in column A. The view flag is only a tie-breaker.
+2. **Handles Arabic reading direction correctly.** In a real Arabic RTL sheet the
+   label lives in **column A** and is merely *displayed* on the right (the view is
+   mirrored) — so it needs no column reversal, just translation and an LTR view.
+   The `rightToLeft` view flag therefore never, on its own, triggers a reversal.
+   Columns are reversed **only** when there's physical evidence of mirrored/visual
+   storage: the Arabic label column sits in the right half of the stored grid
+   (someone literally typed the description into the last column). Plain Arabic
+   Excels with no RTL flag are handled the same way.
 3. Translates every cell through Stage 1.
 4. Writes a clean English `.xlsx`: Arial, frozen header, `#,##0;(#,##0);-` number
    format, LTR sheet view, tab named from the translated statement title. Fuzzy cells

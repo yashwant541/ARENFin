@@ -199,6 +199,7 @@
 .afx-badge { display: inline-flex; align-items: center; gap: 5px; font-size: 11px; font-weight: 700; padding: 3px 9px; border-radius: 999px; background: #f1f5f9; color: var(--muted); }
 .afx-badge svg { font-size: 12px; }
 .afx-badge.flip { background: var(--flip-bg); color: var(--flip); }
+.afx-badge.rtl { background: #eef2ff; color: var(--brand); }
 .afx-badge.review { background: var(--warn-bg); color: var(--warn); }
 .afx-badge.clean { background: var(--ok-bg); color: var(--ok); }
 
@@ -213,10 +214,12 @@
 .afx-dl {
   display: inline-flex; align-items: center; gap: 7px; text-decoration: none;
   border: 1px solid transparent; color: #fff; font-size: 13px; font-weight: 700;
+  font-family: inherit; cursor: pointer; line-height: 1;
   padding: 9px 15px; border-radius: 11px;
   background: linear-gradient(135deg, var(--brand), var(--brand2)); box-shadow: 0 6px 16px rgba(79,70,229,.28);
-  transition: transform .08s, box-shadow .14s;
+  transition: transform .08s, box-shadow .14s, opacity .14s;
 }
+.afx-dl:disabled { opacity: .7; cursor: default; }
 .afx-dl svg { font-size: 15px; }
 .afx-dl:hover { box-shadow: 0 9px 20px rgba(79,70,229,.36); transform: translateY(-1px); }
 
