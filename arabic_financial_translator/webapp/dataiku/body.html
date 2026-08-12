@@ -1,0 +1,104 @@
+<!-- Dataiku standard web app — HTML tab (modern redesign).
+     Paste into the webapp's "HTML" section. CSS + JS load from their own tabs;
+     standalone_app.py inlines all three for local testing. -->
+
+<!-- Inline SVG icon set (referenced via <use href="#..."> from HTML and JS) -->
+<svg width="0" height="0" style="position:absolute" aria-hidden="true">
+  <defs>
+    <symbol id="i-upload" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" d="M12 16V4m0 0L7.5 8.5M12 4l4.5 4.5M4 15v2.5A2.5 2.5 0 0 0 6.5 20h11a2.5 2.5 0 0 0 2.5-2.5V15"/></symbol>
+    <symbol id="i-sheet" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-width="1.7" stroke-linejoin="round" d="M5 3h9l5 5v13a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1Z"/><path fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" d="M14 3v5h5M8 13h8M8 16.5h8M8 9.5h3"/></symbol>
+    <symbol id="i-flip" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" d="M8 7 4 11l4 4M4 11h9M16 17l4-4-4-4M20 13h-9"/></symbol>
+    <symbol id="i-flag" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" d="M6 21V4m0 0h11l-2 4 2 4H6"/></symbol>
+    <symbol id="i-check" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" d="m5 12.5 4.5 4.5L19 7"/></symbol>
+    <symbol id="i-download" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" d="M12 4v10m0 0 4-4m-4 4-4-4M5 18h14"/></symbol>
+    <symbol id="i-zip" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" d="M4 7V5a1 1 0 0 1 1-1h14a1 1 0 0 1 1 1v14a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1v-2m6-13v3m0 3v3m0-9h.01M10 10h.01M10 16h.01"/></symbol>
+    <symbol id="i-close" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" d="M6 6l12 12M18 6 6 18"/></symbol>
+    <symbol id="i-alert" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" d="M12 8v5m0 3h.01M10.3 3.9 2.4 18a1.6 1.6 0 0 0 1.4 2.4h16.4a1.6 1.6 0 0 0 1.4-2.4L13.7 3.9a1.6 1.6 0 0 0-2.8 0Z"/></symbol>
+    <symbol id="i-book" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" d="M4 5.5A2.5 2.5 0 0 1 6.5 3H20v15H6.5A2.5 2.5 0 0 0 4 20.5v-15Z"/><path fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" d="M4 20.5A2.5 2.5 0 0 1 6.5 18H20v3H6.5A2.5 2.5 0 0 1 4 20.5Z"/></symbol>
+    <symbol id="i-spark" viewBox="0 0 24 24"><path fill="currentColor" d="M12 2.5l1.9 4.9 4.9 1.9-4.9 1.9L12 16l-1.9-4.8L5.2 9.3l4.9-1.9L12 2.5Z"/></symbol>
+    <symbol id="i-bolt" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" d="M13 2 4 14h7l-1 8 9-12h-7l1-8Z"/></symbol>
+  </defs>
+</svg>
+
+<div class="afx-shell">
+  <div class="afx-container" id="afxApp">
+
+    <nav class="afx-topbar">
+      <div class="afx-brand">
+        <span class="afx-brand-mark">ع<span class="afx-arrow">→</span>A</span>
+        <span class="afx-brand-name">FinLingua<span class="afx-brand-sub">Arabic&nbsp;Financials</span></span>
+      </div>
+      <div class="afx-chip" id="afxHealth" title="Translation glossary loaded in the backend">
+        <svg class="afx-chip-ic"><use href="#i-book"/></svg>
+        <span id="afxHealthText">connecting…</span>
+      </div>
+    </nav>
+
+    <header class="afx-hero">
+      <div class="afx-hero-glow"></div>
+      <div class="afx-hero-content">
+        <div class="afx-eyebrow"><svg class="afx-eyebrow-ic"><use href="#i-bolt"/></svg> RTL&nbsp;→&nbsp;LTR · structure-preserving</div>
+        <h1>Arabic&nbsp;→&nbsp;English<br>Financial Converter</h1>
+        <p>Drop in Arabic submissions or GL workbooks — get clean, left-to-right English
+           financials back, <b>one polished output per file</b>. Numbers untouched,
+           every uncertain term logged.</p>
+        <div class="afx-hero-stats" id="afxHeroStats">
+          <div class="afx-stat"><b id="afxStatTerms">—</b><span>glossary terms</span></div>
+          <div class="afx-stat"><b id="afxStatVariants">—</b><span>Arabic variants</span></div>
+          <div class="afx-stat"><b id="afxStatCats">—</b><span>categories</span></div>
+        </div>
+      </div>
+    </header>
+
+    <section class="afx-card afx-upload-card">
+      <div class="afx-drop" id="afxDrop" tabindex="0" role="button" aria-label="Upload files">
+        <input id="afxInput" type="file" multiple hidden accept=".xlsx,.xlsm,.xls,.csv,.xltx"/>
+        <div class="afx-drop-ring"><svg class="afx-drop-ic"><use href="#i-upload"/></svg></div>
+        <div class="afx-drop-main">Drag &amp; drop files, or <span class="afx-link">browse</span></div>
+        <div class="afx-drop-sub">Select as many as you like · <span>.xlsx</span> <span>.xlsm</span> <span>.xls</span> <span>.csv</span></div>
+      </div>
+    </section>
+
+    <section class="afx-queue" id="afxQueueWrap" hidden>
+      <div class="afx-toolbar">
+        <div class="afx-count"><span id="afxCount">0</span> file(s) ready</div>
+        <div class="afx-actions">
+          <button class="afx-btn afx-btn-ghost" id="afxClear">Clear</button>
+          <button class="afx-btn afx-btn-primary" id="afxConvert">
+            <svg class="afx-btn-ic"><use href="#i-bolt"/></svg>
+            <span class="afx-btn-label">Convert all</span>
+          </button>
+        </div>
+      </div>
+
+      <div class="afx-summary" id="afxSummary" hidden>
+        <div class="afx-sum-card ok">
+          <svg class="afx-sum-ic"><use href="#i-check"/></svg>
+          <div><b id="afxSumDone">0</b><span>converted</span></div>
+        </div>
+        <div class="afx-sum-card flip">
+          <svg class="afx-sum-ic"><use href="#i-flip"/></svg>
+          <div><b id="afxSumFlip">0</b><span>RTL flipped</span></div>
+        </div>
+        <div class="afx-sum-card warn">
+          <svg class="afx-sum-ic"><use href="#i-flag"/></svg>
+          <div><b id="afxSumReview">0</b><span>cells to review</span></div>
+        </div>
+        <div class="afx-sum-card err" id="afxSumFailWrap" hidden>
+          <svg class="afx-sum-ic"><use href="#i-alert"/></svg>
+          <div><b id="afxSumFail">0</b><span>failed</span></div>
+        </div>
+        <button class="afx-btn afx-btn-zip" id="afxDownloadAll" hidden>
+          <svg class="afx-btn-ic"><use href="#i-zip"/></svg><span>Download all (.zip)</span>
+        </button>
+      </div>
+
+      <ul class="afx-list" id="afxList"></ul>
+    </section>
+
+    <footer class="afx-footer">
+      <svg class="afx-foot-ic"><use href="#i-spark"/></svg>
+      Structure preserved · numbers untouched · fuzzy &amp; untranslated cells captured in a “Translation Log” tab.
+    </footer>
+  </div>
+</div>

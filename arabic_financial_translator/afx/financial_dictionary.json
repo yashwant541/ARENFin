@@ -1,0 +1,5537 @@
+{
+  "_meta": {
+    "entry_count": 666,
+    "arabic_variant_count": 1510,
+    "categories": [
+      "assets",
+      "audit_governance",
+      "cash_flow",
+      "common",
+      "comprehensive_income",
+      "dates_periods",
+      "derivatives_treasury",
+      "equity",
+      "general_business",
+      "headers",
+      "income_statement",
+      "insurance_takaful",
+      "islamic_finance",
+      "liabilities",
+      "ratios",
+      "risk_capital",
+      "segments",
+      "statement_titles",
+      "tax_zakat",
+      "units"
+    ],
+    "note": "Arabic->English financial glossary. Keys matched on normalized Arabic."
+  },
+  "entries": [
+    {
+      "english": "Consolidated income statement",
+      "category": "statement_titles",
+      "arabic": [
+        "قائمة الدخل الموحدة",
+        "بيان الدخل الموحد",
+        "قائمة الدخل المجمعة"
+      ]
+    },
+    {
+      "english": "Income statement",
+      "category": "statement_titles",
+      "arabic": [
+        "قائمة الدخل",
+        "بيان الدخل"
+      ]
+    },
+    {
+      "english": "Statement of profit or loss",
+      "category": "statement_titles",
+      "arabic": [
+        "قائمة الأرباح أو الخسائر",
+        "قائمة الربح أو الخسارة"
+      ]
+    },
+    {
+      "english": "Consolidated statement of comprehensive income",
+      "category": "statement_titles",
+      "arabic": [
+        "قائمة الدخل الشامل الموحدة",
+        "قائمة الدخل الشامل الموحد"
+      ]
+    },
+    {
+      "english": "Statement of comprehensive income",
+      "category": "statement_titles",
+      "arabic": [
+        "قائمة الدخل الشامل",
+        "بيان الدخل الشامل"
+      ]
+    },
+    {
+      "english": "Consolidated balance sheet",
+      "category": "statement_titles",
+      "arabic": [
+        "الميزانية العمومية الموحدة",
+        "قائمة المركز المالي الموحدة",
+        "بيان المركز المالي الموحد"
+      ]
+    },
+    {
+      "english": "Balance sheet",
+      "category": "statement_titles",
+      "arabic": [
+        "الميزانية العمومية",
+        "قائمة المركز المالي",
+        "بيان المركز المالي"
+      ]
+    },
+    {
+      "english": "Statement of financial position",
+      "category": "statement_titles",
+      "arabic": [
+        "قائمة المركز المالي",
+        "بيان المركز المالي"
+      ]
+    },
+    {
+      "english": "Consolidated statement of cash flows",
+      "category": "statement_titles",
+      "arabic": [
+        "قائمة التدفقات النقدية الموحدة",
+        "بيان التدفقات النقدية الموحد"
+      ]
+    },
+    {
+      "english": "Statement of cash flows",
+      "category": "statement_titles",
+      "arabic": [
+        "قائمة التدفقات النقدية",
+        "بيان التدفقات النقدية",
+        "قائمة التدفق النقدي"
+      ]
+    },
+    {
+      "english": "Consolidated statement of changes in equity",
+      "category": "statement_titles",
+      "arabic": [
+        "قائمة التغيرات في حقوق الملكية الموحدة",
+        "قائمة التغيرات في حقوق المساهمين الموحدة"
+      ]
+    },
+    {
+      "english": "Statement of changes in equity",
+      "category": "statement_titles",
+      "arabic": [
+        "قائمة التغيرات في حقوق الملكية",
+        "قائمة التغيرات في حقوق المساهمين"
+      ]
+    },
+    {
+      "english": "Notes to the financial statements",
+      "category": "statement_titles",
+      "arabic": [
+        "الإيضاحات حول القوائم المالية",
+        "إيضاحات حول القوائم المالية",
+        "الإيضاحات المتممة للقوائم المالية"
+      ]
+    },
+    {
+      "english": "Trial balance",
+      "category": "statement_titles",
+      "arabic": [
+        "ميزان المراجعة"
+      ]
+    },
+    {
+      "english": "General ledger",
+      "category": "statement_titles",
+      "arabic": [
+        "دفتر الأستاذ العام",
+        "الأستاذ العام"
+      ]
+    },
+    {
+      "english": "Financial statements",
+      "category": "statement_titles",
+      "arabic": [
+        "القوائم المالية",
+        "البيانات المالية"
+      ]
+    },
+    {
+      "english": "Auditor's report",
+      "category": "statement_titles",
+      "arabic": [
+        "تقرير مراقب الحسابات",
+        "تقرير المدقق",
+        "تقرير المراجع"
+      ]
+    },
+    {
+      "english": "Condensed consolidated interim financial statements",
+      "category": "statement_titles",
+      "arabic": [
+        "القوائم المالية المرحلية الموحدة المختصرة",
+        "القوائم المالية المرحلية المختصرة الموحدة"
+      ]
+    },
+    {
+      "english": "Interim financial statements",
+      "category": "statement_titles",
+      "arabic": [
+        "القوائم المالية المرحلية",
+        "البيانات المالية المرحلية"
+      ]
+    },
+    {
+      "english": "Segmental information",
+      "category": "statement_titles",
+      "arabic": [
+        "المعلومات القطاعية",
+        "معلومات القطاعات",
+        "التقارير القطاعية"
+      ]
+    },
+    {
+      "english": "Directors' report",
+      "category": "statement_titles",
+      "arabic": [
+        "تقرير مجلس الإدارة",
+        "تقرير أعضاء مجلس الإدارة"
+      ]
+    },
+    {
+      "english": "Independent auditor's report",
+      "category": "statement_titles",
+      "arabic": [
+        "تقرير مراقب الحسابات المستقل",
+        "تقرير المدقق المستقل",
+        "تقرير المراجع المستقل"
+      ]
+    },
+    {
+      "english": "Statement of changes in shareholders' equity",
+      "category": "statement_titles",
+      "arabic": [
+        "قائمة التغيرات في حقوق المساهمين",
+        "بيان التغيرات في حقوق المساهمين"
+      ]
+    },
+    {
+      "english": "Notes",
+      "category": "statement_titles",
+      "arabic": [
+        "الإيضاحات",
+        "الملاحظات",
+        "إيضاحات"
+      ]
+    },
+    {
+      "english": "Accounting policies",
+      "category": "statement_titles",
+      "arabic": [
+        "السياسات المحاسبية",
+        "السياسات المحاسبية المتبعة"
+      ]
+    },
+    {
+      "english": "Significant accounting policies",
+      "category": "statement_titles",
+      "arabic": [
+        "السياسات المحاسبية الهامة",
+        "أهم السياسات المحاسبية",
+        "السياسات المحاسبية الرئيسية"
+      ]
+    },
+    {
+      "english": "Basis of preparation",
+      "category": "statement_titles",
+      "arabic": [
+        "أساس الإعداد",
+        "أسس الإعداد",
+        "أساس إعداد القوائم المالية"
+      ]
+    },
+    {
+      "english": "Basis of consolidation",
+      "category": "statement_titles",
+      "arabic": [
+        "أساس التوحيد",
+        "أسس توحيد القوائم المالية"
+      ]
+    },
+    {
+      "english": "Note",
+      "category": "headers",
+      "arabic": [
+        "إيضاح",
+        "ملاحظة",
+        "رقم الإيضاح"
+      ]
+    },
+    {
+      "english": "Notes",
+      "category": "headers",
+      "arabic": [
+        "إيضاحات",
+        "ملاحظات"
+      ]
+    },
+    {
+      "english": "Description",
+      "category": "headers",
+      "arabic": [
+        "البيان",
+        "الوصف",
+        "التفاصيل",
+        "البند"
+      ]
+    },
+    {
+      "english": "Item",
+      "category": "headers",
+      "arabic": [
+        "البند",
+        "العنصر"
+      ]
+    },
+    {
+      "english": "Total",
+      "category": "headers",
+      "arabic": [
+        "الإجمالي",
+        "المجموع",
+        "إجمالي",
+        "مجموع"
+      ]
+    },
+    {
+      "english": "Subtotal",
+      "category": "headers",
+      "arabic": [
+        "المجموع الفرعي",
+        "الإجمالي الفرعي"
+      ]
+    },
+    {
+      "english": "Grand total",
+      "category": "headers",
+      "arabic": [
+        "الإجمالي الكلي",
+        "المجموع الكلي"
+      ]
+    },
+    {
+      "english": "Change",
+      "category": "headers",
+      "arabic": [
+        "التغير",
+        "التغيير",
+        "الفرق"
+      ]
+    },
+    {
+      "english": "Change %",
+      "category": "headers",
+      "arabic": [
+        "نسبة التغير",
+        "التغير %",
+        "التغير بالنسبة المئوية"
+      ]
+    },
+    {
+      "english": "Amount",
+      "category": "headers",
+      "arabic": [
+        "المبلغ",
+        "القيمة"
+      ]
+    },
+    {
+      "english": "Balance",
+      "category": "headers",
+      "arabic": [
+        "الرصيد",
+        "الرصيد المتبقي"
+      ]
+    },
+    {
+      "english": "Opening balance",
+      "category": "headers",
+      "arabic": [
+        "الرصيد الافتتاحي",
+        "رصيد أول المدة",
+        "الرصيد أول الفترة"
+      ]
+    },
+    {
+      "english": "Closing balance",
+      "category": "headers",
+      "arabic": [
+        "الرصيد الختامي",
+        "رصيد آخر المدة",
+        "الرصيد آخر الفترة"
+      ]
+    },
+    {
+      "english": "Debit",
+      "category": "headers",
+      "arabic": [
+        "مدين"
+      ]
+    },
+    {
+      "english": "Credit",
+      "category": "headers",
+      "arabic": [
+        "دائن"
+      ]
+    },
+    {
+      "english": "Current year",
+      "category": "headers",
+      "arabic": [
+        "السنة الحالية",
+        "العام الحالي",
+        "السنة الجارية"
+      ]
+    },
+    {
+      "english": "Prior year",
+      "category": "headers",
+      "arabic": [
+        "السنة السابقة",
+        "العام السابق",
+        "السنة المقارنة"
+      ]
+    },
+    {
+      "english": "As at 31 December",
+      "category": "headers",
+      "arabic": [
+        "كما في 31 ديسمبر",
+        "كما في ٣١ ديسمبر",
+        "كما في 31 كانون الأول"
+      ]
+    },
+    {
+      "english": "For the year ended 31 December",
+      "category": "headers",
+      "arabic": [
+        "للسنة المنتهية في 31 ديسمبر",
+        "عن السنة المنتهية في 31 ديسمبر"
+      ]
+    },
+    {
+      "english": "For the period ended",
+      "category": "headers",
+      "arabic": [
+        "للفترة المنتهية في",
+        "عن الفترة المنتهية في"
+      ]
+    },
+    {
+      "english": "Year ended",
+      "category": "headers",
+      "arabic": [
+        "السنة المنتهية في",
+        "للسنة المنتهية في"
+      ]
+    },
+    {
+      "english": "Quarter",
+      "category": "headers",
+      "arabic": [
+        "الربع",
+        "ربع السنة"
+      ]
+    },
+    {
+      "english": "First quarter",
+      "category": "headers",
+      "arabic": [
+        "الربع الأول"
+      ]
+    },
+    {
+      "english": "Second quarter",
+      "category": "headers",
+      "arabic": [
+        "الربع الثاني"
+      ]
+    },
+    {
+      "english": "Third quarter",
+      "category": "headers",
+      "arabic": [
+        "الربع الثالث"
+      ]
+    },
+    {
+      "english": "Fourth quarter",
+      "category": "headers",
+      "arabic": [
+        "الربع الرابع"
+      ]
+    },
+    {
+      "english": "Audited",
+      "category": "headers",
+      "arabic": [
+        "مدققة",
+        "مراجعة",
+        "مدقّقة"
+      ]
+    },
+    {
+      "english": "Unaudited",
+      "category": "headers",
+      "arabic": [
+        "غير مدققة",
+        "غير مراجعة"
+      ]
+    },
+    {
+      "english": "Consolidated",
+      "category": "headers",
+      "arabic": [
+        "موحدة",
+        "موحد",
+        "مجمعة",
+        "المجمعة"
+      ]
+    },
+    {
+      "english": "Restated",
+      "category": "headers",
+      "arabic": [
+        "معاد إدراجها",
+        "معدلة",
+        "معاد بيانها"
+      ]
+    },
+    {
+      "english": "Interest income",
+      "category": "income_statement",
+      "arabic": [
+        "إيرادات الفوائد",
+        "دخل الفوائد",
+        "إيرادات فوائد"
+      ]
+    },
+    {
+      "english": "Interest expense",
+      "category": "income_statement",
+      "arabic": [
+        "مصروفات الفوائد",
+        "مصاريف الفوائد",
+        "أعباء الفوائد"
+      ]
+    },
+    {
+      "english": "Net interest income",
+      "category": "income_statement",
+      "arabic": [
+        "صافي إيرادات الفوائد",
+        "صافي دخل الفوائد"
+      ]
+    },
+    {
+      "english": "Income from Islamic financing",
+      "category": "income_statement",
+      "arabic": [
+        "إيرادات التمويل الإسلامي",
+        "دخل التمويل الإسلامي"
+      ]
+    },
+    {
+      "english": "Fees and commission income",
+      "category": "income_statement",
+      "arabic": [
+        "إيرادات الرسوم والعمولات",
+        "دخل الأتعاب والعمولات",
+        "إيرادات الأتعاب والعمولات"
+      ]
+    },
+    {
+      "english": "Fees and commission expense",
+      "category": "income_statement",
+      "arabic": [
+        "مصروفات الرسوم والعمولات",
+        "مصاريف الأتعاب والعمولات"
+      ]
+    },
+    {
+      "english": "Net fee and commission income",
+      "category": "income_statement",
+      "arabic": [
+        "صافي إيرادات الرسوم والعمولات",
+        "صافي دخل الأتعاب والعمولات"
+      ]
+    },
+    {
+      "english": "Net trading income",
+      "category": "income_statement",
+      "arabic": [
+        "صافي إيرادات المتاجرة",
+        "صافي دخل المتاجرة",
+        "صافي أرباح المتاجرة"
+      ]
+    },
+    {
+      "english": "Foreign exchange income",
+      "category": "income_statement",
+      "arabic": [
+        "إيرادات صرف العملات الأجنبية",
+        "أرباح العملات الأجنبية"
+      ]
+    },
+    {
+      "english": "Dividend income",
+      "category": "income_statement",
+      "arabic": [
+        "إيرادات توزيعات الأرباح",
+        "دخل توزيعات الأرباح"
+      ]
+    },
+    {
+      "english": "Other operating income",
+      "category": "income_statement",
+      "arabic": [
+        "إيرادات تشغيلية أخرى",
+        "دخل تشغيلي آخر",
+        "الإيرادات التشغيلية الأخرى"
+      ]
+    },
+    {
+      "english": "Operating income",
+      "category": "income_statement",
+      "arabic": [
+        "إيرادات التشغيل",
+        "الإيرادات التشغيلية",
+        "إجمالي الدخل التشغيلي",
+        "الدخل التشغيلي"
+      ]
+    },
+    {
+      "english": "Total operating income",
+      "category": "income_statement",
+      "arabic": [
+        "إجمالي الإيرادات التشغيلية",
+        "إجمالي الدخل التشغيلي"
+      ]
+    },
+    {
+      "english": "Staff costs",
+      "category": "income_statement",
+      "arabic": [
+        "تكاليف الموظفين",
+        "مصروفات الموظفين",
+        "تكاليف العاملين",
+        "نفقات الموظفين"
+      ]
+    },
+    {
+      "english": "Salaries and employee benefits",
+      "category": "income_statement",
+      "arabic": [
+        "الرواتب ومزايا الموظفين",
+        "الرواتب والمزايا"
+      ]
+    },
+    {
+      "english": "Premises costs",
+      "category": "income_statement",
+      "arabic": [
+        "تكاليف المباني",
+        "مصروفات المقرات",
+        "تكاليف المقر"
+      ]
+    },
+    {
+      "english": "General and administrative expenses",
+      "category": "income_statement",
+      "arabic": [
+        "المصروفات العمومية والإدارية",
+        "مصاريف عمومية وإدارية",
+        "المصاريف الإدارية والعمومية"
+      ]
+    },
+    {
+      "english": "Depreciation and amortisation",
+      "category": "income_statement",
+      "arabic": [
+        "الاستهلاك والإطفاء",
+        "الإهلاك والإطفاء"
+      ]
+    },
+    {
+      "english": "Operating expenses",
+      "category": "income_statement",
+      "arabic": [
+        "المصروفات التشغيلية",
+        "مصاريف التشغيل",
+        "إجمالي المصروفات التشغيلية"
+      ]
+    },
+    {
+      "english": "Total operating expenses",
+      "category": "income_statement",
+      "arabic": [
+        "إجمالي المصروفات التشغيلية",
+        "إجمالي مصاريف التشغيل"
+      ]
+    },
+    {
+      "english": "Operating profit before impairment losses and taxation",
+      "category": "income_statement",
+      "arabic": [
+        "الربح التشغيلي قبل خسائر انخفاض القيمة والضرائب",
+        "الأرباح التشغيلية قبل مخصصات انخفاض القيمة والضريبة"
+      ]
+    },
+    {
+      "english": "Credit impairment",
+      "category": "income_statement",
+      "arabic": [
+        "مخصص انخفاض قيمة الائتمان",
+        "خسائر انخفاض القيمة الائتمانية",
+        "مخصص خسائر الائتمان"
+      ]
+    },
+    {
+      "english": "Impairment charge",
+      "category": "income_statement",
+      "arabic": [
+        "مصروف انخفاض القيمة",
+        "عبء انخفاض القيمة"
+      ]
+    },
+    {
+      "english": "Expected credit losses",
+      "category": "income_statement",
+      "arabic": [
+        "الخسائر الائتمانية المتوقعة",
+        "خسائر الائتمان المتوقعة"
+      ]
+    },
+    {
+      "english": "Provision for credit losses",
+      "category": "income_statement",
+      "arabic": [
+        "مخصص خسائر الائتمان",
+        "مخصص خسائر القروض"
+      ]
+    },
+    {
+      "english": "Other impairment",
+      "category": "income_statement",
+      "arabic": [
+        "انخفاض قيمة أخرى",
+        "خسائر انخفاض قيمة أخرى"
+      ]
+    },
+    {
+      "english": "Goodwill impairment",
+      "category": "income_statement",
+      "arabic": [
+        "انخفاض قيمة الشهرة",
+        "خسارة انخفاض قيمة الشهرة"
+      ]
+    },
+    {
+      "english": "Share of profit from associates and joint ventures",
+      "category": "income_statement",
+      "arabic": [
+        "الحصة من أرباح الشركات الزميلة والمشاريع المشتركة",
+        "حصة من نتائج الشركات الزميلة"
+      ]
+    },
+    {
+      "english": "Profit before taxation",
+      "category": "income_statement",
+      "arabic": [
+        "الربح قبل الضريبة",
+        "الربح قبل الضرائب",
+        "صافي الربح قبل الضريبة",
+        "الأرباح قبل الضريبة"
+      ]
+    },
+    {
+      "english": "Taxation",
+      "category": "income_statement",
+      "arabic": [
+        "الضريبة",
+        "الضرائب",
+        "مصروف الضريبة",
+        "ضريبة الدخل"
+      ]
+    },
+    {
+      "english": "Income tax expense",
+      "category": "income_statement",
+      "arabic": [
+        "مصروف ضريبة الدخل",
+        "مصروف الضريبة على الدخل"
+      ]
+    },
+    {
+      "english": "Zakat",
+      "category": "income_statement",
+      "arabic": [
+        "الزكاة",
+        "مصروف الزكاة"
+      ]
+    },
+    {
+      "english": "Zakat and income tax",
+      "category": "income_statement",
+      "arabic": [
+        "الزكاة وضريبة الدخل",
+        "الزكاة والضريبة"
+      ]
+    },
+    {
+      "english": "Profit for the year",
+      "category": "income_statement",
+      "arabic": [
+        "ربح السنة",
+        "صافي ربح السنة",
+        "الربح للسنة",
+        "صافي الربح للسنة"
+      ]
+    },
+    {
+      "english": "Profit for the period",
+      "category": "income_statement",
+      "arabic": [
+        "ربح الفترة",
+        "صافي ربح الفترة",
+        "الربح للفترة"
+      ]
+    },
+    {
+      "english": "Net profit",
+      "category": "income_statement",
+      "arabic": [
+        "صافي الربح",
+        "صافي الأرباح"
+      ]
+    },
+    {
+      "english": "Net loss",
+      "category": "income_statement",
+      "arabic": [
+        "صافي الخسارة",
+        "صافي الخسائر"
+      ]
+    },
+    {
+      "english": "Profit attributable to shareholders",
+      "category": "income_statement",
+      "arabic": [
+        "الربح العائد للمساهمين",
+        "الأرباح العائدة للمساهمين"
+      ]
+    },
+    {
+      "english": "Profit attributable to equity holders",
+      "category": "income_statement",
+      "arabic": [
+        "الربح العائد لحملة حقوق الملكية",
+        "الربح العائد لأصحاب حقوق الملكية"
+      ]
+    },
+    {
+      "english": "Profit attributable to parent company shareholders",
+      "category": "income_statement",
+      "arabic": [
+        "الربح العائد لمساهمي الشركة الأم"
+      ]
+    },
+    {
+      "english": "Non-controlling interests",
+      "category": "income_statement",
+      "arabic": [
+        "الحقوق غير المسيطرة",
+        "حقوق الأقلية",
+        "حصص غير مسيطرة"
+      ]
+    },
+    {
+      "english": "Basic earnings per share",
+      "category": "income_statement",
+      "arabic": [
+        "ربحية السهم الأساسية",
+        "العائد الأساسي للسهم",
+        "ربح السهم الأساسي"
+      ]
+    },
+    {
+      "english": "Diluted earnings per share",
+      "category": "income_statement",
+      "arabic": [
+        "ربحية السهم المخفضة",
+        "العائد المخفض للسهم",
+        "ربح السهم المخفض"
+      ]
+    },
+    {
+      "english": "Earnings per share",
+      "category": "income_statement",
+      "arabic": [
+        "ربحية السهم",
+        "العائد على السهم",
+        "ربح السهم"
+      ]
+    },
+    {
+      "english": "Revenue",
+      "category": "income_statement",
+      "arabic": [
+        "الإيرادات",
+        "الإيراد",
+        "المبيعات"
+      ]
+    },
+    {
+      "english": "Revenue from contracts with customers",
+      "category": "income_statement",
+      "arabic": [
+        "الإيرادات من العقود مع العملاء",
+        "إيرادات العقود مع العملاء"
+      ]
+    },
+    {
+      "english": "Sales",
+      "category": "income_statement",
+      "arabic": [
+        "المبيعات",
+        "إيرادات المبيعات"
+      ]
+    },
+    {
+      "english": "Cost of sales",
+      "category": "income_statement",
+      "arabic": [
+        "تكلفة المبيعات",
+        "تكلفة المبيعات المباعة"
+      ]
+    },
+    {
+      "english": "Cost of revenue",
+      "category": "income_statement",
+      "arabic": [
+        "تكلفة الإيرادات",
+        "تكلفة الإيراد"
+      ]
+    },
+    {
+      "english": "Cost of goods sold",
+      "category": "income_statement",
+      "arabic": [
+        "تكلفة البضاعة المباعة",
+        "تكلفة البضائع المباعة"
+      ]
+    },
+    {
+      "english": "Gross profit",
+      "category": "income_statement",
+      "arabic": [
+        "مجمل الربح",
+        "إجمالي الربح",
+        "الربح الإجمالي"
+      ]
+    },
+    {
+      "english": "Operating profit",
+      "category": "income_statement",
+      "arabic": [
+        "الربح التشغيلي",
+        "ربح التشغيل",
+        "الأرباح التشغيلية"
+      ]
+    },
+    {
+      "english": "Selling and distribution expenses",
+      "category": "income_statement",
+      "arabic": [
+        "مصاريف البيع والتوزيع",
+        "مصروفات البيع والتوزيع"
+      ]
+    },
+    {
+      "english": "Marketing expenses",
+      "category": "income_statement",
+      "arabic": [
+        "مصاريف التسويق",
+        "مصروفات التسويق والإعلان"
+      ]
+    },
+    {
+      "english": "Finance costs",
+      "category": "income_statement",
+      "arabic": [
+        "تكاليف التمويل",
+        "أعباء التمويل",
+        "تكاليف تمويلية"
+      ]
+    },
+    {
+      "english": "Finance income",
+      "category": "income_statement",
+      "arabic": [
+        "إيرادات التمويل",
+        "إيرادات تمويلية",
+        "دخل التمويل"
+      ]
+    },
+    {
+      "english": "Other income",
+      "category": "income_statement",
+      "arabic": [
+        "إيرادات أخرى",
+        "دخل آخر",
+        "الإيرادات الأخرى"
+      ]
+    },
+    {
+      "english": "Other expenses",
+      "category": "income_statement",
+      "arabic": [
+        "مصاريف أخرى",
+        "مصروفات أخرى",
+        "المصاريف الأخرى"
+      ]
+    },
+    {
+      "english": "Gain on sale of investments",
+      "category": "income_statement",
+      "arabic": [
+        "الأرباح من بيع الاستثمارات",
+        "أرباح بيع الاستثمارات",
+        "مكاسب بيع الاستثمارات"
+      ]
+    },
+    {
+      "english": "Loss on sale of investments",
+      "category": "income_statement",
+      "arabic": [
+        "الخسائر من بيع الاستثمارات",
+        "خسائر بيع الاستثمارات"
+      ]
+    },
+    {
+      "english": "Gain on disposal of property and equipment",
+      "category": "income_statement",
+      "arabic": [
+        "أرباح بيع الممتلكات والمعدات",
+        "مكاسب استبعاد الممتلكات والمعدات"
+      ]
+    },
+    {
+      "english": "Net gain from financial instruments at fair value",
+      "category": "income_statement",
+      "arabic": [
+        "صافي الأرباح من الأدوات المالية بالقيمة العادلة"
+      ]
+    },
+    {
+      "english": "Realised gains",
+      "category": "income_statement",
+      "arabic": [
+        "الأرباح المحققة",
+        "المكاسب المحققة"
+      ]
+    },
+    {
+      "english": "Unrealised gains",
+      "category": "income_statement",
+      "arabic": [
+        "الأرباح غير المحققة",
+        "المكاسب غير المحققة"
+      ]
+    },
+    {
+      "english": "Impairment reversal",
+      "category": "income_statement",
+      "arabic": [
+        "عكس انخفاض القيمة",
+        "رد مخصص انخفاض القيمة",
+        "استرداد انخفاض القيمة"
+      ]
+    },
+    {
+      "english": "Provisions no longer required",
+      "category": "income_statement",
+      "arabic": [
+        "المخصصات المستردة",
+        "مخصصات لم تعد مطلوبة"
+      ]
+    },
+    {
+      "english": "Rental income",
+      "category": "income_statement",
+      "arabic": [
+        "إيرادات الإيجار",
+        "دخل الإيجارات"
+      ]
+    },
+    {
+      "english": "Government grants",
+      "category": "income_statement",
+      "arabic": [
+        "المنح الحكومية",
+        "الإعانات الحكومية"
+      ]
+    },
+    {
+      "english": "Loss for the year",
+      "category": "income_statement",
+      "arabic": [
+        "خسارة السنة",
+        "صافي خسارة السنة",
+        "الخسارة للسنة"
+      ]
+    },
+    {
+      "english": "Total income",
+      "category": "income_statement",
+      "arabic": [
+        "إجمالي الدخل",
+        "مجموع الإيرادات",
+        "إجمالي الإيرادات"
+      ]
+    },
+    {
+      "english": "Profit before Zakat and tax",
+      "category": "income_statement",
+      "arabic": [
+        "الربح قبل الزكاة والضريبة",
+        "صافي الربح قبل الزكاة والضريبة"
+      ]
+    },
+    {
+      "english": "Net profit for the year",
+      "category": "income_statement",
+      "arabic": [
+        "صافي ربح السنة",
+        "صافي الربح للسنة"
+      ]
+    },
+    {
+      "english": "Net profit attributable to owners of the parent",
+      "category": "income_statement",
+      "arabic": [
+        "صافي الربح العائد لمالكي الشركة الأم",
+        "الربح العائد لمساهمي الشركة الأم"
+      ]
+    },
+    {
+      "english": "Other comprehensive income",
+      "category": "comprehensive_income",
+      "arabic": [
+        "الدخل الشامل الآخر",
+        "الإيرادات الشاملة الأخرى"
+      ]
+    },
+    {
+      "english": "Items that may be reclassified to income statement",
+      "category": "comprehensive_income",
+      "arabic": [
+        "البنود التي قد يعاد تصنيفها إلى قائمة الدخل",
+        "بنود يمكن إعادة تصنيفها لاحقاً إلى الأرباح أو الخسائر"
+      ]
+    },
+    {
+      "english": "Items that will not be reclassified to income statement",
+      "category": "comprehensive_income",
+      "arabic": [
+        "البنود التي لن يعاد تصنيفها إلى قائمة الدخل",
+        "بنود لن يعاد تصنيفها إلى الأرباح أو الخسائر"
+      ]
+    },
+    {
+      "english": "Exchange differences on translation of foreign operations",
+      "category": "comprehensive_income",
+      "arabic": [
+        "فروق ترجمة العمليات الأجنبية",
+        "فروق تحويل العمليات الأجنبية"
+      ]
+    },
+    {
+      "english": "Cash flow hedges",
+      "category": "comprehensive_income",
+      "arabic": [
+        "تحوطات التدفقات النقدية",
+        "تحوط التدفق النقدي"
+      ]
+    },
+    {
+      "english": "Actuarial gain/(loss) on retirement benefit obligations",
+      "category": "comprehensive_income",
+      "arabic": [
+        "الأرباح/(الخسائر) الاكتوارية على التزامات مكافآت التقاعد"
+      ]
+    },
+    {
+      "english": "Revaluation surplus",
+      "category": "comprehensive_income",
+      "arabic": [
+        "فائض إعادة التقييم",
+        "احتياطي إعادة التقييم"
+      ]
+    },
+    {
+      "english": "Total comprehensive income for the year",
+      "category": "comprehensive_income",
+      "arabic": [
+        "إجمالي الدخل الشامل للسنة",
+        "مجموع الدخل الشامل للسنة"
+      ]
+    },
+    {
+      "english": "Total comprehensive income attributable to shareholders",
+      "category": "comprehensive_income",
+      "arabic": [
+        "إجمالي الدخل الشامل العائد للمساهمين",
+        "مجموع الدخل الشامل العائد للمساهمين"
+      ]
+    },
+    {
+      "english": "Net change in fair value of investments",
+      "category": "comprehensive_income",
+      "arabic": [
+        "صافي التغير في القيمة العادلة للاستثمارات",
+        "التغير في القيمة العادلة للاستثمارات"
+      ]
+    },
+    {
+      "english": "Net movement in cash flow hedge reserve",
+      "category": "comprehensive_income",
+      "arabic": [
+        "صافي الحركة في احتياطي تحوط التدفقات النقدية"
+      ]
+    },
+    {
+      "english": "Remeasurement of defined benefit obligations",
+      "category": "comprehensive_income",
+      "arabic": [
+        "إعادة قياس التزامات المنافع المحددة",
+        "إعادة قياس مكافآت نهاية الخدمة"
+      ]
+    },
+    {
+      "english": "Share of other comprehensive income of associates",
+      "category": "comprehensive_income",
+      "arabic": [
+        "الحصة من الدخل الشامل الآخر للشركات الزميلة"
+      ]
+    },
+    {
+      "english": "Assets",
+      "category": "assets",
+      "arabic": [
+        "الأصول",
+        "الموجودات"
+      ]
+    },
+    {
+      "english": "Cash and balances at central banks",
+      "category": "assets",
+      "arabic": [
+        "النقد والأرصدة لدى البنوك المركزية",
+        "النقد والأرصدة لدى المصارف المركزية",
+        "نقد وأرصدة لدى البنك المركزي"
+      ]
+    },
+    {
+      "english": "Cash and cash equivalents",
+      "category": "assets",
+      "arabic": [
+        "النقد وما في حكمه",
+        "النقدية وما يعادلها",
+        "النقد وما يعادله"
+      ]
+    },
+    {
+      "english": "Due from banks",
+      "category": "assets",
+      "arabic": [
+        "مستحق من البنوك",
+        "المستحق من المصارف",
+        "أرصدة لدى البنوك"
+      ]
+    },
+    {
+      "english": "Loans and advances to banks",
+      "category": "assets",
+      "arabic": [
+        "القروض والسلف للبنوك",
+        "قروض وسلف للمصارف"
+      ]
+    },
+    {
+      "english": "Loans and advances to customers",
+      "category": "assets",
+      "arabic": [
+        "القروض والسلف للعملاء",
+        "قروض وسلف للعملاء",
+        "القروض والتسليفات للعملاء"
+      ]
+    },
+    {
+      "english": "Loans and advances",
+      "category": "assets",
+      "arabic": [
+        "القروض والسلف",
+        "القروض والتسليفات",
+        "التسهيلات الائتمانية"
+      ]
+    },
+    {
+      "english": "Islamic financing and investing assets",
+      "category": "assets",
+      "arabic": [
+        "أصول التمويل والاستثمار الإسلامية",
+        "موجودات التمويل الإسلامي"
+      ]
+    },
+    {
+      "english": "Financial assets held at fair value through profit or loss",
+      "category": "assets",
+      "arabic": [
+        "الأصول المالية بالقيمة العادلة من خلال الأرباح أو الخسائر",
+        "موجودات مالية بالقيمة العادلة من خلال الربح أو الخسارة"
+      ]
+    },
+    {
+      "english": "Financial assets at fair value through other comprehensive income",
+      "category": "assets",
+      "arabic": [
+        "الأصول المالية بالقيمة العادلة من خلال الدخل الشامل الآخر"
+      ]
+    },
+    {
+      "english": "Derivative financial instruments",
+      "category": "assets",
+      "arabic": [
+        "الأدوات المالية المشتقة",
+        "المشتقات المالية",
+        "أدوات مالية مشتقة"
+      ]
+    },
+    {
+      "english": "Investment securities",
+      "category": "assets",
+      "arabic": [
+        "الأوراق المالية الاستثمارية",
+        "استثمارات في أوراق مالية",
+        "الاستثمارات في الأوراق المالية"
+      ]
+    },
+    {
+      "english": "Investments",
+      "category": "assets",
+      "arabic": [
+        "الاستثمارات",
+        "استثمارات"
+      ]
+    },
+    {
+      "english": "Investment in associates and joint ventures",
+      "category": "assets",
+      "arabic": [
+        "الاستثمار في الشركات الزميلة والمشاريع المشتركة",
+        "استثمارات في شركات زميلة ومشاريع مشتركة"
+      ]
+    },
+    {
+      "english": "Investment properties",
+      "category": "assets",
+      "arabic": [
+        "العقارات الاستثمارية",
+        "الاستثمارات العقارية"
+      ]
+    },
+    {
+      "english": "Property, plant and equipment",
+      "category": "assets",
+      "arabic": [
+        "الممتلكات والآلات والمعدات",
+        "الممتلكات والمعدات",
+        "العقارات والآلات والمعدات"
+      ]
+    },
+    {
+      "english": "Property and equipment",
+      "category": "assets",
+      "arabic": [
+        "الممتلكات والمعدات",
+        "العقارات والمعدات"
+      ]
+    },
+    {
+      "english": "Right-of-use assets",
+      "category": "assets",
+      "arabic": [
+        "أصول حق الاستخدام",
+        "موجودات حق الاستخدام"
+      ]
+    },
+    {
+      "english": "Goodwill",
+      "category": "assets",
+      "arabic": [
+        "الشهرة",
+        "شهرة"
+      ]
+    },
+    {
+      "english": "Goodwill and intangible assets",
+      "category": "assets",
+      "arabic": [
+        "الشهرة والأصول غير الملموسة",
+        "الشهرة والموجودات غير الملموسة"
+      ]
+    },
+    {
+      "english": "Intangible assets",
+      "category": "assets",
+      "arabic": [
+        "الأصول غير الملموسة",
+        "الموجودات غير الملموسة",
+        "الأصول المعنوية"
+      ]
+    },
+    {
+      "english": "Deferred tax assets",
+      "category": "assets",
+      "arabic": [
+        "الأصول الضريبية المؤجلة",
+        "موجودات ضريبية مؤجلة",
+        "الضريبة المؤجلة - أصول"
+      ]
+    },
+    {
+      "english": "Current tax assets",
+      "category": "assets",
+      "arabic": [
+        "الأصول الضريبية المتداولة",
+        "موجودات ضريبية متداولة"
+      ]
+    },
+    {
+      "english": "Other assets",
+      "category": "assets",
+      "arabic": [
+        "أصول أخرى",
+        "موجودات أخرى",
+        "الأصول الأخرى"
+      ]
+    },
+    {
+      "english": "Prepayments and accrued income",
+      "category": "assets",
+      "arabic": [
+        "المصروفات المدفوعة مقدماً والإيرادات المستحقة",
+        "مصاريف مدفوعة مقدماً وإيرادات مستحقة"
+      ]
+    },
+    {
+      "english": "Assets held for sale",
+      "category": "assets",
+      "arabic": [
+        "الأصول المحتفظ بها للبيع",
+        "الموجودات المحتفظ بها بغرض البيع"
+      ]
+    },
+    {
+      "english": "Inventory",
+      "category": "assets",
+      "arabic": [
+        "المخزون",
+        "البضاعة"
+      ]
+    },
+    {
+      "english": "Trade receivables",
+      "category": "assets",
+      "arabic": [
+        "الذمم المدينة التجارية",
+        "المدينون التجاريون",
+        "ذمم مدينة تجارية"
+      ]
+    },
+    {
+      "english": "Accounts receivable",
+      "category": "assets",
+      "arabic": [
+        "الذمم المدينة",
+        "المدينون",
+        "الحسابات المدينة"
+      ]
+    },
+    {
+      "english": "Total assets",
+      "category": "assets",
+      "arabic": [
+        "إجمالي الأصول",
+        "مجموع الأصول",
+        "إجمالي الموجودات",
+        "مجموع الموجودات"
+      ]
+    },
+    {
+      "english": "Current assets",
+      "category": "assets",
+      "arabic": [
+        "الأصول المتداولة",
+        "الموجودات المتداولة"
+      ]
+    },
+    {
+      "english": "Non-current assets",
+      "category": "assets",
+      "arabic": [
+        "الأصول غير المتداولة",
+        "الموجودات غير المتداولة"
+      ]
+    },
+    {
+      "english": "Total current assets",
+      "category": "assets",
+      "arabic": [
+        "إجمالي الأصول المتداولة",
+        "مجموع الموجودات المتداولة"
+      ]
+    },
+    {
+      "english": "Total non-current assets",
+      "category": "assets",
+      "arabic": [
+        "إجمالي الأصول غير المتداولة",
+        "مجموع الموجودات غير المتداولة"
+      ]
+    },
+    {
+      "english": "Statutory deposit with central bank",
+      "category": "assets",
+      "arabic": [
+        "الوديعة النظامية لدى البنك المركزي",
+        "الاحتياطي النظامي لدى المصرف المركزي",
+        "الوديعة الإلزامية لدى البنك المركزي"
+      ]
+    },
+    {
+      "english": "Mandatory reserve deposit",
+      "category": "assets",
+      "arabic": [
+        "الاحتياطي الإلزامي",
+        "وديعة الاحتياطي الإلزامي"
+      ]
+    },
+    {
+      "english": "Balances with central banks",
+      "category": "assets",
+      "arabic": [
+        "الأرصدة لدى البنوك المركزية",
+        "أرصدة لدى المصارف المركزية"
+      ]
+    },
+    {
+      "english": "Balances with banks",
+      "category": "assets",
+      "arabic": [
+        "الأرصدة لدى البنوك",
+        "أرصدة لدى المصارف",
+        "أرصدة لدى بنوك"
+      ]
+    },
+    {
+      "english": "Placements with banks",
+      "category": "assets",
+      "arabic": [
+        "الإيداعات لدى البنوك",
+        "إيداعات لدى المصارف"
+      ]
+    },
+    {
+      "english": "Reverse repurchase agreements",
+      "category": "assets",
+      "arabic": [
+        "اتفاقيات إعادة الشراء العكسي",
+        "اتفاقات إعادة الشراء العكسية"
+      ]
+    },
+    {
+      "english": "Precious metals",
+      "category": "assets",
+      "arabic": [
+        "المعادن الثمينة",
+        "معادن ثمينة"
+      ]
+    },
+    {
+      "english": "Bills discounted",
+      "category": "assets",
+      "arabic": [
+        "الكمبيالات المخصومة",
+        "أوراق القبض المخصومة"
+      ]
+    },
+    {
+      "english": "Customers' acceptances",
+      "category": "assets",
+      "arabic": [
+        "قبولات العملاء",
+        "القبولات المصرفية للعملاء"
+      ]
+    },
+    {
+      "english": "Financial investments",
+      "category": "assets",
+      "arabic": [
+        "الاستثمارات المالية",
+        "استثمارات مالية"
+      ]
+    },
+    {
+      "english": "Financial assets at amortised cost",
+      "category": "assets",
+      "arabic": [
+        "الأصول المالية بالتكلفة المطفأة",
+        "موجودات مالية بالتكلفة المطفأة"
+      ]
+    },
+    {
+      "english": "Available-for-sale investments",
+      "category": "assets",
+      "arabic": [
+        "الاستثمارات المتاحة للبيع",
+        "استثمارات متاحة للبيع"
+      ]
+    },
+    {
+      "english": "Held-to-maturity investments",
+      "category": "assets",
+      "arabic": [
+        "الاستثمارات المحتفظ بها حتى تاريخ الاستحقاق",
+        "استثمارات محتفظ بها حتى الاستحقاق"
+      ]
+    },
+    {
+      "english": "Trading investments",
+      "category": "assets",
+      "arabic": [
+        "استثمارات المتاجرة",
+        "الاستثمارات المحتفظ بها للمتاجرة",
+        "محفظة المتاجرة"
+      ]
+    },
+    {
+      "english": "Equity investments",
+      "category": "assets",
+      "arabic": [
+        "الاستثمارات في الأسهم",
+        "استثمارات في أدوات حقوق الملكية"
+      ]
+    },
+    {
+      "english": "Debt investments",
+      "category": "assets",
+      "arabic": [
+        "الاستثمارات في أدوات الدين",
+        "استثمارات في سندات الدين"
+      ]
+    },
+    {
+      "english": "Sukuk investments",
+      "category": "assets",
+      "arabic": [
+        "الاستثمارات في الصكوك",
+        "استثمارات في صكوك"
+      ]
+    },
+    {
+      "english": "Investment in subsidiaries",
+      "category": "assets",
+      "arabic": [
+        "الاستثمار في الشركات التابعة",
+        "استثمارات في شركات تابعة"
+      ]
+    },
+    {
+      "english": "Investment in associates",
+      "category": "assets",
+      "arabic": [
+        "الاستثمار في الشركات الزميلة",
+        "استثمارات في شركات زميلة"
+      ]
+    },
+    {
+      "english": "Land",
+      "category": "assets",
+      "arabic": [
+        "الأراضي",
+        "أراضي"
+      ]
+    },
+    {
+      "english": "Buildings",
+      "category": "assets",
+      "arabic": [
+        "المباني",
+        "مبانٍ",
+        "العقارات"
+      ]
+    },
+    {
+      "english": "Furniture and fixtures",
+      "category": "assets",
+      "arabic": [
+        "الأثاث والتجهيزات",
+        "الأثاث والمفروشات"
+      ]
+    },
+    {
+      "english": "Motor vehicles",
+      "category": "assets",
+      "arabic": [
+        "السيارات",
+        "المركبات",
+        "وسائل النقل"
+      ]
+    },
+    {
+      "english": "Office equipment",
+      "category": "assets",
+      "arabic": [
+        "المعدات المكتبية",
+        "معدات المكتب",
+        "الأجهزة المكتبية"
+      ]
+    },
+    {
+      "english": "Computer equipment and software",
+      "category": "assets",
+      "arabic": [
+        "أجهزة وبرامج الحاسب الآلي",
+        "الحاسبات الآلية والبرامج"
+      ]
+    },
+    {
+      "english": "Capital work in progress",
+      "category": "assets",
+      "arabic": [
+        "الأعمال الرأسمالية تحت التنفيذ",
+        "مشاريع تحت التنفيذ",
+        "أعمال تحت التنفيذ"
+      ]
+    },
+    {
+      "english": "Leasehold improvements",
+      "category": "assets",
+      "arabic": [
+        "تحسينات على عقارات مستأجرة",
+        "تحسينات المأجور",
+        "التحسينات على المباني المستأجرة"
+      ]
+    },
+    {
+      "english": "Net book value",
+      "category": "assets",
+      "arabic": [
+        "صافي القيمة الدفترية",
+        "القيمة الدفترية الصافية"
+      ]
+    },
+    {
+      "english": "Accrued income",
+      "category": "assets",
+      "arabic": [
+        "الإيرادات المستحقة",
+        "الدخل المستحق"
+      ]
+    },
+    {
+      "english": "Prepaid expenses",
+      "category": "assets",
+      "arabic": [
+        "المصاريف المدفوعة مقدماً",
+        "مصروفات مدفوعة مقدماً"
+      ]
+    },
+    {
+      "english": "Advances and prepayments",
+      "category": "assets",
+      "arabic": [
+        "السلف والدفعات المقدمة",
+        "الدفعات المقدمة والسلف"
+      ]
+    },
+    {
+      "english": "Due from related parties",
+      "category": "assets",
+      "arabic": [
+        "المستحق من الأطراف ذات العلاقة",
+        "أرصدة مدينة لأطراف ذات علاقة"
+      ]
+    },
+    {
+      "english": "Financing to customers",
+      "category": "assets",
+      "arabic": [
+        "التمويل للعملاء",
+        "التمويلات للعملاء",
+        "التمويل الممنوح للعملاء"
+      ]
+    },
+    {
+      "english": "Liabilities",
+      "category": "liabilities",
+      "arabic": [
+        "المطلوبات",
+        "الخصوم",
+        "الالتزامات"
+      ]
+    },
+    {
+      "english": "Deposits by banks",
+      "category": "liabilities",
+      "arabic": [
+        "ودائع البنوك",
+        "ودائع المصارف",
+        "المستحق للبنوك"
+      ]
+    },
+    {
+      "english": "Due to banks",
+      "category": "liabilities",
+      "arabic": [
+        "مستحق للبنوك",
+        "المستحق للمصارف"
+      ]
+    },
+    {
+      "english": "Customer accounts",
+      "category": "liabilities",
+      "arabic": [
+        "حسابات العملاء",
+        "ودائع العملاء",
+        "حسابات الزبائن"
+      ]
+    },
+    {
+      "english": "Customer deposits",
+      "category": "liabilities",
+      "arabic": [
+        "ودائع العملاء",
+        "ودائع الزبائن"
+      ]
+    },
+    {
+      "english": "Repurchase agreements",
+      "category": "liabilities",
+      "arabic": [
+        "اتفاقيات إعادة الشراء",
+        "اتفاقات إعادة الشراء"
+      ]
+    },
+    {
+      "english": "Financial liabilities held at fair value through profit or loss",
+      "category": "liabilities",
+      "arabic": [
+        "المطلوبات المالية بالقيمة العادلة من خلال الأرباح أو الخسائر",
+        "خصوم مالية بالقيمة العادلة من خلال الربح أو الخسارة"
+      ]
+    },
+    {
+      "english": "Debt securities in issue",
+      "category": "liabilities",
+      "arabic": [
+        "سندات الدين المصدرة",
+        "أوراق الدين المصدرة",
+        "السندات المصدرة"
+      ]
+    },
+    {
+      "english": "Subordinated liabilities",
+      "category": "liabilities",
+      "arabic": [
+        "المطلوبات الثانوية",
+        "القروض المساندة",
+        "الخصوم المساندة"
+      ]
+    },
+    {
+      "english": "Subordinated liabilities and other borrowed funds",
+      "category": "liabilities",
+      "arabic": [
+        "المطلوبات الثانوية والأموال المقترضة الأخرى"
+      ]
+    },
+    {
+      "english": "Borrowings",
+      "category": "liabilities",
+      "arabic": [
+        "القروض",
+        "الاقتراضات",
+        "التمويلات"
+      ]
+    },
+    {
+      "english": "Lease liabilities",
+      "category": "liabilities",
+      "arabic": [
+        "التزامات الإيجار",
+        "مطلوبات عقود الإيجار"
+      ]
+    },
+    {
+      "english": "Provisions",
+      "category": "liabilities",
+      "arabic": [
+        "المخصصات",
+        "مخصصات"
+      ]
+    },
+    {
+      "english": "Provisions for liabilities and charges",
+      "category": "liabilities",
+      "arabic": [
+        "مخصصات المطلوبات والأعباء",
+        "مخصصات الالتزامات والمصاريف"
+      ]
+    },
+    {
+      "english": "Employee benefit obligations",
+      "category": "liabilities",
+      "arabic": [
+        "التزامات مكافآت الموظفين",
+        "مخصص مكافأة نهاية الخدمة",
+        "التزامات منافع الموظفين"
+      ]
+    },
+    {
+      "english": "End of service benefits",
+      "category": "liabilities",
+      "arabic": [
+        "مكافأة نهاية الخدمة",
+        "مخصص نهاية الخدمة"
+      ]
+    },
+    {
+      "english": "Deferred tax liabilities",
+      "category": "liabilities",
+      "arabic": [
+        "المطلوبات الضريبية المؤجلة",
+        "خصوم ضريبية مؤجلة",
+        "الضريبة المؤجلة - التزامات"
+      ]
+    },
+    {
+      "english": "Current tax liabilities",
+      "category": "liabilities",
+      "arabic": [
+        "المطلوبات الضريبية المتداولة",
+        "خصوم ضريبية متداولة",
+        "مخصص ضريبة الدخل"
+      ]
+    },
+    {
+      "english": "Trade payables",
+      "category": "liabilities",
+      "arabic": [
+        "الذمم الدائنة التجارية",
+        "الدائنون التجاريون",
+        "ذمم دائنة تجارية"
+      ]
+    },
+    {
+      "english": "Accounts payable",
+      "category": "liabilities",
+      "arabic": [
+        "الذمم الدائنة",
+        "الدائنون",
+        "الحسابات الدائنة"
+      ]
+    },
+    {
+      "english": "Accruals and deferred income",
+      "category": "liabilities",
+      "arabic": [
+        "المصروفات المستحقة والإيرادات المؤجلة",
+        "مصاريف مستحقة وإيرادات مؤجلة"
+      ]
+    },
+    {
+      "english": "Other liabilities",
+      "category": "liabilities",
+      "arabic": [
+        "مطلوبات أخرى",
+        "خصوم أخرى",
+        "التزامات أخرى",
+        "المطلوبات الأخرى"
+      ]
+    },
+    {
+      "english": "Liabilities held for sale",
+      "category": "liabilities",
+      "arabic": [
+        "المطلوبات المحتفظ بها للبيع",
+        "الخصوم المحتفظ بها بغرض البيع"
+      ]
+    },
+    {
+      "english": "Total liabilities",
+      "category": "liabilities",
+      "arabic": [
+        "إجمالي المطلوبات",
+        "مجموع المطلوبات",
+        "إجمالي الخصوم",
+        "مجموع الالتزامات"
+      ]
+    },
+    {
+      "english": "Current liabilities",
+      "category": "liabilities",
+      "arabic": [
+        "المطلوبات المتداولة",
+        "الخصوم المتداولة",
+        "الالتزامات المتداولة"
+      ]
+    },
+    {
+      "english": "Non-current liabilities",
+      "category": "liabilities",
+      "arabic": [
+        "المطلوبات غير المتداولة",
+        "الخصوم غير المتداولة"
+      ]
+    },
+    {
+      "english": "Total current liabilities",
+      "category": "liabilities",
+      "arabic": [
+        "إجمالي المطلوبات المتداولة",
+        "مجموع الالتزامات المتداولة"
+      ]
+    },
+    {
+      "english": "Margin accounts",
+      "category": "liabilities",
+      "arabic": [
+        "حسابات الهامش",
+        "حسابات التأمينات النقدية"
+      ]
+    },
+    {
+      "english": "Cash margins",
+      "category": "liabilities",
+      "arabic": [
+        "التأمينات النقدية",
+        "الهوامش النقدية"
+      ]
+    },
+    {
+      "english": "Acceptances",
+      "category": "liabilities",
+      "arabic": [
+        "القبولات",
+        "القبولات المصرفية"
+      ]
+    },
+    {
+      "english": "Bank acceptances",
+      "category": "liabilities",
+      "arabic": [
+        "القبولات المصرفية",
+        "قبولات مصرفية"
+      ]
+    },
+    {
+      "english": "Sukuk issued",
+      "category": "liabilities",
+      "arabic": [
+        "الصكوك المصدرة",
+        "صكوك مصدرة"
+      ]
+    },
+    {
+      "english": "Bonds issued",
+      "category": "liabilities",
+      "arabic": [
+        "السندات المصدرة",
+        "سندات مصدرة"
+      ]
+    },
+    {
+      "english": "Dividends payable",
+      "category": "liabilities",
+      "arabic": [
+        "توزيعات الأرباح المستحقة الدفع",
+        "الأرباح الموزعة المستحقة"
+      ]
+    },
+    {
+      "english": "Due to related parties",
+      "category": "liabilities",
+      "arabic": [
+        "المستحق للأطراف ذات العلاقة",
+        "أرصدة دائنة لأطراف ذات علاقة"
+      ]
+    },
+    {
+      "english": "Accrued expenses",
+      "category": "liabilities",
+      "arabic": [
+        "المصاريف المستحقة",
+        "المصروفات المستحقة",
+        "مصاريف مستحقة"
+      ]
+    },
+    {
+      "english": "Deferred income",
+      "category": "liabilities",
+      "arabic": [
+        "الإيرادات المؤجلة",
+        "الدخل المؤجل",
+        "إيرادات مؤجلة"
+      ]
+    },
+    {
+      "english": "Contract liabilities",
+      "category": "liabilities",
+      "arabic": [
+        "التزامات العقود",
+        "مطلوبات العقود"
+      ]
+    },
+    {
+      "english": "Zakat payable",
+      "category": "liabilities",
+      "arabic": [
+        "الزكاة المستحقة",
+        "مخصص الزكاة",
+        "الزكاة المستحقة الدفع"
+      ]
+    },
+    {
+      "english": "Income tax payable",
+      "category": "liabilities",
+      "arabic": [
+        "ضريبة الدخل المستحقة",
+        "مخصص ضريبة الدخل"
+      ]
+    },
+    {
+      "english": "Retentions payable",
+      "category": "liabilities",
+      "arabic": [
+        "المحتجزات الدائنة",
+        "الدفعات المحتجزة"
+      ]
+    },
+    {
+      "english": "Bank overdrafts",
+      "category": "liabilities",
+      "arabic": [
+        "السحب على المكشوف",
+        "الجاري مدين بنكي",
+        "السحوبات على المكشوف"
+      ]
+    },
+    {
+      "english": "Short-term borrowings",
+      "category": "liabilities",
+      "arabic": [
+        "القروض قصيرة الأجل",
+        "الاقتراض قصير الأجل"
+      ]
+    },
+    {
+      "english": "Long-term borrowings",
+      "category": "liabilities",
+      "arabic": [
+        "القروض طويلة الأجل",
+        "الاقتراض طويل الأجل"
+      ]
+    },
+    {
+      "english": "Term loans",
+      "category": "liabilities",
+      "arabic": [
+        "القروض لأجل",
+        "قروض لأجل"
+      ]
+    },
+    {
+      "english": "Employees' end of service benefits",
+      "category": "liabilities",
+      "arabic": [
+        "مكافأة نهاية الخدمة للموظفين",
+        "مخصص مكافأة نهاية خدمة الموظفين",
+        "التزامات نهاية خدمة الموظفين"
+      ]
+    },
+    {
+      "english": "Defined benefit obligations",
+      "category": "liabilities",
+      "arabic": [
+        "التزامات المنافع المحددة",
+        "التزامات المزايا المحددة"
+      ]
+    },
+    {
+      "english": "Equity",
+      "category": "equity",
+      "arabic": [
+        "حقوق الملكية",
+        "حقوق المساهمين",
+        "الملكية"
+      ]
+    },
+    {
+      "english": "Share capital",
+      "category": "equity",
+      "arabic": [
+        "رأس المال",
+        "رأس مال الأسهم",
+        "رأس المال المصدر"
+      ]
+    },
+    {
+      "english": "Share premium",
+      "category": "equity",
+      "arabic": [
+        "علاوة إصدار الأسهم",
+        "علاوة الإصدار",
+        "علاوة إصدار"
+      ]
+    },
+    {
+      "english": "Share capital and share premium",
+      "category": "equity",
+      "arabic": [
+        "رأس المال وعلاوة الإصدار"
+      ]
+    },
+    {
+      "english": "Statutory reserve",
+      "category": "equity",
+      "arabic": [
+        "الاحتياطي النظامي",
+        "الاحتياطي القانوني"
+      ]
+    },
+    {
+      "english": "General reserve",
+      "category": "equity",
+      "arabic": [
+        "الاحتياطي العام",
+        "احتياطي عام"
+      ]
+    },
+    {
+      "english": "Legal reserve",
+      "category": "equity",
+      "arabic": [
+        "الاحتياطي القانوني"
+      ]
+    },
+    {
+      "english": "Other reserves",
+      "category": "equity",
+      "arabic": [
+        "احتياطيات أخرى",
+        "الاحتياطيات الأخرى"
+      ]
+    },
+    {
+      "english": "Reserves",
+      "category": "equity",
+      "arabic": [
+        "الاحتياطيات",
+        "احتياطيات"
+      ]
+    },
+    {
+      "english": "Retained earnings",
+      "category": "equity",
+      "arabic": [
+        "الأرباح المبقاة",
+        "الأرباح المحتجزة",
+        "الأرباح المرحّلة",
+        "الارباح المبقاه"
+      ]
+    },
+    {
+      "english": "Accumulated losses",
+      "category": "equity",
+      "arabic": [
+        "الخسائر المتراكمة",
+        "الخسائر المرحلة"
+      ]
+    },
+    {
+      "english": "Treasury shares",
+      "category": "equity",
+      "arabic": [
+        "أسهم الخزينة",
+        "أسهم الخزانة"
+      ]
+    },
+    {
+      "english": "Fair value reserve",
+      "category": "equity",
+      "arabic": [
+        "احتياطي القيمة العادلة",
+        "احتياطي التغير في القيمة العادلة"
+      ]
+    },
+    {
+      "english": "Foreign currency translation reserve",
+      "category": "equity",
+      "arabic": [
+        "احتياطي تحويل العملات الأجنبية",
+        "احتياطي فروق الترجمة"
+      ]
+    },
+    {
+      "english": "Hedging reserve",
+      "category": "equity",
+      "arabic": [
+        "احتياطي التحوط",
+        "احتياطي تحوط التدفقات النقدية"
+      ]
+    },
+    {
+      "english": "Proposed dividends",
+      "category": "equity",
+      "arabic": [
+        "توزيعات الأرباح المقترحة",
+        "الأرباح المقترح توزيعها",
+        "توزيعات مقترحة"
+      ]
+    },
+    {
+      "english": "Dividends paid",
+      "category": "equity",
+      "arabic": [
+        "توزيعات الأرباح المدفوعة",
+        "الأرباح الموزعة المدفوعة"
+      ]
+    },
+    {
+      "english": "Dividends",
+      "category": "equity",
+      "arabic": [
+        "توزيعات الأرباح",
+        "الأرباح الموزعة",
+        "التوزيعات"
+      ]
+    },
+    {
+      "english": "Total shareholders' equity",
+      "category": "equity",
+      "arabic": [
+        "إجمالي حقوق المساهمين",
+        "مجموع حقوق المساهمين",
+        "إجمالي حقوق الملكية"
+      ]
+    },
+    {
+      "english": "Total parent company shareholders' equity",
+      "category": "equity",
+      "arabic": [
+        "إجمالي حقوق مساهمي الشركة الأم"
+      ]
+    },
+    {
+      "english": "Additional Tier 1 capital instruments",
+      "category": "equity",
+      "arabic": [
+        "أدوات رأس المال الإضافي من الشريحة الأولى",
+        "أدوات الشريحة الأولى الإضافية"
+      ]
+    },
+    {
+      "english": "Other equity instruments",
+      "category": "equity",
+      "arabic": [
+        "أدوات حقوق ملكية أخرى",
+        "أدوات الملكية الأخرى"
+      ]
+    },
+    {
+      "english": "Total equity",
+      "category": "equity",
+      "arabic": [
+        "إجمالي حقوق الملكية",
+        "مجموع حقوق الملكية",
+        "إجمالي حقوق المساهمين"
+      ]
+    },
+    {
+      "english": "Total equity and liabilities",
+      "category": "equity",
+      "arabic": [
+        "إجمالي حقوق الملكية والمطلوبات",
+        "مجموع حقوق الملكية والالتزامات",
+        "إجمالي الخصوم وحقوق الملكية"
+      ]
+    },
+    {
+      "english": "Authorised capital",
+      "category": "equity",
+      "arabic": [
+        "رأس المال المصرح به",
+        "رأس المال المرخص به"
+      ]
+    },
+    {
+      "english": "Issued and paid-up capital",
+      "category": "equity",
+      "arabic": [
+        "رأس المال المصدر والمدفوع",
+        "رأس المال المصدر والمدفوع بالكامل"
+      ]
+    },
+    {
+      "english": "Paid-up capital",
+      "category": "equity",
+      "arabic": [
+        "رأس المال المدفوع",
+        "رأس المال المدفوع بالكامل"
+      ]
+    },
+    {
+      "english": "Share-based payment reserve",
+      "category": "equity",
+      "arabic": [
+        "احتياطي المدفوعات على أساس الأسهم",
+        "احتياطي برنامج أسهم الموظفين"
+      ]
+    },
+    {
+      "english": "Capital reserve",
+      "category": "equity",
+      "arabic": [
+        "الاحتياطي الرأسمالي",
+        "احتياطي رأسمالي"
+      ]
+    },
+    {
+      "english": "Capital redemption reserve",
+      "category": "equity",
+      "arabic": [
+        "احتياطي استرداد رأس المال",
+        "احتياطي إطفاء رأس المال"
+      ]
+    },
+    {
+      "english": "Merger reserve",
+      "category": "equity",
+      "arabic": [
+        "احتياطي الاندماج",
+        "احتياطي الدمج"
+      ]
+    },
+    {
+      "english": "Revaluation reserve",
+      "category": "equity",
+      "arabic": [
+        "احتياطي إعادة التقييم",
+        "احتياطي إعادة تقييم الممتلكات"
+      ]
+    },
+    {
+      "english": "Retained earnings brought forward",
+      "category": "equity",
+      "arabic": [
+        "الأرباح المبقاة المرحلة",
+        "أرباح مبقاة من سنوات سابقة"
+      ]
+    },
+    {
+      "english": "Proposed cash dividends",
+      "category": "equity",
+      "arabic": [
+        "توزيعات الأرباح النقدية المقترحة",
+        "الأرباح النقدية المقترح توزيعها"
+      ]
+    },
+    {
+      "english": "Proposed bonus shares",
+      "category": "equity",
+      "arabic": [
+        "أسهم المنحة المقترحة",
+        "الأسهم المجانية المقترحة"
+      ]
+    },
+    {
+      "english": "Tier 1 Sukuk",
+      "category": "equity",
+      "arabic": [
+        "صكوك الشريحة الأولى",
+        "صكوك رأس المال من الشريحة الأولى"
+      ]
+    },
+    {
+      "english": "Perpetual instruments",
+      "category": "equity",
+      "arabic": [
+        "الأدوات الدائمة",
+        "أدوات دائمة"
+      ]
+    },
+    {
+      "english": "Equity attributable to owners of the parent",
+      "category": "equity",
+      "arabic": [
+        "حقوق الملكية العائدة لمالكي الشركة الأم",
+        "حقوق المساهمين العائدة لمالكي الشركة الأم"
+      ]
+    },
+    {
+      "english": "Total equity attributable to shareholders",
+      "category": "equity",
+      "arabic": [
+        "إجمالي حقوق الملكية العائدة للمساهمين",
+        "مجموع حقوق المساهمين العائدة للمساهمين"
+      ]
+    },
+    {
+      "english": "Cash flows from operating activities",
+      "category": "cash_flow",
+      "arabic": [
+        "التدفقات النقدية من الأنشطة التشغيلية",
+        "التدفقات النقدية من العمليات التشغيلية"
+      ]
+    },
+    {
+      "english": "Cash flows from investing activities",
+      "category": "cash_flow",
+      "arabic": [
+        "التدفقات النقدية من الأنشطة الاستثمارية",
+        "التدفقات النقدية من العمليات الاستثمارية"
+      ]
+    },
+    {
+      "english": "Cash flows from financing activities",
+      "category": "cash_flow",
+      "arabic": [
+        "التدفقات النقدية من الأنشطة التمويلية",
+        "التدفقات النقدية من العمليات التمويلية"
+      ]
+    },
+    {
+      "english": "Net cash from operating activities",
+      "category": "cash_flow",
+      "arabic": [
+        "صافي النقد من الأنشطة التشغيلية",
+        "صافي التدفقات النقدية من الأنشطة التشغيلية"
+      ]
+    },
+    {
+      "english": "Net cash used in investing activities",
+      "category": "cash_flow",
+      "arabic": [
+        "صافي النقد المستخدم في الأنشطة الاستثمارية",
+        "صافي النقد المستخدم في العمليات الاستثمارية"
+      ]
+    },
+    {
+      "english": "Net cash from financing activities",
+      "category": "cash_flow",
+      "arabic": [
+        "صافي النقد من الأنشطة التمويلية",
+        "صافي التدفقات النقدية من الأنشطة التمويلية"
+      ]
+    },
+    {
+      "english": "Net increase in cash and cash equivalents",
+      "category": "cash_flow",
+      "arabic": [
+        "صافي الزيادة في النقد وما في حكمه",
+        "صافي الزيادة في النقدية وما يعادلها"
+      ]
+    },
+    {
+      "english": "Net decrease in cash and cash equivalents",
+      "category": "cash_flow",
+      "arabic": [
+        "صافي النقص في النقد وما في حكمه",
+        "صافي النقص في النقدية وما يعادلها"
+      ]
+    },
+    {
+      "english": "Cash and cash equivalents at beginning of year",
+      "category": "cash_flow",
+      "arabic": [
+        "النقد وما في حكمه في بداية السنة",
+        "النقدية وما يعادلها في بداية السنة"
+      ]
+    },
+    {
+      "english": "Cash and cash equivalents at end of year",
+      "category": "cash_flow",
+      "arabic": [
+        "النقد وما في حكمه في نهاية السنة",
+        "النقدية وما يعادلها في نهاية السنة"
+      ]
+    },
+    {
+      "english": "Depreciation",
+      "category": "cash_flow",
+      "arabic": [
+        "الاستهلاك",
+        "الإهلاك"
+      ]
+    },
+    {
+      "english": "Amortisation",
+      "category": "cash_flow",
+      "arabic": [
+        "الإطفاء",
+        "الاطفاء"
+      ]
+    },
+    {
+      "english": "Purchase of property and equipment",
+      "category": "cash_flow",
+      "arabic": [
+        "شراء الممتلكات والمعدات",
+        "شراء ممتلكات ومعدات"
+      ]
+    },
+    {
+      "english": "Proceeds from sale of investments",
+      "category": "cash_flow",
+      "arabic": [
+        "المتحصلات من بيع الاستثمارات",
+        "متحصلات بيع الاستثمارات"
+      ]
+    },
+    {
+      "english": "Adjustments for non-cash items",
+      "category": "cash_flow",
+      "arabic": [
+        "تسويات البنود غير النقدية",
+        "تعديلات للبنود غير النقدية"
+      ]
+    },
+    {
+      "english": "Changes in operating assets and liabilities",
+      "category": "cash_flow",
+      "arabic": [
+        "التغيرات في الأصول والمطلوبات التشغيلية",
+        "التغيرات في الموجودات والمطلوبات التشغيلية"
+      ]
+    },
+    {
+      "english": "Zakat paid",
+      "category": "cash_flow",
+      "arabic": [
+        "الزكاة المدفوعة",
+        "زكاة مدفوعة"
+      ]
+    },
+    {
+      "english": "Income tax paid",
+      "category": "cash_flow",
+      "arabic": [
+        "ضريبة الدخل المدفوعة",
+        "الضريبة المدفوعة"
+      ]
+    },
+    {
+      "english": "Interest received",
+      "category": "cash_flow",
+      "arabic": [
+        "الفوائد المستلمة",
+        "الفوائد المقبوضة"
+      ]
+    },
+    {
+      "english": "Interest paid",
+      "category": "cash_flow",
+      "arabic": [
+        "الفوائد المدفوعة",
+        "الفوائد المسددة"
+      ]
+    },
+    {
+      "english": "Dividends received",
+      "category": "cash_flow",
+      "arabic": [
+        "توزيعات الأرباح المستلمة",
+        "الأرباح الموزعة المقبوضة"
+      ]
+    },
+    {
+      "english": "Dividends paid",
+      "category": "cash_flow",
+      "arabic": [
+        "توزيعات الأرباح المدفوعة",
+        "الأرباح الموزعة المدفوعة"
+      ]
+    },
+    {
+      "english": "Proceeds from borrowings",
+      "category": "cash_flow",
+      "arabic": [
+        "المتحصلات من القروض",
+        "متحصلات الاقتراض"
+      ]
+    },
+    {
+      "english": "Repayment of borrowings",
+      "category": "cash_flow",
+      "arabic": [
+        "سداد القروض",
+        "تسديد القروض"
+      ]
+    },
+    {
+      "english": "Repayment of lease liabilities",
+      "category": "cash_flow",
+      "arabic": [
+        "سداد التزامات الإيجار",
+        "سداد مطلوبات عقود الإيجار"
+      ]
+    },
+    {
+      "english": "Proceeds from issue of shares",
+      "category": "cash_flow",
+      "arabic": [
+        "المتحصلات من إصدار الأسهم",
+        "متحصلات إصدار أسهم"
+      ]
+    },
+    {
+      "english": "Purchase of investments",
+      "category": "cash_flow",
+      "arabic": [
+        "شراء الاستثمارات",
+        "شراء استثمارات"
+      ]
+    },
+    {
+      "english": "Additions to property and equipment",
+      "category": "cash_flow",
+      "arabic": [
+        "الإضافات على الممتلكات والمعدات",
+        "إضافات ممتلكات ومعدات"
+      ]
+    },
+    {
+      "english": "Net movement in loans and advances",
+      "category": "cash_flow",
+      "arabic": [
+        "صافي الحركة في القروض والسلف",
+        "صافي التغير في القروض والسلف"
+      ]
+    },
+    {
+      "english": "Net movement in customer deposits",
+      "category": "cash_flow",
+      "arabic": [
+        "صافي الحركة في ودائع العملاء",
+        "صافي التغير في ودائع العملاء"
+      ]
+    },
+    {
+      "english": "Effect of exchange rate changes on cash",
+      "category": "cash_flow",
+      "arabic": [
+        "أثر تغيرات أسعار الصرف على النقد",
+        "تأثير تغير أسعار الصرف على النقدية"
+      ]
+    },
+    {
+      "english": "Return on tangible equity",
+      "category": "ratios",
+      "arabic": [
+        "العائد على حقوق الملكية الملموسة",
+        "العائد على حقوق المساهمين الملموسة"
+      ]
+    },
+    {
+      "english": "Return on equity",
+      "category": "ratios",
+      "arabic": [
+        "العائد على حقوق الملكية",
+        "العائد على حقوق المساهمين"
+      ]
+    },
+    {
+      "english": "Return on assets",
+      "category": "ratios",
+      "arabic": [
+        "العائد على الأصول",
+        "العائد على الموجودات"
+      ]
+    },
+    {
+      "english": "Cost-to-income ratio",
+      "category": "ratios",
+      "arabic": [
+        "نسبة التكلفة إلى الدخل",
+        "نسبة المصروفات إلى الإيرادات"
+      ]
+    },
+    {
+      "english": "Net interest margin",
+      "category": "ratios",
+      "arabic": [
+        "صافي هامش الفائدة",
+        "هامش صافي الفائدة"
+      ]
+    },
+    {
+      "english": "Common Equity Tier 1 ratio",
+      "category": "ratios",
+      "arabic": [
+        "نسبة رأس المال الأساسي من الشريحة الأولى",
+        "نسبة الشريحة الأولى للأسهم العادية"
+      ]
+    },
+    {
+      "english": "Tier 1 capital ratio",
+      "category": "ratios",
+      "arabic": [
+        "نسبة رأس المال من الشريحة الأولى"
+      ]
+    },
+    {
+      "english": "Total capital ratio",
+      "category": "ratios",
+      "arabic": [
+        "نسبة إجمالي رأس المال",
+        "نسبة كفاية رأس المال الإجمالية"
+      ]
+    },
+    {
+      "english": "Capital adequacy ratio",
+      "category": "ratios",
+      "arabic": [
+        "نسبة كفاية رأس المال",
+        "معدل كفاية رأس المال"
+      ]
+    },
+    {
+      "english": "Liquidity coverage ratio",
+      "category": "ratios",
+      "arabic": [
+        "نسبة تغطية السيولة",
+        "معدل تغطية السيولة"
+      ]
+    },
+    {
+      "english": "Advances-to-deposits ratio",
+      "category": "ratios",
+      "arabic": [
+        "نسبة القروض إلى الودائع",
+        "نسبة التسهيلات إلى الودائع"
+      ]
+    },
+    {
+      "english": "Risk-weighted assets",
+      "category": "ratios",
+      "arabic": [
+        "الأصول المرجحة بالمخاطر",
+        "الموجودات المرجحة بالمخاطر"
+      ]
+    },
+    {
+      "english": "Net asset value per share",
+      "category": "ratios",
+      "arabic": [
+        "صافي قيمة الأصول للسهم",
+        "صافي قيمة الموجودات للسهم"
+      ]
+    },
+    {
+      "english": "Tangible net asset value per share",
+      "category": "ratios",
+      "arabic": [
+        "صافي قيمة الأصول الملموسة للسهم"
+      ]
+    },
+    {
+      "english": "Dividend per share",
+      "category": "ratios",
+      "arabic": [
+        "توزيعات الأرباح للسهم",
+        "الربح الموزع للسهم"
+      ]
+    },
+    {
+      "english": "Cost of risk",
+      "category": "ratios",
+      "arabic": [
+        "تكلفة المخاطر",
+        "معدل تكلفة المخاطر"
+      ]
+    },
+    {
+      "english": "Loan loss rate",
+      "category": "ratios",
+      "arabic": [
+        "معدل خسائر القروض",
+        "نسبة خسائر القروض"
+      ]
+    },
+    {
+      "english": "Corporate and Investment Banking",
+      "category": "segments",
+      "arabic": [
+        "الخدمات المصرفية للشركات والاستثمار",
+        "المصرفية للشركات والاستثمار"
+      ]
+    },
+    {
+      "english": "Wealth and Retail Banking",
+      "category": "segments",
+      "arabic": [
+        "الخدمات المصرفية للأفراد والثروات",
+        "المصرفية للأفراد وإدارة الثروات"
+      ]
+    },
+    {
+      "english": "Retail banking",
+      "category": "segments",
+      "arabic": [
+        "الخدمات المصرفية للأفراد",
+        "التجزئة المصرفية",
+        "المصرفية للأفراد"
+      ]
+    },
+    {
+      "english": "Corporate banking",
+      "category": "segments",
+      "arabic": [
+        "الخدمات المصرفية للشركات",
+        "المصرفية للشركات"
+      ]
+    },
+    {
+      "english": "Treasury",
+      "category": "segments",
+      "arabic": [
+        "الخزينة",
+        "الخزانة"
+      ]
+    },
+    {
+      "english": "Investment banking",
+      "category": "segments",
+      "arabic": [
+        "الخدمات المصرفية الاستثمارية",
+        "المصرفية الاستثمارية"
+      ]
+    },
+    {
+      "english": "Asset management",
+      "category": "segments",
+      "arabic": [
+        "إدارة الأصول",
+        "إدارة الموجودات"
+      ]
+    },
+    {
+      "english": "Insurance",
+      "category": "segments",
+      "arabic": [
+        "التأمين",
+        "قطاع التأمين"
+      ]
+    },
+    {
+      "english": "Head office",
+      "category": "segments",
+      "arabic": [
+        "المركز الرئيسي",
+        "الإدارة العامة"
+      ]
+    },
+    {
+      "english": "Others",
+      "category": "segments",
+      "arabic": [
+        "أخرى",
+        "بنود أخرى"
+      ]
+    },
+    {
+      "english": "Domestic",
+      "category": "segments",
+      "arabic": [
+        "محلي",
+        "المحلي"
+      ]
+    },
+    {
+      "english": "International",
+      "category": "segments",
+      "arabic": [
+        "دولي",
+        "الدولي",
+        "خارجي"
+      ]
+    },
+    {
+      "english": "Wholesale banking",
+      "category": "segments",
+      "arabic": [
+        "الخدمات المصرفية للمؤسسات",
+        "المصرفية للمؤسسات",
+        "الخدمات المصرفية بالجملة"
+      ]
+    },
+    {
+      "english": "Private banking",
+      "category": "segments",
+      "arabic": [
+        "الخدمات المصرفية الخاصة",
+        "المصرفية الخاصة"
+      ]
+    },
+    {
+      "english": "Wealth management",
+      "category": "segments",
+      "arabic": [
+        "إدارة الثروات",
+        "إدارة الثروة"
+      ]
+    },
+    {
+      "english": "Brokerage",
+      "category": "segments",
+      "arabic": [
+        "الوساطة",
+        "خدمات الوساطة المالية",
+        "الوساطة المالية"
+      ]
+    },
+    {
+      "english": "Real estate",
+      "category": "segments",
+      "arabic": [
+        "العقارات",
+        "القطاع العقاري"
+      ]
+    },
+    {
+      "english": "Manufacturing",
+      "category": "segments",
+      "arabic": [
+        "الصناعة",
+        "التصنيع",
+        "القطاع الصناعي"
+      ]
+    },
+    {
+      "english": "Trading",
+      "category": "segments",
+      "arabic": [
+        "التجارة",
+        "المتاجرة",
+        "القطاع التجاري"
+      ]
+    },
+    {
+      "english": "Construction",
+      "category": "segments",
+      "arabic": [
+        "الإنشاءات",
+        "المقاولات",
+        "قطاع الإنشاءات"
+      ]
+    },
+    {
+      "english": "Services",
+      "category": "segments",
+      "arabic": [
+        "الخدمات",
+        "قطاع الخدمات"
+      ]
+    },
+    {
+      "english": "Government",
+      "category": "segments",
+      "arabic": [
+        "الحكومة",
+        "القطاع الحكومي",
+        "الجهات الحكومية"
+      ]
+    },
+    {
+      "english": "Individuals",
+      "category": "segments",
+      "arabic": [
+        "الأفراد",
+        "قطاع الأفراد"
+      ]
+    },
+    {
+      "english": "Small and medium enterprises",
+      "category": "segments",
+      "arabic": [
+        "المنشآت الصغيرة والمتوسطة",
+        "الشركات الصغيرة والمتوسطة"
+      ]
+    },
+    {
+      "english": "Saudi Arabia",
+      "category": "segments",
+      "arabic": [
+        "المملكة العربية السعودية",
+        "السعودية"
+      ]
+    },
+    {
+      "english": "United Arab Emirates",
+      "category": "segments",
+      "arabic": [
+        "الإمارات العربية المتحدة",
+        "الإمارات",
+        "دولة الإمارات"
+      ]
+    },
+    {
+      "english": "Kuwait",
+      "category": "segments",
+      "arabic": [
+        "الكويت",
+        "دولة الكويت"
+      ]
+    },
+    {
+      "english": "Qatar",
+      "category": "segments",
+      "arabic": [
+        "قطر",
+        "دولة قطر"
+      ]
+    },
+    {
+      "english": "Bahrain",
+      "category": "segments",
+      "arabic": [
+        "البحرين",
+        "مملكة البحرين"
+      ]
+    },
+    {
+      "english": "Oman",
+      "category": "segments",
+      "arabic": [
+        "عمان",
+        "سلطنة عمان"
+      ]
+    },
+    {
+      "english": "Egypt",
+      "category": "segments",
+      "arabic": [
+        "مصر",
+        "جمهورية مصر العربية"
+      ]
+    },
+    {
+      "english": "Jordan",
+      "category": "segments",
+      "arabic": [
+        "الأردن",
+        "المملكة الأردنية"
+      ]
+    },
+    {
+      "english": "Lebanon",
+      "category": "segments",
+      "arabic": [
+        "لبنان",
+        "الجمهورية اللبنانية"
+      ]
+    },
+    {
+      "english": "Iraq",
+      "category": "segments",
+      "arabic": [
+        "العراق",
+        "جمهورية العراق"
+      ]
+    },
+    {
+      "english": "Gulf Cooperation Council",
+      "category": "segments",
+      "arabic": [
+        "مجلس التعاون الخليجي",
+        "دول مجلس التعاون الخليجي"
+      ]
+    },
+    {
+      "english": "Middle East",
+      "category": "segments",
+      "arabic": [
+        "الشرق الأوسط",
+        "منطقة الشرق الأوسط"
+      ]
+    },
+    {
+      "english": "North Africa",
+      "category": "segments",
+      "arabic": [
+        "شمال أفريقيا",
+        "شمال إفريقيا"
+      ]
+    },
+    {
+      "english": "Europe",
+      "category": "segments",
+      "arabic": [
+        "أوروبا",
+        "القارة الأوروبية"
+      ]
+    },
+    {
+      "english": "Asia",
+      "category": "segments",
+      "arabic": [
+        "آسيا",
+        "القارة الآسيوية"
+      ]
+    },
+    {
+      "english": "in thousands",
+      "category": "units",
+      "arabic": [
+        "بالآلاف",
+        "بالألف",
+        "بآلاف"
+      ]
+    },
+    {
+      "english": "in millions",
+      "category": "units",
+      "arabic": [
+        "بالملايين",
+        "بالمليون",
+        "بملايين"
+      ]
+    },
+    {
+      "english": "in billions",
+      "category": "units",
+      "arabic": [
+        "بالمليارات",
+        "بالمليار"
+      ]
+    },
+    {
+      "english": "$ million",
+      "category": "units",
+      "arabic": [
+        "مليون دولار",
+        "بملايين الدولارات"
+      ]
+    },
+    {
+      "english": "SAR '000",
+      "category": "units",
+      "arabic": [
+        "ألف ريال سعودي",
+        "بآلاف الريالات السعودية"
+      ]
+    },
+    {
+      "english": "AED '000",
+      "category": "units",
+      "arabic": [
+        "ألف درهم إماراتي",
+        "بآلاف الدراهم"
+      ]
+    },
+    {
+      "english": "Saudi Riyal",
+      "category": "units",
+      "arabic": [
+        "ريال سعودي",
+        "الريال السعودي"
+      ]
+    },
+    {
+      "english": "UAE Dirham",
+      "category": "units",
+      "arabic": [
+        "درهم إماراتي",
+        "الدرهم الإماراتي"
+      ]
+    },
+    {
+      "english": "Kuwaiti Dinar",
+      "category": "units",
+      "arabic": [
+        "دينار كويتي",
+        "الدينار الكويتي"
+      ]
+    },
+    {
+      "english": "Qatari Riyal",
+      "category": "units",
+      "arabic": [
+        "ريال قطري",
+        "الريال القطري"
+      ]
+    },
+    {
+      "english": "Egyptian Pound",
+      "category": "units",
+      "arabic": [
+        "جنيه مصري",
+        "الجنيه المصري"
+      ]
+    },
+    {
+      "english": "US Dollar",
+      "category": "units",
+      "arabic": [
+        "دولار أمريكي",
+        "الدولار الأمريكي"
+      ]
+    },
+    {
+      "english": "Percentage",
+      "category": "units",
+      "arabic": [
+        "النسبة المئوية",
+        "نسبة مئوية",
+        "بالمئة"
+      ]
+    },
+    {
+      "english": "Currency",
+      "category": "units",
+      "arabic": [
+        "العملة",
+        "عملة"
+      ]
+    },
+    {
+      "english": "Bahraini Dinar",
+      "category": "units",
+      "arabic": [
+        "دينار بحريني",
+        "الدينار البحريني"
+      ]
+    },
+    {
+      "english": "Omani Rial",
+      "category": "units",
+      "arabic": [
+        "ريال عماني",
+        "الريال العماني"
+      ]
+    },
+    {
+      "english": "Jordanian Dinar",
+      "category": "units",
+      "arabic": [
+        "دينار أردني",
+        "الدينار الأردني"
+      ]
+    },
+    {
+      "english": "Iraqi Dinar",
+      "category": "units",
+      "arabic": [
+        "دينار عراقي",
+        "الدينار العراقي"
+      ]
+    },
+    {
+      "english": "Lebanese Pound",
+      "category": "units",
+      "arabic": [
+        "ليرة لبنانية",
+        "الليرة اللبنانية"
+      ]
+    },
+    {
+      "english": "Moroccan Dirham",
+      "category": "units",
+      "arabic": [
+        "درهم مغربي",
+        "الدرهم المغربي"
+      ]
+    },
+    {
+      "english": "Tunisian Dinar",
+      "category": "units",
+      "arabic": [
+        "دينار تونسي",
+        "الدينار التونسي"
+      ]
+    },
+    {
+      "english": "Algerian Dinar",
+      "category": "units",
+      "arabic": [
+        "دينار جزائري",
+        "الدينار الجزائري"
+      ]
+    },
+    {
+      "english": "Libyan Dinar",
+      "category": "units",
+      "arabic": [
+        "دينار ليبي",
+        "الدينار الليبي"
+      ]
+    },
+    {
+      "english": "Sudanese Pound",
+      "category": "units",
+      "arabic": [
+        "جنيه سوداني",
+        "الجنيه السوداني"
+      ]
+    },
+    {
+      "english": "Syrian Pound",
+      "category": "units",
+      "arabic": [
+        "ليرة سورية",
+        "الليرة السورية"
+      ]
+    },
+    {
+      "english": "Yemeni Rial",
+      "category": "units",
+      "arabic": [
+        "ريال يمني",
+        "الريال اليمني"
+      ]
+    },
+    {
+      "english": "Euro",
+      "category": "units",
+      "arabic": [
+        "يورو",
+        "اليورو"
+      ]
+    },
+    {
+      "english": "British Pound",
+      "category": "units",
+      "arabic": [
+        "جنيه إسترليني",
+        "الجنيه الإسترليني",
+        "الجنيه الاسترليني"
+      ]
+    },
+    {
+      "english": "Japanese Yen",
+      "category": "units",
+      "arabic": [
+        "ين ياباني",
+        "الين الياباني"
+      ]
+    },
+    {
+      "english": "Swiss Franc",
+      "category": "units",
+      "arabic": [
+        "فرنك سويسري",
+        "الفرنك السويسري"
+      ]
+    },
+    {
+      "english": "Chinese Yuan",
+      "category": "units",
+      "arabic": [
+        "يوان صيني",
+        "اليوان الصيني"
+      ]
+    },
+    {
+      "english": "Thousand",
+      "category": "units",
+      "arabic": [
+        "ألف",
+        "آلاف"
+      ]
+    },
+    {
+      "english": "Million",
+      "category": "units",
+      "arabic": [
+        "مليون",
+        "ملايين"
+      ]
+    },
+    {
+      "english": "Billion",
+      "category": "units",
+      "arabic": [
+        "مليار",
+        "بليون",
+        "مليارات"
+      ]
+    },
+    {
+      "english": "Basis points",
+      "category": "units",
+      "arabic": [
+        "نقطة أساس",
+        "نقاط الأساس"
+      ]
+    },
+    {
+      "english": "Net",
+      "category": "common",
+      "arabic": [
+        "صافي",
+        "الصافي"
+      ]
+    },
+    {
+      "english": "Gross",
+      "category": "common",
+      "arabic": [
+        "إجمالي",
+        "الإجمالي"
+      ]
+    },
+    {
+      "english": "Total",
+      "category": "common",
+      "arabic": [
+        "مجموع",
+        "إجمالي"
+      ]
+    },
+    {
+      "english": "Less",
+      "category": "common",
+      "arabic": [
+        "ناقصاً",
+        "يخصم",
+        "مطروحاً منه"
+      ]
+    },
+    {
+      "english": "Add",
+      "category": "common",
+      "arabic": [
+        "يضاف",
+        "مضافاً إليه"
+      ]
+    },
+    {
+      "english": "of which",
+      "category": "common",
+      "arabic": [
+        "منها",
+        "ومنها",
+        "من ذلك"
+      ]
+    },
+    {
+      "english": "Increase",
+      "category": "common",
+      "arabic": [
+        "زيادة",
+        "الزيادة",
+        "ارتفاع"
+      ]
+    },
+    {
+      "english": "Decrease",
+      "category": "common",
+      "arabic": [
+        "نقص",
+        "النقص",
+        "انخفاض"
+      ]
+    },
+    {
+      "english": "Movement",
+      "category": "common",
+      "arabic": [
+        "الحركة",
+        "التغير في"
+      ]
+    },
+    {
+      "english": "Opening",
+      "category": "common",
+      "arabic": [
+        "الافتتاحي",
+        "أول المدة",
+        "بداية الفترة"
+      ]
+    },
+    {
+      "english": "Closing",
+      "category": "common",
+      "arabic": [
+        "الختامي",
+        "آخر المدة",
+        "نهاية الفترة"
+      ]
+    },
+    {
+      "english": "Beginning of the year",
+      "category": "common",
+      "arabic": [
+        "بداية السنة",
+        "أول السنة"
+      ]
+    },
+    {
+      "english": "End of the year",
+      "category": "common",
+      "arabic": [
+        "نهاية السنة",
+        "آخر السنة"
+      ]
+    },
+    {
+      "english": "During the year",
+      "category": "common",
+      "arabic": [
+        "خلال السنة",
+        "أثناء السنة"
+      ]
+    },
+    {
+      "english": "Additions",
+      "category": "common",
+      "arabic": [
+        "الإضافات",
+        "إضافات"
+      ]
+    },
+    {
+      "english": "Disposals",
+      "category": "common",
+      "arabic": [
+        "الاستبعادات",
+        "استبعادات",
+        "المستبعد"
+      ]
+    },
+    {
+      "english": "Transfers",
+      "category": "common",
+      "arabic": [
+        "التحويلات",
+        "المحول"
+      ]
+    },
+    {
+      "english": "Write-offs",
+      "category": "common",
+      "arabic": [
+        "المشطوب",
+        "الديون المشطوبة",
+        "شطب"
+      ]
+    },
+    {
+      "english": "Recoveries",
+      "category": "common",
+      "arabic": [
+        "المستردات",
+        "المبالغ المستردة"
+      ]
+    },
+    {
+      "english": "Fair value",
+      "category": "common",
+      "arabic": [
+        "القيمة العادلة"
+      ]
+    },
+    {
+      "english": "Carrying amount",
+      "category": "common",
+      "arabic": [
+        "القيمة الدفترية",
+        "صافي القيمة الدفترية"
+      ]
+    },
+    {
+      "english": "Cost",
+      "category": "common",
+      "arabic": [
+        "التكلفة",
+        "الكلفة"
+      ]
+    },
+    {
+      "english": "Accumulated depreciation",
+      "category": "common",
+      "arabic": [
+        "مجمع الاستهلاك",
+        "الاستهلاك المتراكم"
+      ]
+    },
+    {
+      "english": "Provision",
+      "category": "common",
+      "arabic": [
+        "المخصص",
+        "مخصص"
+      ]
+    },
+    {
+      "english": "Not applicable",
+      "category": "common",
+      "arabic": [
+        "لا ينطبق",
+        "غير قابل للتطبيق"
+      ]
+    },
+    {
+      "english": "Not meaningful",
+      "category": "common",
+      "arabic": [
+        "غير ذي دلالة",
+        "غير جوهري"
+      ]
+    },
+    {
+      "english": "Ratio",
+      "category": "common",
+      "arabic": [
+        "النسبة",
+        "المعدل"
+      ]
+    },
+    {
+      "english": "Average",
+      "category": "common",
+      "arabic": [
+        "المتوسط",
+        "متوسط"
+      ]
+    },
+    {
+      "english": "Rate",
+      "category": "common",
+      "arabic": [
+        "المعدل",
+        "السعر",
+        "النسبة"
+      ]
+    },
+    {
+      "english": "Yield",
+      "category": "common",
+      "arabic": [
+        "العائد",
+        "معدل العائد"
+      ]
+    },
+    {
+      "english": "Maturity",
+      "category": "common",
+      "arabic": [
+        "الاستحقاق",
+        "تاريخ الاستحقاق"
+      ]
+    },
+    {
+      "english": "Current",
+      "category": "common",
+      "arabic": [
+        "المتداول",
+        "الحالي",
+        "الجاري"
+      ]
+    },
+    {
+      "english": "Non-current",
+      "category": "common",
+      "arabic": [
+        "غير المتداول",
+        "غير الجاري"
+      ]
+    },
+    {
+      "english": "Fixed",
+      "category": "common",
+      "arabic": [
+        "الثابت",
+        "ثابت",
+        "ثابتة"
+      ]
+    },
+    {
+      "english": "Variable",
+      "category": "common",
+      "arabic": [
+        "المتغير",
+        "متغير",
+        "متغيرة"
+      ]
+    },
+    {
+      "english": "Foreign",
+      "category": "common",
+      "arabic": [
+        "الأجنبي",
+        "أجنبي",
+        "أجنبية"
+      ]
+    },
+    {
+      "english": "Local",
+      "category": "common",
+      "arabic": [
+        "المحلي",
+        "محلي"
+      ]
+    },
+    {
+      "english": "Cumulative",
+      "category": "common",
+      "arabic": [
+        "التراكمي",
+        "المتراكم",
+        "تراكمي"
+      ]
+    },
+    {
+      "english": "Annual",
+      "category": "common",
+      "arabic": [
+        "السنوي",
+        "سنوي"
+      ]
+    },
+    {
+      "english": "Quarterly",
+      "category": "common",
+      "arabic": [
+        "الربع سنوي",
+        "ربع سنوي"
+      ]
+    },
+    {
+      "english": "Monthly",
+      "category": "common",
+      "arabic": [
+        "الشهري",
+        "شهري"
+      ]
+    },
+    {
+      "english": "Semi-annual",
+      "category": "common",
+      "arabic": [
+        "نصف سنوي",
+        "النصف سنوي"
+      ]
+    },
+    {
+      "english": "By segment",
+      "category": "common",
+      "arabic": [
+        "حسب القطاع",
+        "بحسب القطاع",
+        "وفقاً للقطاع"
+      ]
+    },
+    {
+      "english": "By geography",
+      "category": "common",
+      "arabic": [
+        "حسب المنطقة الجغرافية",
+        "بحسب الموقع الجغرافي",
+        "حسب الجغرافيا"
+      ]
+    },
+    {
+      "english": "By product",
+      "category": "common",
+      "arabic": [
+        "حسب المنتج",
+        "بحسب المنتج"
+      ]
+    },
+    {
+      "english": "By currency",
+      "category": "common",
+      "arabic": [
+        "حسب العملة",
+        "بحسب العملة"
+      ]
+    },
+    {
+      "english": "Total for the year",
+      "category": "common",
+      "arabic": [
+        "الإجمالي للسنة",
+        "إجمالي السنة"
+      ]
+    },
+    {
+      "english": "Balance at end of year",
+      "category": "common",
+      "arabic": [
+        "الرصيد في نهاية السنة",
+        "الرصيد آخر السنة"
+      ]
+    },
+    {
+      "english": "Balance at beginning of year",
+      "category": "common",
+      "arabic": [
+        "الرصيد في بداية السنة",
+        "الرصيد أول السنة"
+      ]
+    },
+    {
+      "english": "Charge for the year",
+      "category": "common",
+      "arabic": [
+        "المحمل للسنة",
+        "المكوّن خلال السنة",
+        "عبء السنة"
+      ]
+    },
+    {
+      "english": "Utilised during the year",
+      "category": "common",
+      "arabic": [
+        "المستخدم خلال السنة",
+        "المستنفد خلال السنة"
+      ]
+    },
+    {
+      "english": "Reversed during the year",
+      "category": "common",
+      "arabic": [
+        "المسترد خلال السنة",
+        "المعكوس خلال السنة"
+      ]
+    },
+    {
+      "english": "Percentage of total",
+      "category": "common",
+      "arabic": [
+        "النسبة من الإجمالي",
+        "نسبة إلى الإجمالي"
+      ]
+    },
+    {
+      "english": "Murabaha",
+      "category": "islamic_finance",
+      "arabic": [
+        "مرابحة",
+        "المرابحة"
+      ]
+    },
+    {
+      "english": "Commodity Murabaha",
+      "category": "islamic_finance",
+      "arabic": [
+        "مرابحة السلع",
+        "المرابحة في السلع",
+        "المرابحة السلعية"
+      ]
+    },
+    {
+      "english": "Ijara",
+      "category": "islamic_finance",
+      "arabic": [
+        "إجارة",
+        "الإجارة",
+        "الإجارة المنتهية بالتمليك"
+      ]
+    },
+    {
+      "english": "Mudaraba",
+      "category": "islamic_finance",
+      "arabic": [
+        "مضاربة",
+        "المضاربة"
+      ]
+    },
+    {
+      "english": "Musharaka",
+      "category": "islamic_finance",
+      "arabic": [
+        "مشاركة",
+        "المشاركة",
+        "المشاركة المتناقصة"
+      ]
+    },
+    {
+      "english": "Istisna'a",
+      "category": "islamic_finance",
+      "arabic": [
+        "استصناع",
+        "الاستصناع"
+      ]
+    },
+    {
+      "english": "Salam",
+      "category": "islamic_finance",
+      "arabic": [
+        "سلم",
+        "السلم",
+        "بيع السلم"
+      ]
+    },
+    {
+      "english": "Sukuk",
+      "category": "islamic_finance",
+      "arabic": [
+        "صكوك",
+        "الصكوك",
+        "صكوك إسلامية"
+      ]
+    },
+    {
+      "english": "Wakala",
+      "category": "islamic_finance",
+      "arabic": [
+        "وكالة",
+        "الوكالة",
+        "الوكالة بالاستثمار"
+      ]
+    },
+    {
+      "english": "Tawarruq",
+      "category": "islamic_finance",
+      "arabic": [
+        "تورق",
+        "التورق"
+      ]
+    },
+    {
+      "english": "Qard Hasan",
+      "category": "islamic_finance",
+      "arabic": [
+        "قرض حسن",
+        "القرض الحسن"
+      ]
+    },
+    {
+      "english": "Islamic financing and investing income",
+      "category": "islamic_finance",
+      "arabic": [
+        "إيرادات التمويل والاستثمار الإسلامي",
+        "دخل التمويل والاستثمار الإسلامي"
+      ]
+    },
+    {
+      "english": "Deferred profits",
+      "category": "islamic_finance",
+      "arabic": [
+        "الأرباح المؤجلة",
+        "أرباح مؤجلة",
+        "الربح المؤجل"
+      ]
+    },
+    {
+      "english": "Profit rate",
+      "category": "islamic_finance",
+      "arabic": [
+        "معدل الربح",
+        "نسبة الربح"
+      ]
+    },
+    {
+      "english": "Unrestricted investment accounts",
+      "category": "islamic_finance",
+      "arabic": [
+        "حسابات الاستثمار المطلقة",
+        "حسابات الاستثمار غير المقيدة"
+      ]
+    },
+    {
+      "english": "Restricted investment accounts",
+      "category": "islamic_finance",
+      "arabic": [
+        "حسابات الاستثمار المقيدة",
+        "حسابات استثمار مقيدة"
+      ]
+    },
+    {
+      "english": "Equity of investment account holders",
+      "category": "islamic_finance",
+      "arabic": [
+        "حقوق أصحاب حسابات الاستثمار",
+        "حقوق أصحاب حسابات الاستثمار المطلقة"
+      ]
+    },
+    {
+      "english": "Investment risk reserve",
+      "category": "islamic_finance",
+      "arabic": [
+        "احتياطي مخاطر الاستثمار",
+        "احتياطي مقابلة مخاطر الاستثمار"
+      ]
+    },
+    {
+      "english": "Profit equalisation reserve",
+      "category": "islamic_finance",
+      "arabic": [
+        "احتياطي معدل الأرباح",
+        "احتياطي مقابلة تقلبات الأرباح"
+      ]
+    },
+    {
+      "english": "Sharia supervisory board",
+      "category": "islamic_finance",
+      "arabic": [
+        "هيئة الرقابة الشرعية",
+        "هيئة الفتوى والرقابة الشرعية"
+      ]
+    },
+    {
+      "english": "Zakat and charity fund",
+      "category": "islamic_finance",
+      "arabic": [
+        "صندوق الزكاة والخيرات",
+        "صندوق الزكاة والأعمال الخيرية"
+      ]
+    },
+    {
+      "english": "Wakala deposits",
+      "category": "islamic_finance",
+      "arabic": [
+        "ودائع الوكالة",
+        "ودائع وكالة"
+      ]
+    },
+    {
+      "english": "Gross written premiums",
+      "category": "insurance_takaful",
+      "arabic": [
+        "إجمالي الأقساط المكتتبة",
+        "إجمالي أقساط التأمين المكتتبة"
+      ]
+    },
+    {
+      "english": "Net earned premiums",
+      "category": "insurance_takaful",
+      "arabic": [
+        "صافي الأقساط المكتسبة",
+        "صافي أقساط التأمين المكتسبة"
+      ]
+    },
+    {
+      "english": "Reinsurance premiums",
+      "category": "insurance_takaful",
+      "arabic": [
+        "أقساط إعادة التأمين",
+        "أقساط معيدي التأمين"
+      ]
+    },
+    {
+      "english": "Claims incurred",
+      "category": "insurance_takaful",
+      "arabic": [
+        "المطالبات المتكبدة",
+        "التعويضات المتكبدة"
+      ]
+    },
+    {
+      "english": "Claims paid",
+      "category": "insurance_takaful",
+      "arabic": [
+        "المطالبات المدفوعة",
+        "التعويضات المدفوعة"
+      ]
+    },
+    {
+      "english": "Reinsurance",
+      "category": "insurance_takaful",
+      "arabic": [
+        "إعادة التأمين",
+        "اعادة التأمين"
+      ]
+    },
+    {
+      "english": "Retakaful",
+      "category": "insurance_takaful",
+      "arabic": [
+        "إعادة التكافل",
+        "اعادة التكافل"
+      ]
+    },
+    {
+      "english": "Takaful",
+      "category": "insurance_takaful",
+      "arabic": [
+        "التكافل",
+        "التأمين التكافلي"
+      ]
+    },
+    {
+      "english": "Technical provisions",
+      "category": "insurance_takaful",
+      "arabic": [
+        "المخصصات الفنية",
+        "الاحتياطيات الفنية"
+      ]
+    },
+    {
+      "english": "Unearned premium reserve",
+      "category": "insurance_takaful",
+      "arabic": [
+        "احتياطي الأقساط غير المكتسبة",
+        "مخصص الأقساط غير المكتسبة"
+      ]
+    },
+    {
+      "english": "Outstanding claims reserve",
+      "category": "insurance_takaful",
+      "arabic": [
+        "احتياطي المطالبات تحت التسوية",
+        "احتياطي المطالبات القائمة",
+        "مخصص المطالبات تحت التسوية"
+      ]
+    },
+    {
+      "english": "Policyholders",
+      "category": "insurance_takaful",
+      "arabic": [
+        "حملة الوثائق",
+        "حاملو وثائق التأمين",
+        "حملة وثائق التأمين"
+      ]
+    },
+    {
+      "english": "Underwriting surplus",
+      "category": "insurance_takaful",
+      "arabic": [
+        "فائض الاكتتاب",
+        "الفائض الاكتتابي"
+      ]
+    },
+    {
+      "english": "Underwriting result",
+      "category": "insurance_takaful",
+      "arabic": [
+        "نتيجة الاكتتاب",
+        "نتائج الاكتتاب"
+      ]
+    },
+    {
+      "english": "Commission income",
+      "category": "insurance_takaful",
+      "arabic": [
+        "إيرادات العمولات",
+        "عمولات إعادة التأمين المكتسبة"
+      ]
+    },
+    {
+      "english": "Solvency margin",
+      "category": "insurance_takaful",
+      "arabic": [
+        "هامش الملاءة",
+        "هامش الملاءة المالية"
+      ]
+    },
+    {
+      "english": "Policyholders' fund",
+      "category": "insurance_takaful",
+      "arabic": [
+        "صندوق حملة الوثائق",
+        "أموال حملة الوثائق"
+      ]
+    },
+    {
+      "english": "Shareholders' fund",
+      "category": "insurance_takaful",
+      "arabic": [
+        "صندوق المساهمين",
+        "أموال المساهمين"
+      ]
+    },
+    {
+      "english": "Current tax",
+      "category": "tax_zakat",
+      "arabic": [
+        "الضريبة الحالية",
+        "الضريبة المستحقة",
+        "ضريبة العام الحالي"
+      ]
+    },
+    {
+      "english": "Deferred tax",
+      "category": "tax_zakat",
+      "arabic": [
+        "الضريبة المؤجلة",
+        "ضريبة مؤجلة"
+      ]
+    },
+    {
+      "english": "Withholding tax",
+      "category": "tax_zakat",
+      "arabic": [
+        "ضريبة الاستقطاع",
+        "الضريبة المقتطعة",
+        "ضريبة الاستقطاع من المنبع"
+      ]
+    },
+    {
+      "english": "Value added tax",
+      "category": "tax_zakat",
+      "arabic": [
+        "ضريبة القيمة المضافة",
+        "القيمة المضافة"
+      ]
+    },
+    {
+      "english": "Effective tax rate",
+      "category": "tax_zakat",
+      "arabic": [
+        "معدل الضريبة الفعلي",
+        "المعدل الضريبي الفعلي"
+      ]
+    },
+    {
+      "english": "Tax base",
+      "category": "tax_zakat",
+      "arabic": [
+        "الوعاء الضريبي",
+        "القاعدة الضريبية"
+      ]
+    },
+    {
+      "english": "Zakat base",
+      "category": "tax_zakat",
+      "arabic": [
+        "وعاء الزكاة",
+        "الوعاء الزكوي"
+      ]
+    },
+    {
+      "english": "Zakat provision",
+      "category": "tax_zakat",
+      "arabic": [
+        "مخصص الزكاة",
+        "مخصص الزكاة الشرعية"
+      ]
+    },
+    {
+      "english": "Deferred tax movement",
+      "category": "tax_zakat",
+      "arabic": [
+        "الحركة في الضريبة المؤجلة",
+        "التغير في الضريبة المؤجلة"
+      ]
+    },
+    {
+      "english": "Tax expense",
+      "category": "tax_zakat",
+      "arabic": [
+        "مصروف الضريبة",
+        "المصروف الضريبي"
+      ]
+    },
+    {
+      "english": "Taxable profit",
+      "category": "tax_zakat",
+      "arabic": [
+        "الربح الخاضع للضريبة",
+        "الأرباح الخاضعة للضريبة"
+      ]
+    },
+    {
+      "english": "Board of directors",
+      "category": "audit_governance",
+      "arabic": [
+        "مجلس الإدارة",
+        "أعضاء مجلس الإدارة"
+      ]
+    },
+    {
+      "english": "Chairman",
+      "category": "audit_governance",
+      "arabic": [
+        "رئيس مجلس الإدارة",
+        "الرئيس"
+      ]
+    },
+    {
+      "english": "Vice Chairman",
+      "category": "audit_governance",
+      "arabic": [
+        "نائب رئيس مجلس الإدارة",
+        "نائب الرئيس"
+      ]
+    },
+    {
+      "english": "Chief Executive Officer",
+      "category": "audit_governance",
+      "arabic": [
+        "الرئيس التنفيذي",
+        "المدير التنفيذي"
+      ]
+    },
+    {
+      "english": "Chief Financial Officer",
+      "category": "audit_governance",
+      "arabic": [
+        "المدير المالي",
+        "الرئيس المالي",
+        "المدير المالي التنفيذي"
+      ]
+    },
+    {
+      "english": "Managing Director",
+      "category": "audit_governance",
+      "arabic": [
+        "العضو المنتدب",
+        "المدير العام"
+      ]
+    },
+    {
+      "english": "Audit committee",
+      "category": "audit_governance",
+      "arabic": [
+        "لجنة المراجعة",
+        "لجنة التدقيق"
+      ]
+    },
+    {
+      "english": "External auditor",
+      "category": "audit_governance",
+      "arabic": [
+        "مراقب الحسابات الخارجي",
+        "المدقق الخارجي",
+        "المراجع الخارجي"
+      ]
+    },
+    {
+      "english": "Auditor's opinion",
+      "category": "audit_governance",
+      "arabic": [
+        "رأي مراقب الحسابات",
+        "رأي المدقق"
+      ]
+    },
+    {
+      "english": "Unqualified opinion",
+      "category": "audit_governance",
+      "arabic": [
+        "رأي غير متحفظ",
+        "رأي نظيف"
+      ]
+    },
+    {
+      "english": "Qualified opinion",
+      "category": "audit_governance",
+      "arabic": [
+        "رأي متحفظ",
+        "رأي مقيد"
+      ]
+    },
+    {
+      "english": "Emphasis of matter",
+      "category": "audit_governance",
+      "arabic": [
+        "فقرة لفت انتباه",
+        "فقرة تأكيد أمر",
+        "لفت انتباه"
+      ]
+    },
+    {
+      "english": "Material misstatement",
+      "category": "audit_governance",
+      "arabic": [
+        "تحريف جوهري",
+        "خطأ جوهري"
+      ]
+    },
+    {
+      "english": "Going concern",
+      "category": "audit_governance",
+      "arabic": [
+        "مبدأ الاستمرارية",
+        "الاستمرارية",
+        "افتراض الاستمرارية"
+      ]
+    },
+    {
+      "english": "Related parties",
+      "category": "audit_governance",
+      "arabic": [
+        "الأطراف ذات العلاقة",
+        "الأطراف ذوو العلاقة",
+        "الجهات ذات العلاقة"
+      ]
+    },
+    {
+      "english": "Related party transactions",
+      "category": "audit_governance",
+      "arabic": [
+        "معاملات الأطراف ذات العلاقة",
+        "المعاملات مع الأطراف ذات العلاقة"
+      ]
+    },
+    {
+      "english": "Key management personnel",
+      "category": "audit_governance",
+      "arabic": [
+        "كبار موظفي الإدارة",
+        "موظفو الإدارة الرئيسيون",
+        "الإدارة العليا"
+      ]
+    },
+    {
+      "english": "Contingent liabilities",
+      "category": "audit_governance",
+      "arabic": [
+        "الالتزامات المحتملة",
+        "المطلوبات الطارئة",
+        "الالتزامات الطارئة"
+      ]
+    },
+    {
+      "english": "Contingencies and commitments",
+      "category": "audit_governance",
+      "arabic": [
+        "الالتزامات المحتملة والارتباطات",
+        "الارتباطات والالتزامات المحتملة"
+      ]
+    },
+    {
+      "english": "Commitments",
+      "category": "audit_governance",
+      "arabic": [
+        "الارتباطات",
+        "الالتزامات الرأسمالية",
+        "التعهدات"
+      ]
+    },
+    {
+      "english": "Capital commitments",
+      "category": "audit_governance",
+      "arabic": [
+        "الالتزامات الرأسمالية",
+        "الارتباطات الرأسمالية"
+      ]
+    },
+    {
+      "english": "Subsequent events",
+      "category": "audit_governance",
+      "arabic": [
+        "الأحداث اللاحقة",
+        "أحداث لاحقة لتاريخ التقرير"
+      ]
+    },
+    {
+      "english": "Comparative figures",
+      "category": "audit_governance",
+      "arabic": [
+        "أرقام المقارنة",
+        "الأرقام المقارنة",
+        "أرقام المقارنة للفترة السابقة"
+      ]
+    },
+    {
+      "english": "Contingent assets",
+      "category": "audit_governance",
+      "arabic": [
+        "الأصول المحتملة",
+        "الموجودات المحتملة"
+      ]
+    },
+    {
+      "english": "Forward contracts",
+      "category": "derivatives_treasury",
+      "arabic": [
+        "العقود الآجلة",
+        "عقود آجلة"
+      ]
+    },
+    {
+      "english": "Forward foreign exchange contracts",
+      "category": "derivatives_treasury",
+      "arabic": [
+        "عقود صرف العملات الآجلة",
+        "العقود الآجلة للعملات الأجنبية"
+      ]
+    },
+    {
+      "english": "Futures contracts",
+      "category": "derivatives_treasury",
+      "arabic": [
+        "العقود المستقبلية",
+        "عقود مستقبلية"
+      ]
+    },
+    {
+      "english": "Options",
+      "category": "derivatives_treasury",
+      "arabic": [
+        "الخيارات",
+        "عقود الخيارات",
+        "خيارات"
+      ]
+    },
+    {
+      "english": "Swaps",
+      "category": "derivatives_treasury",
+      "arabic": [
+        "المبادلات",
+        "عقود المبادلة",
+        "المقايضات"
+      ]
+    },
+    {
+      "english": "Interest rate swaps",
+      "category": "derivatives_treasury",
+      "arabic": [
+        "مبادلات أسعار الفائدة",
+        "عقود مبادلة أسعار الفائدة"
+      ]
+    },
+    {
+      "english": "Currency swaps",
+      "category": "derivatives_treasury",
+      "arabic": [
+        "مبادلات العملات",
+        "عقود مبادلة العملات"
+      ]
+    },
+    {
+      "english": "Profit rate swaps",
+      "category": "derivatives_treasury",
+      "arabic": [
+        "مبادلات معدل الربح",
+        "عقود مبادلة معدل الربح"
+      ]
+    },
+    {
+      "english": "Hedging instruments",
+      "category": "derivatives_treasury",
+      "arabic": [
+        "أدوات التحوط",
+        "أدوات التغطية"
+      ]
+    },
+    {
+      "english": "Fair value hedge",
+      "category": "derivatives_treasury",
+      "arabic": [
+        "تحوط القيمة العادلة",
+        "تغطية القيمة العادلة"
+      ]
+    },
+    {
+      "english": "Cash flow hedge",
+      "category": "derivatives_treasury",
+      "arabic": [
+        "تحوط التدفقات النقدية",
+        "تغطية التدفقات النقدية"
+      ]
+    },
+    {
+      "english": "Net investment hedge",
+      "category": "derivatives_treasury",
+      "arabic": [
+        "تحوط صافي الاستثمار",
+        "تغطية صافي الاستثمار"
+      ]
+    },
+    {
+      "english": "Notional amount",
+      "category": "derivatives_treasury",
+      "arabic": [
+        "المبلغ الاسمي",
+        "القيمة الاسمية",
+        "المبلغ الافتراضي"
+      ]
+    },
+    {
+      "english": "Positive fair value",
+      "category": "derivatives_treasury",
+      "arabic": [
+        "القيمة العادلة الموجبة",
+        "القيمة العادلة الإيجابية"
+      ]
+    },
+    {
+      "english": "Negative fair value",
+      "category": "derivatives_treasury",
+      "arabic": [
+        "القيمة العادلة السالبة",
+        "القيمة العادلة السلبية"
+      ]
+    },
+    {
+      "english": "Amortised cost",
+      "category": "derivatives_treasury",
+      "arabic": [
+        "التكلفة المطفأة",
+        "الكلفة المطفأة"
+      ]
+    },
+    {
+      "english": "Available for sale",
+      "category": "derivatives_treasury",
+      "arabic": [
+        "المتاحة للبيع",
+        "متاح للبيع"
+      ]
+    },
+    {
+      "english": "Held to maturity",
+      "category": "derivatives_treasury",
+      "arabic": [
+        "المحتفظ بها حتى الاستحقاق",
+        "محتفظ به حتى الاستحقاق"
+      ]
+    },
+    {
+      "english": "Held for trading",
+      "category": "derivatives_treasury",
+      "arabic": [
+        "المحتفظ بها للمتاجرة",
+        "محتفظ به للمتاجرة"
+      ]
+    },
+    {
+      "english": "Fair value hierarchy",
+      "category": "derivatives_treasury",
+      "arabic": [
+        "التسلسل الهرمي للقيمة العادلة",
+        "مستويات القيمة العادلة"
+      ]
+    },
+    {
+      "english": "Level 1",
+      "category": "derivatives_treasury",
+      "arabic": [
+        "المستوى الأول",
+        "المستوى ١"
+      ]
+    },
+    {
+      "english": "Level 2",
+      "category": "derivatives_treasury",
+      "arabic": [
+        "المستوى الثاني",
+        "المستوى ٢"
+      ]
+    },
+    {
+      "english": "Level 3",
+      "category": "derivatives_treasury",
+      "arabic": [
+        "المستوى الثالث",
+        "المستوى ٣"
+      ]
+    },
+    {
+      "english": "Credit risk",
+      "category": "risk_capital",
+      "arabic": [
+        "مخاطر الائتمان",
+        "المخاطر الائتمانية"
+      ]
+    },
+    {
+      "english": "Market risk",
+      "category": "risk_capital",
+      "arabic": [
+        "مخاطر السوق",
+        "المخاطر السوقية"
+      ]
+    },
+    {
+      "english": "Operational risk",
+      "category": "risk_capital",
+      "arabic": [
+        "المخاطر التشغيلية",
+        "مخاطر التشغيل"
+      ]
+    },
+    {
+      "english": "Liquidity risk",
+      "category": "risk_capital",
+      "arabic": [
+        "مخاطر السيولة",
+        "خطر السيولة"
+      ]
+    },
+    {
+      "english": "Interest rate risk",
+      "category": "risk_capital",
+      "arabic": [
+        "مخاطر أسعار الفائدة",
+        "مخاطر معدلات الفائدة"
+      ]
+    },
+    {
+      "english": "Currency risk",
+      "category": "risk_capital",
+      "arabic": [
+        "مخاطر العملات",
+        "مخاطر أسعار الصرف",
+        "مخاطر العملات الأجنبية"
+      ]
+    },
+    {
+      "english": "Foreign exchange risk",
+      "category": "risk_capital",
+      "arabic": [
+        "مخاطر صرف العملات الأجنبية",
+        "مخاطر الصرف الأجنبي"
+      ]
+    },
+    {
+      "english": "Concentration risk",
+      "category": "risk_capital",
+      "arabic": [
+        "مخاطر التركز",
+        "مخاطر التركيز"
+      ]
+    },
+    {
+      "english": "Capital adequacy",
+      "category": "risk_capital",
+      "arabic": [
+        "كفاية رأس المال",
+        "كفاية رأس المال النظامي"
+      ]
+    },
+    {
+      "english": "Tier 1 capital",
+      "category": "risk_capital",
+      "arabic": [
+        "رأس المال من الشريحة الأولى",
+        "الشريحة الأولى لرأس المال",
+        "رأس المال الأساسي"
+      ]
+    },
+    {
+      "english": "Tier 2 capital",
+      "category": "risk_capital",
+      "arabic": [
+        "رأس المال من الشريحة الثانية",
+        "الشريحة الثانية لرأس المال",
+        "رأس المال المساند"
+      ]
+    },
+    {
+      "english": "Regulatory capital",
+      "category": "risk_capital",
+      "arabic": [
+        "رأس المال النظامي",
+        "رأس المال الرقابي"
+      ]
+    },
+    {
+      "english": "Leverage ratio",
+      "category": "risk_capital",
+      "arabic": [
+        "نسبة الرافعة المالية",
+        "معدل الرافعة المالية"
+      ]
+    },
+    {
+      "english": "Stage 1",
+      "category": "risk_capital",
+      "arabic": [
+        "المرحلة الأولى",
+        "المرحلة ١"
+      ]
+    },
+    {
+      "english": "Stage 2",
+      "category": "risk_capital",
+      "arabic": [
+        "المرحلة الثانية",
+        "المرحلة ٢"
+      ]
+    },
+    {
+      "english": "Stage 3",
+      "category": "risk_capital",
+      "arabic": [
+        "المرحلة الثالثة",
+        "المرحلة ٣"
+      ]
+    },
+    {
+      "english": "Non-performing loans",
+      "category": "risk_capital",
+      "arabic": [
+        "القروض المتعثرة",
+        "القروض غير العاملة",
+        "القروض غير المنتظمة"
+      ]
+    },
+    {
+      "english": "Non-performing financing",
+      "category": "risk_capital",
+      "arabic": [
+        "التمويل المتعثر",
+        "التمويلات غير العاملة"
+      ]
+    },
+    {
+      "english": "Past due",
+      "category": "risk_capital",
+      "arabic": [
+        "المتأخرة",
+        "المتأخرة السداد",
+        "تجاوزت تاريخ الاستحقاق"
+      ]
+    },
+    {
+      "english": "Past due but not impaired",
+      "category": "risk_capital",
+      "arabic": [
+        "المتأخرة وغير منخفضة القيمة",
+        "متأخرة السداد وغير منخفضة القيمة"
+      ]
+    },
+    {
+      "english": "Impaired loans",
+      "category": "risk_capital",
+      "arabic": [
+        "القروض منخفضة القيمة",
+        "القروض المنخفضة القيمة"
+      ]
+    },
+    {
+      "english": "Collateral",
+      "category": "risk_capital",
+      "arabic": [
+        "الضمانات",
+        "الرهونات",
+        "الضمانات المقدمة"
+      ]
+    },
+    {
+      "english": "Provision coverage ratio",
+      "category": "risk_capital",
+      "arabic": [
+        "نسبة تغطية المخصصات",
+        "معدل تغطية المخصصات"
+      ]
+    },
+    {
+      "english": "Loss given default",
+      "category": "risk_capital",
+      "arabic": [
+        "الخسارة عند التعثر",
+        "الخسارة الناتجة عن التعثر"
+      ]
+    },
+    {
+      "english": "Probability of default",
+      "category": "risk_capital",
+      "arabic": [
+        "احتمالية التعثر",
+        "احتمال التعثر"
+      ]
+    },
+    {
+      "english": "Exposure at default",
+      "category": "risk_capital",
+      "arabic": [
+        "التعرض عند التعثر",
+        "قيمة التعرض عند التعثر"
+      ]
+    },
+    {
+      "english": "January",
+      "category": "dates_periods",
+      "arabic": [
+        "يناير",
+        "كانون الثاني"
+      ]
+    },
+    {
+      "english": "February",
+      "category": "dates_periods",
+      "arabic": [
+        "فبراير",
+        "شباط"
+      ]
+    },
+    {
+      "english": "March",
+      "category": "dates_periods",
+      "arabic": [
+        "مارس",
+        "آذار"
+      ]
+    },
+    {
+      "english": "April",
+      "category": "dates_periods",
+      "arabic": [
+        "أبريل",
+        "نيسان",
+        "ابريل"
+      ]
+    },
+    {
+      "english": "May",
+      "category": "dates_periods",
+      "arabic": [
+        "مايو",
+        "أيار"
+      ]
+    },
+    {
+      "english": "June",
+      "category": "dates_periods",
+      "arabic": [
+        "يونيو",
+        "حزيران"
+      ]
+    },
+    {
+      "english": "July",
+      "category": "dates_periods",
+      "arabic": [
+        "يوليو",
+        "تموز"
+      ]
+    },
+    {
+      "english": "August",
+      "category": "dates_periods",
+      "arabic": [
+        "أغسطس",
+        "آب",
+        "اغسطس"
+      ]
+    },
+    {
+      "english": "September",
+      "category": "dates_periods",
+      "arabic": [
+        "سبتمبر",
+        "أيلول"
+      ]
+    },
+    {
+      "english": "October",
+      "category": "dates_periods",
+      "arabic": [
+        "أكتوبر",
+        "تشرين الأول",
+        "اكتوبر"
+      ]
+    },
+    {
+      "english": "November",
+      "category": "dates_periods",
+      "arabic": [
+        "نوفمبر",
+        "تشرين الثاني"
+      ]
+    },
+    {
+      "english": "December",
+      "category": "dates_periods",
+      "arabic": [
+        "ديسمبر",
+        "كانون الأول"
+      ]
+    },
+    {
+      "english": "Financial year",
+      "category": "dates_periods",
+      "arabic": [
+        "السنة المالية",
+        "العام المالي"
+      ]
+    },
+    {
+      "english": "Fiscal year",
+      "category": "dates_periods",
+      "arabic": [
+        "السنة المالية",
+        "السنة الضريبية"
+      ]
+    },
+    {
+      "english": "Half year",
+      "category": "dates_periods",
+      "arabic": [
+        "نصف السنة",
+        "النصف سنوي",
+        "نصف سنوي"
+      ]
+    },
+    {
+      "english": "First half",
+      "category": "dates_periods",
+      "arabic": [
+        "النصف الأول",
+        "النصف الأول من العام"
+      ]
+    },
+    {
+      "english": "Second half",
+      "category": "dates_periods",
+      "arabic": [
+        "النصف الثاني",
+        "النصف الثاني من العام"
+      ]
+    },
+    {
+      "english": "Nine months",
+      "category": "dates_periods",
+      "arabic": [
+        "التسعة أشهر",
+        "تسعة أشهر"
+      ]
+    },
+    {
+      "english": "Period",
+      "category": "dates_periods",
+      "arabic": [
+        "الفترة",
+        "المدة"
+      ]
+    },
+    {
+      "english": "Comparative period",
+      "category": "dates_periods",
+      "arabic": [
+        "الفترة المقارنة",
+        "فترة المقارنة"
+      ]
+    },
+    {
+      "english": "During the period",
+      "category": "dates_periods",
+      "arabic": [
+        "خلال الفترة",
+        "أثناء الفترة"
+      ]
+    },
+    {
+      "english": "As at the date",
+      "category": "dates_periods",
+      "arabic": [
+        "كما في تاريخ",
+        "بتاريخ"
+      ]
+    },
+    {
+      "english": "Reporting date",
+      "category": "dates_periods",
+      "arabic": [
+        "تاريخ التقرير",
+        "تاريخ إعداد التقرير"
+      ]
+    },
+    {
+      "english": "Reporting period",
+      "category": "dates_periods",
+      "arabic": [
+        "فترة التقرير",
+        "الفترة المشمولة بالتقرير"
+      ]
+    },
+    {
+      "english": "Trade receivables and other receivables",
+      "category": "general_business",
+      "arabic": [
+        "الذمم المدينة التجارية والأخرى",
+        "المدينون التجاريون والآخرون"
+      ]
+    },
+    {
+      "english": "Trade payables and other payables",
+      "category": "general_business",
+      "arabic": [
+        "الذمم الدائنة التجارية والأخرى",
+        "الدائنون التجاريون والآخرون"
+      ]
+    },
+    {
+      "english": "Accounts receivable",
+      "category": "general_business",
+      "arabic": [
+        "الذمم المدينة",
+        "المدينون",
+        "حسابات مدينة"
+      ]
+    },
+    {
+      "english": "Accounts payable",
+      "category": "general_business",
+      "arabic": [
+        "الذمم الدائنة",
+        "الدائنون",
+        "حسابات دائنة"
+      ]
+    },
+    {
+      "english": "Allowance for doubtful debts",
+      "category": "general_business",
+      "arabic": [
+        "مخصص الديون المشكوك في تحصيلها",
+        "مخصص الذمم المشكوك في تحصيلها"
+      ]
+    },
+    {
+      "english": "Bad debts written off",
+      "category": "general_business",
+      "arabic": [
+        "الديون المعدومة المشطوبة",
+        "الديون المشطوبة"
+      ]
+    },
+    {
+      "english": "Inventory",
+      "category": "general_business",
+      "arabic": [
+        "المخزون",
+        "البضاعة",
+        "بضاعة"
+      ]
+    },
+    {
+      "english": "Work in progress",
+      "category": "general_business",
+      "arabic": [
+        "الإنتاج تحت التشغيل",
+        "أعمال تحت التنفيذ",
+        "بضاعة تحت التشغيل"
+      ]
+    },
+    {
+      "english": "Finished goods",
+      "category": "general_business",
+      "arabic": [
+        "البضاعة الجاهزة",
+        "المنتجات التامة الصنع"
+      ]
+    },
+    {
+      "english": "Raw materials",
+      "category": "general_business",
+      "arabic": [
+        "المواد الخام",
+        "المواد الأولية"
+      ]
+    },
+    {
+      "english": "Par value",
+      "category": "general_business",
+      "arabic": [
+        "القيمة الاسمية",
+        "القيمة الإسمية"
+      ]
+    },
+    {
+      "english": "Number of shares",
+      "category": "general_business",
+      "arabic": [
+        "عدد الأسهم",
+        "عدد الأسهم القائمة"
+      ]
+    },
+    {
+      "english": "Weighted average number of shares",
+      "category": "general_business",
+      "arabic": [
+        "المتوسط المرجح لعدد الأسهم",
+        "المتوسط المرجح لعدد الأسهم القائمة"
+      ]
+    },
+    {
+      "english": "Bonus shares",
+      "category": "general_business",
+      "arabic": [
+        "أسهم المنحة",
+        "الأسهم المجانية",
+        "أسهم مجانية"
+      ]
+    },
+    {
+      "english": "Rights issue",
+      "category": "general_business",
+      "arabic": [
+        "إصدار حقوق أولوية",
+        "أسهم حقوق الأولوية"
+      ]
+    },
+    {
+      "english": "Book value",
+      "category": "general_business",
+      "arabic": [
+        "القيمة الدفترية",
+        "القيمة الدفترية للسهم"
+      ]
+    },
+    {
+      "english": "Market value",
+      "category": "general_business",
+      "arabic": [
+        "القيمة السوقية",
+        "القيمة السوقية للسهم"
+      ]
+    },
+    {
+      "english": "Net realisable value",
+      "category": "general_business",
+      "arabic": [
+        "صافي القيمة القابلة للتحقق",
+        "صافي القيمة البيعية"
+      ]
+    },
+    {
+      "english": "Recoverable amount",
+      "category": "general_business",
+      "arabic": [
+        "القيمة القابلة للاسترداد",
+        "المبلغ القابل للاسترداد"
+      ]
+    },
+    {
+      "english": "Value in use",
+      "category": "general_business",
+      "arabic": [
+        "القيمة قيد الاستخدام",
+        "القيمة أثناء الاستخدام"
+      ]
+    },
+    {
+      "english": "Useful life",
+      "category": "general_business",
+      "arabic": [
+        "العمر الإنتاجي",
+        "العمر الافتراضي",
+        "العمر الإنتاجي المقدر"
+      ]
+    },
+    {
+      "english": "Salvage value",
+      "category": "general_business",
+      "arabic": [
+        "القيمة المتبقية",
+        "قيمة الخردة"
+      ]
+    },
+    {
+      "english": "Depreciation for the year",
+      "category": "general_business",
+      "arabic": [
+        "استهلاك السنة",
+        "إهلاك السنة"
+      ]
+    },
+    {
+      "english": "Accumulated depreciation",
+      "category": "general_business",
+      "arabic": [
+        "مجمع الاستهلاك",
+        "الاستهلاك المتراكم",
+        "مجمع الإهلاك"
+      ]
+    },
+    {
+      "english": "Amortisation for the year",
+      "category": "general_business",
+      "arabic": [
+        "إطفاء السنة",
+        "اطفاء السنة"
+      ]
+    },
+    {
+      "english": "Cost",
+      "category": "general_business",
+      "arabic": [
+        "التكلفة",
+        "الكلفة"
+      ]
+    },
+    {
+      "english": "Additions",
+      "category": "general_business",
+      "arabic": [
+        "الإضافات",
+        "إضافات"
+      ]
+    },
+    {
+      "english": "Disposals",
+      "category": "general_business",
+      "arabic": [
+        "الاستبعادات",
+        "المستبعدات",
+        "استبعادات"
+      ]
+    },
+    {
+      "english": "Transfers",
+      "category": "general_business",
+      "arabic": [
+        "التحويلات",
+        "المحول",
+        "تحويلات"
+      ]
+    },
+    {
+      "english": "Revenue recognition",
+      "category": "general_business",
+      "arabic": [
+        "الاعتراف بالإيراد",
+        "إثبات الإيرادات"
+      ]
+    },
+    {
+      "english": "Deferred revenue",
+      "category": "general_business",
+      "arabic": [
+        "الإيرادات المؤجلة",
+        "إيرادات مؤجلة"
+      ]
+    },
+    {
+      "english": "Accrued revenue",
+      "category": "general_business",
+      "arabic": [
+        "الإيرادات المستحقة",
+        "إيرادات مستحقة غير مفوترة"
+      ]
+    },
+    {
+      "english": "Working capital",
+      "category": "general_business",
+      "arabic": [
+        "رأس المال العامل",
+        "صافي رأس المال العامل"
+      ]
+    },
+    {
+      "english": "Capital expenditure",
+      "category": "general_business",
+      "arabic": [
+        "النفقات الرأسمالية",
+        "المصروفات الرأسمالية",
+        "الإنفاق الرأسمالي"
+      ]
+    },
+    {
+      "english": "Operating expenditure",
+      "category": "general_business",
+      "arabic": [
+        "النفقات التشغيلية",
+        "المصروفات التشغيلية"
+      ]
+    },
+    {
+      "english": "Budget",
+      "category": "general_business",
+      "arabic": [
+        "الموازنة",
+        "الميزانية التقديرية",
+        "الموازنة التقديرية"
+      ]
+    },
+    {
+      "english": "Forecast",
+      "category": "general_business",
+      "arabic": [
+        "التوقعات",
+        "التنبؤات",
+        "المتوقع"
+      ]
+    },
+    {
+      "english": "Actual",
+      "category": "general_business",
+      "arabic": [
+        "الفعلي",
+        "المبالغ الفعلية"
+      ]
+    },
+    {
+      "english": "Variance",
+      "category": "general_business",
+      "arabic": [
+        "الانحراف",
+        "الفرق",
+        "التباين"
+      ]
+    },
+    {
+      "english": "Reclassification",
+      "category": "general_business",
+      "arabic": [
+        "إعادة التصنيف",
+        "اعادة التصنيف"
+      ]
+    },
+    {
+      "english": "Consolidation",
+      "category": "general_business",
+      "arabic": [
+        "التوحيد",
+        "التجميع",
+        "توحيد القوائم"
+      ]
+    },
+    {
+      "english": "Elimination",
+      "category": "general_business",
+      "arabic": [
+        "الاستبعاد",
+        "الحذف",
+        "استبعاد المعاملات"
+      ]
+    },
+    {
+      "english": "Adjustment",
+      "category": "general_business",
+      "arabic": [
+        "التسوية",
+        "التعديل",
+        "تسوية"
+      ]
+    },
+    {
+      "english": "Estimate",
+      "category": "general_business",
+      "arabic": [
+        "التقدير",
+        "المقدّر",
+        "تقدير"
+      ]
+    },
+    {
+      "english": "Impairment loss",
+      "category": "general_business",
+      "arabic": [
+        "خسارة انخفاض القيمة",
+        "خسائر انخفاض القيمة"
+      ]
+    },
+    {
+      "english": "Depreciation rate",
+      "category": "general_business",
+      "arabic": [
+        "معدل الاستهلاك",
+        "نسبة الاستهلاك"
+      ]
+    }
+  ]
+}

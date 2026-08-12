@@ -1,0 +1,1511 @@
+﻿english,category,arabic
+Consolidated income statement,statement_titles,قائمة الدخل الموحدة
+Consolidated income statement,statement_titles,بيان الدخل الموحد
+Consolidated income statement,statement_titles,قائمة الدخل المجمعة
+Income statement,statement_titles,قائمة الدخل
+Income statement,statement_titles,بيان الدخل
+Statement of profit or loss,statement_titles,قائمة الأرباح أو الخسائر
+Statement of profit or loss,statement_titles,قائمة الربح أو الخسارة
+Consolidated statement of comprehensive income,statement_titles,قائمة الدخل الشامل الموحدة
+Consolidated statement of comprehensive income,statement_titles,قائمة الدخل الشامل الموحد
+Statement of comprehensive income,statement_titles,قائمة الدخل الشامل
+Statement of comprehensive income,statement_titles,بيان الدخل الشامل
+Consolidated balance sheet,statement_titles,الميزانية العمومية الموحدة
+Consolidated balance sheet,statement_titles,قائمة المركز المالي الموحدة
+Consolidated balance sheet,statement_titles,بيان المركز المالي الموحد
+Balance sheet,statement_titles,الميزانية العمومية
+Balance sheet,statement_titles,قائمة المركز المالي
+Balance sheet,statement_titles,بيان المركز المالي
+Statement of financial position,statement_titles,قائمة المركز المالي
+Statement of financial position,statement_titles,بيان المركز المالي
+Consolidated statement of cash flows,statement_titles,قائمة التدفقات النقدية الموحدة
+Consolidated statement of cash flows,statement_titles,بيان التدفقات النقدية الموحد
+Statement of cash flows,statement_titles,قائمة التدفقات النقدية
+Statement of cash flows,statement_titles,بيان التدفقات النقدية
+Statement of cash flows,statement_titles,قائمة التدفق النقدي
+Consolidated statement of changes in equity,statement_titles,قائمة التغيرات في حقوق الملكية الموحدة
+Consolidated statement of changes in equity,statement_titles,قائمة التغيرات في حقوق المساهمين الموحدة
+Statement of changes in equity,statement_titles,قائمة التغيرات في حقوق الملكية
+Statement of changes in equity,statement_titles,قائمة التغيرات في حقوق المساهمين
+Notes to the financial statements,statement_titles,الإيضاحات حول القوائم المالية
+Notes to the financial statements,statement_titles,إيضاحات حول القوائم المالية
+Notes to the financial statements,statement_titles,الإيضاحات المتممة للقوائم المالية
+Trial balance,statement_titles,ميزان المراجعة
+General ledger,statement_titles,دفتر الأستاذ العام
+General ledger,statement_titles,الأستاذ العام
+Financial statements,statement_titles,القوائم المالية
+Financial statements,statement_titles,البيانات المالية
+Auditor's report,statement_titles,تقرير مراقب الحسابات
+Auditor's report,statement_titles,تقرير المدقق
+Auditor's report,statement_titles,تقرير المراجع
+Condensed consolidated interim financial statements,statement_titles,القوائم المالية المرحلية الموحدة المختصرة
+Condensed consolidated interim financial statements,statement_titles,القوائم المالية المرحلية المختصرة الموحدة
+Interim financial statements,statement_titles,القوائم المالية المرحلية
+Interim financial statements,statement_titles,البيانات المالية المرحلية
+Segmental information,statement_titles,المعلومات القطاعية
+Segmental information,statement_titles,معلومات القطاعات
+Segmental information,statement_titles,التقارير القطاعية
+Directors' report,statement_titles,تقرير مجلس الإدارة
+Directors' report,statement_titles,تقرير أعضاء مجلس الإدارة
+Independent auditor's report,statement_titles,تقرير مراقب الحسابات المستقل
+Independent auditor's report,statement_titles,تقرير المدقق المستقل
+Independent auditor's report,statement_titles,تقرير المراجع المستقل
+Statement of changes in shareholders' equity,statement_titles,قائمة التغيرات في حقوق المساهمين
+Statement of changes in shareholders' equity,statement_titles,بيان التغيرات في حقوق المساهمين
+Notes,statement_titles,الإيضاحات
+Notes,statement_titles,الملاحظات
+Notes,statement_titles,إيضاحات
+Accounting policies,statement_titles,السياسات المحاسبية
+Accounting policies,statement_titles,السياسات المحاسبية المتبعة
+Significant accounting policies,statement_titles,السياسات المحاسبية الهامة
+Significant accounting policies,statement_titles,أهم السياسات المحاسبية
+Significant accounting policies,statement_titles,السياسات المحاسبية الرئيسية
+Basis of preparation,statement_titles,أساس الإعداد
+Basis of preparation,statement_titles,أسس الإعداد
+Basis of preparation,statement_titles,أساس إعداد القوائم المالية
+Basis of consolidation,statement_titles,أساس التوحيد
+Basis of consolidation,statement_titles,أسس توحيد القوائم المالية
+Note,headers,إيضاح
+Note,headers,ملاحظة
+Note,headers,رقم الإيضاح
+Notes,headers,إيضاحات
+Notes,headers,ملاحظات
+Description,headers,البيان
+Description,headers,الوصف
+Description,headers,التفاصيل
+Description,headers,البند
+Item,headers,البند
+Item,headers,العنصر
+Total,headers,الإجمالي
+Total,headers,المجموع
+Total,headers,إجمالي
+Total,headers,مجموع
+Subtotal,headers,المجموع الفرعي
+Subtotal,headers,الإجمالي الفرعي
+Grand total,headers,الإجمالي الكلي
+Grand total,headers,المجموع الكلي
+Change,headers,التغير
+Change,headers,التغيير
+Change,headers,الفرق
+Change %,headers,نسبة التغير
+Change %,headers,التغير %
+Change %,headers,التغير بالنسبة المئوية
+Amount,headers,المبلغ
+Amount,headers,القيمة
+Balance,headers,الرصيد
+Balance,headers,الرصيد المتبقي
+Opening balance,headers,الرصيد الافتتاحي
+Opening balance,headers,رصيد أول المدة
+Opening balance,headers,الرصيد أول الفترة
+Closing balance,headers,الرصيد الختامي
+Closing balance,headers,رصيد آخر المدة
+Closing balance,headers,الرصيد آخر الفترة
+Debit,headers,مدين
+Credit,headers,دائن
+Current year,headers,السنة الحالية
+Current year,headers,العام الحالي
+Current year,headers,السنة الجارية
+Prior year,headers,السنة السابقة
+Prior year,headers,العام السابق
+Prior year,headers,السنة المقارنة
+As at 31 December,headers,كما في 31 ديسمبر
+As at 31 December,headers,كما في ٣١ ديسمبر
+As at 31 December,headers,كما في 31 كانون الأول
+For the year ended 31 December,headers,للسنة المنتهية في 31 ديسمبر
+For the year ended 31 December,headers,عن السنة المنتهية في 31 ديسمبر
+For the period ended,headers,للفترة المنتهية في
+For the period ended,headers,عن الفترة المنتهية في
+Year ended,headers,السنة المنتهية في
+Year ended,headers,للسنة المنتهية في
+Quarter,headers,الربع
+Quarter,headers,ربع السنة
+First quarter,headers,الربع الأول
+Second quarter,headers,الربع الثاني
+Third quarter,headers,الربع الثالث
+Fourth quarter,headers,الربع الرابع
+Audited,headers,مدققة
+Audited,headers,مراجعة
+Audited,headers,مدقّقة
+Unaudited,headers,غير مدققة
+Unaudited,headers,غير مراجعة
+Consolidated,headers,موحدة
+Consolidated,headers,موحد
+Consolidated,headers,مجمعة
+Consolidated,headers,المجمعة
+Restated,headers,معاد إدراجها
+Restated,headers,معدلة
+Restated,headers,معاد بيانها
+Interest income,income_statement,إيرادات الفوائد
+Interest income,income_statement,دخل الفوائد
+Interest income,income_statement,إيرادات فوائد
+Interest expense,income_statement,مصروفات الفوائد
+Interest expense,income_statement,مصاريف الفوائد
+Interest expense,income_statement,أعباء الفوائد
+Net interest income,income_statement,صافي إيرادات الفوائد
+Net interest income,income_statement,صافي دخل الفوائد
+Income from Islamic financing,income_statement,إيرادات التمويل الإسلامي
+Income from Islamic financing,income_statement,دخل التمويل الإسلامي
+Fees and commission income,income_statement,إيرادات الرسوم والعمولات
+Fees and commission income,income_statement,دخل الأتعاب والعمولات
+Fees and commission income,income_statement,إيرادات الأتعاب والعمولات
+Fees and commission expense,income_statement,مصروفات الرسوم والعمولات
+Fees and commission expense,income_statement,مصاريف الأتعاب والعمولات
+Net fee and commission income,income_statement,صافي إيرادات الرسوم والعمولات
+Net fee and commission income,income_statement,صافي دخل الأتعاب والعمولات
+Net trading income,income_statement,صافي إيرادات المتاجرة
+Net trading income,income_statement,صافي دخل المتاجرة
+Net trading income,income_statement,صافي أرباح المتاجرة
+Foreign exchange income,income_statement,إيرادات صرف العملات الأجنبية
+Foreign exchange income,income_statement,أرباح العملات الأجنبية
+Dividend income,income_statement,إيرادات توزيعات الأرباح
+Dividend income,income_statement,دخل توزيعات الأرباح
+Other operating income,income_statement,إيرادات تشغيلية أخرى
+Other operating income,income_statement,دخل تشغيلي آخر
+Other operating income,income_statement,الإيرادات التشغيلية الأخرى
+Operating income,income_statement,إيرادات التشغيل
+Operating income,income_statement,الإيرادات التشغيلية
+Operating income,income_statement,إجمالي الدخل التشغيلي
+Operating income,income_statement,الدخل التشغيلي
+Total operating income,income_statement,إجمالي الإيرادات التشغيلية
+Total operating income,income_statement,إجمالي الدخل التشغيلي
+Staff costs,income_statement,تكاليف الموظفين
+Staff costs,income_statement,مصروفات الموظفين
+Staff costs,income_statement,تكاليف العاملين
+Staff costs,income_statement,نفقات الموظفين
+Salaries and employee benefits,income_statement,الرواتب ومزايا الموظفين
+Salaries and employee benefits,income_statement,الرواتب والمزايا
+Premises costs,income_statement,تكاليف المباني
+Premises costs,income_statement,مصروفات المقرات
+Premises costs,income_statement,تكاليف المقر
+General and administrative expenses,income_statement,المصروفات العمومية والإدارية
+General and administrative expenses,income_statement,مصاريف عمومية وإدارية
+General and administrative expenses,income_statement,المصاريف الإدارية والعمومية
+Depreciation and amortisation,income_statement,الاستهلاك والإطفاء
+Depreciation and amortisation,income_statement,الإهلاك والإطفاء
+Operating expenses,income_statement,المصروفات التشغيلية
+Operating expenses,income_statement,مصاريف التشغيل
+Operating expenses,income_statement,إجمالي المصروفات التشغيلية
+Total operating expenses,income_statement,إجمالي المصروفات التشغيلية
+Total operating expenses,income_statement,إجمالي مصاريف التشغيل
+Operating profit before impairment losses and taxation,income_statement,الربح التشغيلي قبل خسائر انخفاض القيمة والضرائب
+Operating profit before impairment losses and taxation,income_statement,الأرباح التشغيلية قبل مخصصات انخفاض القيمة والضريبة
+Credit impairment,income_statement,مخصص انخفاض قيمة الائتمان
+Credit impairment,income_statement,خسائر انخفاض القيمة الائتمانية
+Credit impairment,income_statement,مخصص خسائر الائتمان
+Impairment charge,income_statement,مصروف انخفاض القيمة
+Impairment charge,income_statement,عبء انخفاض القيمة
+Expected credit losses,income_statement,الخسائر الائتمانية المتوقعة
+Expected credit losses,income_statement,خسائر الائتمان المتوقعة
+Provision for credit losses,income_statement,مخصص خسائر الائتمان
+Provision for credit losses,income_statement,مخصص خسائر القروض
+Other impairment,income_statement,انخفاض قيمة أخرى
+Other impairment,income_statement,خسائر انخفاض قيمة أخرى
+Goodwill impairment,income_statement,انخفاض قيمة الشهرة
+Goodwill impairment,income_statement,خسارة انخفاض قيمة الشهرة
+Share of profit from associates and joint ventures,income_statement,الحصة من أرباح الشركات الزميلة والمشاريع المشتركة
+Share of profit from associates and joint ventures,income_statement,حصة من نتائج الشركات الزميلة
+Profit before taxation,income_statement,الربح قبل الضريبة
+Profit before taxation,income_statement,الربح قبل الضرائب
+Profit before taxation,income_statement,صافي الربح قبل الضريبة
+Profit before taxation,income_statement,الأرباح قبل الضريبة
+Taxation,income_statement,الضريبة
+Taxation,income_statement,الضرائب
+Taxation,income_statement,مصروف الضريبة
+Taxation,income_statement,ضريبة الدخل
+Income tax expense,income_statement,مصروف ضريبة الدخل
+Income tax expense,income_statement,مصروف الضريبة على الدخل
+Zakat,income_statement,الزكاة
+Zakat,income_statement,مصروف الزكاة
+Zakat and income tax,income_statement,الزكاة وضريبة الدخل
+Zakat and income tax,income_statement,الزكاة والضريبة
+Profit for the year,income_statement,ربح السنة
+Profit for the year,income_statement,صافي ربح السنة
+Profit for the year,income_statement,الربح للسنة
+Profit for the year,income_statement,صافي الربح للسنة
+Profit for the period,income_statement,ربح الفترة
+Profit for the period,income_statement,صافي ربح الفترة
+Profit for the period,income_statement,الربح للفترة
+Net profit,income_statement,صافي الربح
+Net profit,income_statement,صافي الأرباح
+Net loss,income_statement,صافي الخسارة
+Net loss,income_statement,صافي الخسائر
+Profit attributable to shareholders,income_statement,الربح العائد للمساهمين
+Profit attributable to shareholders,income_statement,الأرباح العائدة للمساهمين
+Profit attributable to equity holders,income_statement,الربح العائد لحملة حقوق الملكية
+Profit attributable to equity holders,income_statement,الربح العائد لأصحاب حقوق الملكية
+Profit attributable to parent company shareholders,income_statement,الربح العائد لمساهمي الشركة الأم
+Non-controlling interests,income_statement,الحقوق غير المسيطرة
+Non-controlling interests,income_statement,حقوق الأقلية
+Non-controlling interests,income_statement,حصص غير مسيطرة
+Basic earnings per share,income_statement,ربحية السهم الأساسية
+Basic earnings per share,income_statement,العائد الأساسي للسهم
+Basic earnings per share,income_statement,ربح السهم الأساسي
+Diluted earnings per share,income_statement,ربحية السهم المخفضة
+Diluted earnings per share,income_statement,العائد المخفض للسهم
+Diluted earnings per share,income_statement,ربح السهم المخفض
+Earnings per share,income_statement,ربحية السهم
+Earnings per share,income_statement,العائد على السهم
+Earnings per share,income_statement,ربح السهم
+Revenue,income_statement,الإيرادات
+Revenue,income_statement,الإيراد
+Revenue,income_statement,المبيعات
+Revenue from contracts with customers,income_statement,الإيرادات من العقود مع العملاء
+Revenue from contracts with customers,income_statement,إيرادات العقود مع العملاء
+Sales,income_statement,المبيعات
+Sales,income_statement,إيرادات المبيعات
+Cost of sales,income_statement,تكلفة المبيعات
+Cost of sales,income_statement,تكلفة المبيعات المباعة
+Cost of revenue,income_statement,تكلفة الإيرادات
+Cost of revenue,income_statement,تكلفة الإيراد
+Cost of goods sold,income_statement,تكلفة البضاعة المباعة
+Cost of goods sold,income_statement,تكلفة البضائع المباعة
+Gross profit,income_statement,مجمل الربح
+Gross profit,income_statement,إجمالي الربح
+Gross profit,income_statement,الربح الإجمالي
+Operating profit,income_statement,الربح التشغيلي
+Operating profit,income_statement,ربح التشغيل
+Operating profit,income_statement,الأرباح التشغيلية
+Selling and distribution expenses,income_statement,مصاريف البيع والتوزيع
+Selling and distribution expenses,income_statement,مصروفات البيع والتوزيع
+Marketing expenses,income_statement,مصاريف التسويق
+Marketing expenses,income_statement,مصروفات التسويق والإعلان
+Finance costs,income_statement,تكاليف التمويل
+Finance costs,income_statement,أعباء التمويل
+Finance costs,income_statement,تكاليف تمويلية
+Finance income,income_statement,إيرادات التمويل
+Finance income,income_statement,إيرادات تمويلية
+Finance income,income_statement,دخل التمويل
+Other income,income_statement,إيرادات أخرى
+Other income,income_statement,دخل آخر
+Other income,income_statement,الإيرادات الأخرى
+Other expenses,income_statement,مصاريف أخرى
+Other expenses,income_statement,مصروفات أخرى
+Other expenses,income_statement,المصاريف الأخرى
+Gain on sale of investments,income_statement,الأرباح من بيع الاستثمارات
+Gain on sale of investments,income_statement,أرباح بيع الاستثمارات
+Gain on sale of investments,income_statement,مكاسب بيع الاستثمارات
+Loss on sale of investments,income_statement,الخسائر من بيع الاستثمارات
+Loss on sale of investments,income_statement,خسائر بيع الاستثمارات
+Gain on disposal of property and equipment,income_statement,أرباح بيع الممتلكات والمعدات
+Gain on disposal of property and equipment,income_statement,مكاسب استبعاد الممتلكات والمعدات
+Net gain from financial instruments at fair value,income_statement,صافي الأرباح من الأدوات المالية بالقيمة العادلة
+Realised gains,income_statement,الأرباح المحققة
+Realised gains,income_statement,المكاسب المحققة
+Unrealised gains,income_statement,الأرباح غير المحققة
+Unrealised gains,income_statement,المكاسب غير المحققة
+Impairment reversal,income_statement,عكس انخفاض القيمة
+Impairment reversal,income_statement,رد مخصص انخفاض القيمة
+Impairment reversal,income_statement,استرداد انخفاض القيمة
+Provisions no longer required,income_statement,المخصصات المستردة
+Provisions no longer required,income_statement,مخصصات لم تعد مطلوبة
+Rental income,income_statement,إيرادات الإيجار
+Rental income,income_statement,دخل الإيجارات
+Government grants,income_statement,المنح الحكومية
+Government grants,income_statement,الإعانات الحكومية
+Loss for the year,income_statement,خسارة السنة
+Loss for the year,income_statement,صافي خسارة السنة
+Loss for the year,income_statement,الخسارة للسنة
+Total income,income_statement,إجمالي الدخل
+Total income,income_statement,مجموع الإيرادات
+Total income,income_statement,إجمالي الإيرادات
+Profit before Zakat and tax,income_statement,الربح قبل الزكاة والضريبة
+Profit before Zakat and tax,income_statement,صافي الربح قبل الزكاة والضريبة
+Net profit for the year,income_statement,صافي ربح السنة
+Net profit for the year,income_statement,صافي الربح للسنة
+Net profit attributable to owners of the parent,income_statement,صافي الربح العائد لمالكي الشركة الأم
+Net profit attributable to owners of the parent,income_statement,الربح العائد لمساهمي الشركة الأم
+Other comprehensive income,comprehensive_income,الدخل الشامل الآخر
+Other comprehensive income,comprehensive_income,الإيرادات الشاملة الأخرى
+Items that may be reclassified to income statement,comprehensive_income,البنود التي قد يعاد تصنيفها إلى قائمة الدخل
+Items that may be reclassified to income statement,comprehensive_income,بنود يمكن إعادة تصنيفها لاحقاً إلى الأرباح أو الخسائر
+Items that will not be reclassified to income statement,comprehensive_income,البنود التي لن يعاد تصنيفها إلى قائمة الدخل
+Items that will not be reclassified to income statement,comprehensive_income,بنود لن يعاد تصنيفها إلى الأرباح أو الخسائر
+Exchange differences on translation of foreign operations,comprehensive_income,فروق ترجمة العمليات الأجنبية
+Exchange differences on translation of foreign operations,comprehensive_income,فروق تحويل العمليات الأجنبية
+Cash flow hedges,comprehensive_income,تحوطات التدفقات النقدية
+Cash flow hedges,comprehensive_income,تحوط التدفق النقدي
+Actuarial gain/(loss) on retirement benefit obligations,comprehensive_income,الأرباح/(الخسائر) الاكتوارية على التزامات مكافآت التقاعد
+Revaluation surplus,comprehensive_income,فائض إعادة التقييم
+Revaluation surplus,comprehensive_income,احتياطي إعادة التقييم
+Total comprehensive income for the year,comprehensive_income,إجمالي الدخل الشامل للسنة
+Total comprehensive income for the year,comprehensive_income,مجموع الدخل الشامل للسنة
+Total comprehensive income attributable to shareholders,comprehensive_income,إجمالي الدخل الشامل العائد للمساهمين
+Total comprehensive income attributable to shareholders,comprehensive_income,مجموع الدخل الشامل العائد للمساهمين
+Net change in fair value of investments,comprehensive_income,صافي التغير في القيمة العادلة للاستثمارات
+Net change in fair value of investments,comprehensive_income,التغير في القيمة العادلة للاستثمارات
+Net movement in cash flow hedge reserve,comprehensive_income,صافي الحركة في احتياطي تحوط التدفقات النقدية
+Remeasurement of defined benefit obligations,comprehensive_income,إعادة قياس التزامات المنافع المحددة
+Remeasurement of defined benefit obligations,comprehensive_income,إعادة قياس مكافآت نهاية الخدمة
+Share of other comprehensive income of associates,comprehensive_income,الحصة من الدخل الشامل الآخر للشركات الزميلة
+Assets,assets,الأصول
+Assets,assets,الموجودات
+Cash and balances at central banks,assets,النقد والأرصدة لدى البنوك المركزية
+Cash and balances at central banks,assets,النقد والأرصدة لدى المصارف المركزية
+Cash and balances at central banks,assets,نقد وأرصدة لدى البنك المركزي
+Cash and cash equivalents,assets,النقد وما في حكمه
+Cash and cash equivalents,assets,النقدية وما يعادلها
+Cash and cash equivalents,assets,النقد وما يعادله
+Due from banks,assets,مستحق من البنوك
+Due from banks,assets,المستحق من المصارف
+Due from banks,assets,أرصدة لدى البنوك
+Loans and advances to banks,assets,القروض والسلف للبنوك
+Loans and advances to banks,assets,قروض وسلف للمصارف
+Loans and advances to customers,assets,القروض والسلف للعملاء
+Loans and advances to customers,assets,قروض وسلف للعملاء
+Loans and advances to customers,assets,القروض والتسليفات للعملاء
+Loans and advances,assets,القروض والسلف
+Loans and advances,assets,القروض والتسليفات
+Loans and advances,assets,التسهيلات الائتمانية
+Islamic financing and investing assets,assets,أصول التمويل والاستثمار الإسلامية
+Islamic financing and investing assets,assets,موجودات التمويل الإسلامي
+Financial assets held at fair value through profit or loss,assets,الأصول المالية بالقيمة العادلة من خلال الأرباح أو الخسائر
+Financial assets held at fair value through profit or loss,assets,موجودات مالية بالقيمة العادلة من خلال الربح أو الخسارة
+Financial assets at fair value through other comprehensive income,assets,الأصول المالية بالقيمة العادلة من خلال الدخل الشامل الآخر
+Derivative financial instruments,assets,الأدوات المالية المشتقة
+Derivative financial instruments,assets,المشتقات المالية
+Derivative financial instruments,assets,أدوات مالية مشتقة
+Investment securities,assets,الأوراق المالية الاستثمارية
+Investment securities,assets,استثمارات في أوراق مالية
+Investment securities,assets,الاستثمارات في الأوراق المالية
+Investments,assets,الاستثمارات
+Investments,assets,استثمارات
+Investment in associates and joint ventures,assets,الاستثمار في الشركات الزميلة والمشاريع المشتركة
+Investment in associates and joint ventures,assets,استثمارات في شركات زميلة ومشاريع مشتركة
+Investment properties,assets,العقارات الاستثمارية
+Investment properties,assets,الاستثمارات العقارية
+"Property, plant and equipment",assets,الممتلكات والآلات والمعدات
+"Property, plant and equipment",assets,الممتلكات والمعدات
+"Property, plant and equipment",assets,العقارات والآلات والمعدات
+Property and equipment,assets,الممتلكات والمعدات
+Property and equipment,assets,العقارات والمعدات
+Right-of-use assets,assets,أصول حق الاستخدام
+Right-of-use assets,assets,موجودات حق الاستخدام
+Goodwill,assets,الشهرة
+Goodwill,assets,شهرة
+Goodwill and intangible assets,assets,الشهرة والأصول غير الملموسة
+Goodwill and intangible assets,assets,الشهرة والموجودات غير الملموسة
+Intangible assets,assets,الأصول غير الملموسة
+Intangible assets,assets,الموجودات غير الملموسة
+Intangible assets,assets,الأصول المعنوية
+Deferred tax assets,assets,الأصول الضريبية المؤجلة
+Deferred tax assets,assets,موجودات ضريبية مؤجلة
+Deferred tax assets,assets,الضريبة المؤجلة - أصول
+Current tax assets,assets,الأصول الضريبية المتداولة
+Current tax assets,assets,موجودات ضريبية متداولة
+Other assets,assets,أصول أخرى
+Other assets,assets,موجودات أخرى
+Other assets,assets,الأصول الأخرى
+Prepayments and accrued income,assets,المصروفات المدفوعة مقدماً والإيرادات المستحقة
+Prepayments and accrued income,assets,مصاريف مدفوعة مقدماً وإيرادات مستحقة
+Assets held for sale,assets,الأصول المحتفظ بها للبيع
+Assets held for sale,assets,الموجودات المحتفظ بها بغرض البيع
+Inventory,assets,المخزون
+Inventory,assets,البضاعة
+Trade receivables,assets,الذمم المدينة التجارية
+Trade receivables,assets,المدينون التجاريون
+Trade receivables,assets,ذمم مدينة تجارية
+Accounts receivable,assets,الذمم المدينة
+Accounts receivable,assets,المدينون
+Accounts receivable,assets,الحسابات المدينة
+Total assets,assets,إجمالي الأصول
+Total assets,assets,مجموع الأصول
+Total assets,assets,إجمالي الموجودات
+Total assets,assets,مجموع الموجودات
+Current assets,assets,الأصول المتداولة
+Current assets,assets,الموجودات المتداولة
+Non-current assets,assets,الأصول غير المتداولة
+Non-current assets,assets,الموجودات غير المتداولة
+Total current assets,assets,إجمالي الأصول المتداولة
+Total current assets,assets,مجموع الموجودات المتداولة
+Total non-current assets,assets,إجمالي الأصول غير المتداولة
+Total non-current assets,assets,مجموع الموجودات غير المتداولة
+Statutory deposit with central bank,assets,الوديعة النظامية لدى البنك المركزي
+Statutory deposit with central bank,assets,الاحتياطي النظامي لدى المصرف المركزي
+Statutory deposit with central bank,assets,الوديعة الإلزامية لدى البنك المركزي
+Mandatory reserve deposit,assets,الاحتياطي الإلزامي
+Mandatory reserve deposit,assets,وديعة الاحتياطي الإلزامي
+Balances with central banks,assets,الأرصدة لدى البنوك المركزية
+Balances with central banks,assets,أرصدة لدى المصارف المركزية
+Balances with banks,assets,الأرصدة لدى البنوك
+Balances with banks,assets,أرصدة لدى المصارف
+Balances with banks,assets,أرصدة لدى بنوك
+Placements with banks,assets,الإيداعات لدى البنوك
+Placements with banks,assets,إيداعات لدى المصارف
+Reverse repurchase agreements,assets,اتفاقيات إعادة الشراء العكسي
+Reverse repurchase agreements,assets,اتفاقات إعادة الشراء العكسية
+Precious metals,assets,المعادن الثمينة
+Precious metals,assets,معادن ثمينة
+Bills discounted,assets,الكمبيالات المخصومة
+Bills discounted,assets,أوراق القبض المخصومة
+Customers' acceptances,assets,قبولات العملاء
+Customers' acceptances,assets,القبولات المصرفية للعملاء
+Financial investments,assets,الاستثمارات المالية
+Financial investments,assets,استثمارات مالية
+Financial assets at amortised cost,assets,الأصول المالية بالتكلفة المطفأة
+Financial assets at amortised cost,assets,موجودات مالية بالتكلفة المطفأة
+Available-for-sale investments,assets,الاستثمارات المتاحة للبيع
+Available-for-sale investments,assets,استثمارات متاحة للبيع
+Held-to-maturity investments,assets,الاستثمارات المحتفظ بها حتى تاريخ الاستحقاق
+Held-to-maturity investments,assets,استثمارات محتفظ بها حتى الاستحقاق
+Trading investments,assets,استثمارات المتاجرة
+Trading investments,assets,الاستثمارات المحتفظ بها للمتاجرة
+Trading investments,assets,محفظة المتاجرة
+Equity investments,assets,الاستثمارات في الأسهم
+Equity investments,assets,استثمارات في أدوات حقوق الملكية
+Debt investments,assets,الاستثمارات في أدوات الدين
+Debt investments,assets,استثمارات في سندات الدين
+Sukuk investments,assets,الاستثمارات في الصكوك
+Sukuk investments,assets,استثمارات في صكوك
+Investment in subsidiaries,assets,الاستثمار في الشركات التابعة
+Investment in subsidiaries,assets,استثمارات في شركات تابعة
+Investment in associates,assets,الاستثمار في الشركات الزميلة
+Investment in associates,assets,استثمارات في شركات زميلة
+Land,assets,الأراضي
+Land,assets,أراضي
+Buildings,assets,المباني
+Buildings,assets,مبانٍ
+Buildings,assets,العقارات
+Furniture and fixtures,assets,الأثاث والتجهيزات
+Furniture and fixtures,assets,الأثاث والمفروشات
+Motor vehicles,assets,السيارات
+Motor vehicles,assets,المركبات
+Motor vehicles,assets,وسائل النقل
+Office equipment,assets,المعدات المكتبية
+Office equipment,assets,معدات المكتب
+Office equipment,assets,الأجهزة المكتبية
+Computer equipment and software,assets,أجهزة وبرامج الحاسب الآلي
+Computer equipment and software,assets,الحاسبات الآلية والبرامج
+Capital work in progress,assets,الأعمال الرأسمالية تحت التنفيذ
+Capital work in progress,assets,مشاريع تحت التنفيذ
+Capital work in progress,assets,أعمال تحت التنفيذ
+Leasehold improvements,assets,تحسينات على عقارات مستأجرة
+Leasehold improvements,assets,تحسينات المأجور
+Leasehold improvements,assets,التحسينات على المباني المستأجرة
+Net book value,assets,صافي القيمة الدفترية
+Net book value,assets,القيمة الدفترية الصافية
+Accrued income,assets,الإيرادات المستحقة
+Accrued income,assets,الدخل المستحق
+Prepaid expenses,assets,المصاريف المدفوعة مقدماً
+Prepaid expenses,assets,مصروفات مدفوعة مقدماً
+Advances and prepayments,assets,السلف والدفعات المقدمة
+Advances and prepayments,assets,الدفعات المقدمة والسلف
+Due from related parties,assets,المستحق من الأطراف ذات العلاقة
+Due from related parties,assets,أرصدة مدينة لأطراف ذات علاقة
+Financing to customers,assets,التمويل للعملاء
+Financing to customers,assets,التمويلات للعملاء
+Financing to customers,assets,التمويل الممنوح للعملاء
+Liabilities,liabilities,المطلوبات
+Liabilities,liabilities,الخصوم
+Liabilities,liabilities,الالتزامات
+Deposits by banks,liabilities,ودائع البنوك
+Deposits by banks,liabilities,ودائع المصارف
+Deposits by banks,liabilities,المستحق للبنوك
+Due to banks,liabilities,مستحق للبنوك
+Due to banks,liabilities,المستحق للمصارف
+Customer accounts,liabilities,حسابات العملاء
+Customer accounts,liabilities,ودائع العملاء
+Customer accounts,liabilities,حسابات الزبائن
+Customer deposits,liabilities,ودائع العملاء
+Customer deposits,liabilities,ودائع الزبائن
+Repurchase agreements,liabilities,اتفاقيات إعادة الشراء
+Repurchase agreements,liabilities,اتفاقات إعادة الشراء
+Financial liabilities held at fair value through profit or loss,liabilities,المطلوبات المالية بالقيمة العادلة من خلال الأرباح أو الخسائر
+Financial liabilities held at fair value through profit or loss,liabilities,خصوم مالية بالقيمة العادلة من خلال الربح أو الخسارة
+Debt securities in issue,liabilities,سندات الدين المصدرة
+Debt securities in issue,liabilities,أوراق الدين المصدرة
+Debt securities in issue,liabilities,السندات المصدرة
+Subordinated liabilities,liabilities,المطلوبات الثانوية
+Subordinated liabilities,liabilities,القروض المساندة
+Subordinated liabilities,liabilities,الخصوم المساندة
+Subordinated liabilities and other borrowed funds,liabilities,المطلوبات الثانوية والأموال المقترضة الأخرى
+Borrowings,liabilities,القروض
+Borrowings,liabilities,الاقتراضات
+Borrowings,liabilities,التمويلات
+Lease liabilities,liabilities,التزامات الإيجار
+Lease liabilities,liabilities,مطلوبات عقود الإيجار
+Provisions,liabilities,المخصصات
+Provisions,liabilities,مخصصات
+Provisions for liabilities and charges,liabilities,مخصصات المطلوبات والأعباء
+Provisions for liabilities and charges,liabilities,مخصصات الالتزامات والمصاريف
+Employee benefit obligations,liabilities,التزامات مكافآت الموظفين
+Employee benefit obligations,liabilities,مخصص مكافأة نهاية الخدمة
+Employee benefit obligations,liabilities,التزامات منافع الموظفين
+End of service benefits,liabilities,مكافأة نهاية الخدمة
+End of service benefits,liabilities,مخصص نهاية الخدمة
+Deferred tax liabilities,liabilities,المطلوبات الضريبية المؤجلة
+Deferred tax liabilities,liabilities,خصوم ضريبية مؤجلة
+Deferred tax liabilities,liabilities,الضريبة المؤجلة - التزامات
+Current tax liabilities,liabilities,المطلوبات الضريبية المتداولة
+Current tax liabilities,liabilities,خصوم ضريبية متداولة
+Current tax liabilities,liabilities,مخصص ضريبة الدخل
+Trade payables,liabilities,الذمم الدائنة التجارية
+Trade payables,liabilities,الدائنون التجاريون
+Trade payables,liabilities,ذمم دائنة تجارية
+Accounts payable,liabilities,الذمم الدائنة
+Accounts payable,liabilities,الدائنون
+Accounts payable,liabilities,الحسابات الدائنة
+Accruals and deferred income,liabilities,المصروفات المستحقة والإيرادات المؤجلة
+Accruals and deferred income,liabilities,مصاريف مستحقة وإيرادات مؤجلة
+Other liabilities,liabilities,مطلوبات أخرى
+Other liabilities,liabilities,خصوم أخرى
+Other liabilities,liabilities,التزامات أخرى
+Other liabilities,liabilities,المطلوبات الأخرى
+Liabilities held for sale,liabilities,المطلوبات المحتفظ بها للبيع
+Liabilities held for sale,liabilities,الخصوم المحتفظ بها بغرض البيع
+Total liabilities,liabilities,إجمالي المطلوبات
+Total liabilities,liabilities,مجموع المطلوبات
+Total liabilities,liabilities,إجمالي الخصوم
+Total liabilities,liabilities,مجموع الالتزامات
+Current liabilities,liabilities,المطلوبات المتداولة
+Current liabilities,liabilities,الخصوم المتداولة
+Current liabilities,liabilities,الالتزامات المتداولة
+Non-current liabilities,liabilities,المطلوبات غير المتداولة
+Non-current liabilities,liabilities,الخصوم غير المتداولة
+Total current liabilities,liabilities,إجمالي المطلوبات المتداولة
+Total current liabilities,liabilities,مجموع الالتزامات المتداولة
+Margin accounts,liabilities,حسابات الهامش
+Margin accounts,liabilities,حسابات التأمينات النقدية
+Cash margins,liabilities,التأمينات النقدية
+Cash margins,liabilities,الهوامش النقدية
+Acceptances,liabilities,القبولات
+Acceptances,liabilities,القبولات المصرفية
+Bank acceptances,liabilities,القبولات المصرفية
+Bank acceptances,liabilities,قبولات مصرفية
+Sukuk issued,liabilities,الصكوك المصدرة
+Sukuk issued,liabilities,صكوك مصدرة
+Bonds issued,liabilities,السندات المصدرة
+Bonds issued,liabilities,سندات مصدرة
+Dividends payable,liabilities,توزيعات الأرباح المستحقة الدفع
+Dividends payable,liabilities,الأرباح الموزعة المستحقة
+Due to related parties,liabilities,المستحق للأطراف ذات العلاقة
+Due to related parties,liabilities,أرصدة دائنة لأطراف ذات علاقة
+Accrued expenses,liabilities,المصاريف المستحقة
+Accrued expenses,liabilities,المصروفات المستحقة
+Accrued expenses,liabilities,مصاريف مستحقة
+Deferred income,liabilities,الإيرادات المؤجلة
+Deferred income,liabilities,الدخل المؤجل
+Deferred income,liabilities,إيرادات مؤجلة
+Contract liabilities,liabilities,التزامات العقود
+Contract liabilities,liabilities,مطلوبات العقود
+Zakat payable,liabilities,الزكاة المستحقة
+Zakat payable,liabilities,مخصص الزكاة
+Zakat payable,liabilities,الزكاة المستحقة الدفع
+Income tax payable,liabilities,ضريبة الدخل المستحقة
+Income tax payable,liabilities,مخصص ضريبة الدخل
+Retentions payable,liabilities,المحتجزات الدائنة
+Retentions payable,liabilities,الدفعات المحتجزة
+Bank overdrafts,liabilities,السحب على المكشوف
+Bank overdrafts,liabilities,الجاري مدين بنكي
+Bank overdrafts,liabilities,السحوبات على المكشوف
+Short-term borrowings,liabilities,القروض قصيرة الأجل
+Short-term borrowings,liabilities,الاقتراض قصير الأجل
+Long-term borrowings,liabilities,القروض طويلة الأجل
+Long-term borrowings,liabilities,الاقتراض طويل الأجل
+Term loans,liabilities,القروض لأجل
+Term loans,liabilities,قروض لأجل
+Employees' end of service benefits,liabilities,مكافأة نهاية الخدمة للموظفين
+Employees' end of service benefits,liabilities,مخصص مكافأة نهاية خدمة الموظفين
+Employees' end of service benefits,liabilities,التزامات نهاية خدمة الموظفين
+Defined benefit obligations,liabilities,التزامات المنافع المحددة
+Defined benefit obligations,liabilities,التزامات المزايا المحددة
+Equity,equity,حقوق الملكية
+Equity,equity,حقوق المساهمين
+Equity,equity,الملكية
+Share capital,equity,رأس المال
+Share capital,equity,رأس مال الأسهم
+Share capital,equity,رأس المال المصدر
+Share premium,equity,علاوة إصدار الأسهم
+Share premium,equity,علاوة الإصدار
+Share premium,equity,علاوة إصدار
+Share capital and share premium,equity,رأس المال وعلاوة الإصدار
+Statutory reserve,equity,الاحتياطي النظامي
+Statutory reserve,equity,الاحتياطي القانوني
+General reserve,equity,الاحتياطي العام
+General reserve,equity,احتياطي عام
+Legal reserve,equity,الاحتياطي القانوني
+Other reserves,equity,احتياطيات أخرى
+Other reserves,equity,الاحتياطيات الأخرى
+Reserves,equity,الاحتياطيات
+Reserves,equity,احتياطيات
+Retained earnings,equity,الأرباح المبقاة
+Retained earnings,equity,الأرباح المحتجزة
+Retained earnings,equity,الأرباح المرحّلة
+Retained earnings,equity,الارباح المبقاه
+Accumulated losses,equity,الخسائر المتراكمة
+Accumulated losses,equity,الخسائر المرحلة
+Treasury shares,equity,أسهم الخزينة
+Treasury shares,equity,أسهم الخزانة
+Fair value reserve,equity,احتياطي القيمة العادلة
+Fair value reserve,equity,احتياطي التغير في القيمة العادلة
+Foreign currency translation reserve,equity,احتياطي تحويل العملات الأجنبية
+Foreign currency translation reserve,equity,احتياطي فروق الترجمة
+Hedging reserve,equity,احتياطي التحوط
+Hedging reserve,equity,احتياطي تحوط التدفقات النقدية
+Proposed dividends,equity,توزيعات الأرباح المقترحة
+Proposed dividends,equity,الأرباح المقترح توزيعها
+Proposed dividends,equity,توزيعات مقترحة
+Dividends paid,equity,توزيعات الأرباح المدفوعة
+Dividends paid,equity,الأرباح الموزعة المدفوعة
+Dividends,equity,توزيعات الأرباح
+Dividends,equity,الأرباح الموزعة
+Dividends,equity,التوزيعات
+Total shareholders' equity,equity,إجمالي حقوق المساهمين
+Total shareholders' equity,equity,مجموع حقوق المساهمين
+Total shareholders' equity,equity,إجمالي حقوق الملكية
+Total parent company shareholders' equity,equity,إجمالي حقوق مساهمي الشركة الأم
+Additional Tier 1 capital instruments,equity,أدوات رأس المال الإضافي من الشريحة الأولى
+Additional Tier 1 capital instruments,equity,أدوات الشريحة الأولى الإضافية
+Other equity instruments,equity,أدوات حقوق ملكية أخرى
+Other equity instruments,equity,أدوات الملكية الأخرى
+Total equity,equity,إجمالي حقوق الملكية
+Total equity,equity,مجموع حقوق الملكية
+Total equity,equity,إجمالي حقوق المساهمين
+Total equity and liabilities,equity,إجمالي حقوق الملكية والمطلوبات
+Total equity and liabilities,equity,مجموع حقوق الملكية والالتزامات
+Total equity and liabilities,equity,إجمالي الخصوم وحقوق الملكية
+Authorised capital,equity,رأس المال المصرح به
+Authorised capital,equity,رأس المال المرخص به
+Issued and paid-up capital,equity,رأس المال المصدر والمدفوع
+Issued and paid-up capital,equity,رأس المال المصدر والمدفوع بالكامل
+Paid-up capital,equity,رأس المال المدفوع
+Paid-up capital,equity,رأس المال المدفوع بالكامل
+Share-based payment reserve,equity,احتياطي المدفوعات على أساس الأسهم
+Share-based payment reserve,equity,احتياطي برنامج أسهم الموظفين
+Capital reserve,equity,الاحتياطي الرأسمالي
+Capital reserve,equity,احتياطي رأسمالي
+Capital redemption reserve,equity,احتياطي استرداد رأس المال
+Capital redemption reserve,equity,احتياطي إطفاء رأس المال
+Merger reserve,equity,احتياطي الاندماج
+Merger reserve,equity,احتياطي الدمج
+Revaluation reserve,equity,احتياطي إعادة التقييم
+Revaluation reserve,equity,احتياطي إعادة تقييم الممتلكات
+Retained earnings brought forward,equity,الأرباح المبقاة المرحلة
+Retained earnings brought forward,equity,أرباح مبقاة من سنوات سابقة
+Proposed cash dividends,equity,توزيعات الأرباح النقدية المقترحة
+Proposed cash dividends,equity,الأرباح النقدية المقترح توزيعها
+Proposed bonus shares,equity,أسهم المنحة المقترحة
+Proposed bonus shares,equity,الأسهم المجانية المقترحة
+Tier 1 Sukuk,equity,صكوك الشريحة الأولى
+Tier 1 Sukuk,equity,صكوك رأس المال من الشريحة الأولى
+Perpetual instruments,equity,الأدوات الدائمة
+Perpetual instruments,equity,أدوات دائمة
+Equity attributable to owners of the parent,equity,حقوق الملكية العائدة لمالكي الشركة الأم
+Equity attributable to owners of the parent,equity,حقوق المساهمين العائدة لمالكي الشركة الأم
+Total equity attributable to shareholders,equity,إجمالي حقوق الملكية العائدة للمساهمين
+Total equity attributable to shareholders,equity,مجموع حقوق المساهمين العائدة للمساهمين
+Cash flows from operating activities,cash_flow,التدفقات النقدية من الأنشطة التشغيلية
+Cash flows from operating activities,cash_flow,التدفقات النقدية من العمليات التشغيلية
+Cash flows from investing activities,cash_flow,التدفقات النقدية من الأنشطة الاستثمارية
+Cash flows from investing activities,cash_flow,التدفقات النقدية من العمليات الاستثمارية
+Cash flows from financing activities,cash_flow,التدفقات النقدية من الأنشطة التمويلية
+Cash flows from financing activities,cash_flow,التدفقات النقدية من العمليات التمويلية
+Net cash from operating activities,cash_flow,صافي النقد من الأنشطة التشغيلية
+Net cash from operating activities,cash_flow,صافي التدفقات النقدية من الأنشطة التشغيلية
+Net cash used in investing activities,cash_flow,صافي النقد المستخدم في الأنشطة الاستثمارية
+Net cash used in investing activities,cash_flow,صافي النقد المستخدم في العمليات الاستثمارية
+Net cash from financing activities,cash_flow,صافي النقد من الأنشطة التمويلية
+Net cash from financing activities,cash_flow,صافي التدفقات النقدية من الأنشطة التمويلية
+Net increase in cash and cash equivalents,cash_flow,صافي الزيادة في النقد وما في حكمه
+Net increase in cash and cash equivalents,cash_flow,صافي الزيادة في النقدية وما يعادلها
+Net decrease in cash and cash equivalents,cash_flow,صافي النقص في النقد وما في حكمه
+Net decrease in cash and cash equivalents,cash_flow,صافي النقص في النقدية وما يعادلها
+Cash and cash equivalents at beginning of year,cash_flow,النقد وما في حكمه في بداية السنة
+Cash and cash equivalents at beginning of year,cash_flow,النقدية وما يعادلها في بداية السنة
+Cash and cash equivalents at end of year,cash_flow,النقد وما في حكمه في نهاية السنة
+Cash and cash equivalents at end of year,cash_flow,النقدية وما يعادلها في نهاية السنة
+Depreciation,cash_flow,الاستهلاك
+Depreciation,cash_flow,الإهلاك
+Amortisation,cash_flow,الإطفاء
+Amortisation,cash_flow,الاطفاء
+Purchase of property and equipment,cash_flow,شراء الممتلكات والمعدات
+Purchase of property and equipment,cash_flow,شراء ممتلكات ومعدات
+Proceeds from sale of investments,cash_flow,المتحصلات من بيع الاستثمارات
+Proceeds from sale of investments,cash_flow,متحصلات بيع الاستثمارات
+Adjustments for non-cash items,cash_flow,تسويات البنود غير النقدية
+Adjustments for non-cash items,cash_flow,تعديلات للبنود غير النقدية
+Changes in operating assets and liabilities,cash_flow,التغيرات في الأصول والمطلوبات التشغيلية
+Changes in operating assets and liabilities,cash_flow,التغيرات في الموجودات والمطلوبات التشغيلية
+Zakat paid,cash_flow,الزكاة المدفوعة
+Zakat paid,cash_flow,زكاة مدفوعة
+Income tax paid,cash_flow,ضريبة الدخل المدفوعة
+Income tax paid,cash_flow,الضريبة المدفوعة
+Interest received,cash_flow,الفوائد المستلمة
+Interest received,cash_flow,الفوائد المقبوضة
+Interest paid,cash_flow,الفوائد المدفوعة
+Interest paid,cash_flow,الفوائد المسددة
+Dividends received,cash_flow,توزيعات الأرباح المستلمة
+Dividends received,cash_flow,الأرباح الموزعة المقبوضة
+Dividends paid,cash_flow,توزيعات الأرباح المدفوعة
+Dividends paid,cash_flow,الأرباح الموزعة المدفوعة
+Proceeds from borrowings,cash_flow,المتحصلات من القروض
+Proceeds from borrowings,cash_flow,متحصلات الاقتراض
+Repayment of borrowings,cash_flow,سداد القروض
+Repayment of borrowings,cash_flow,تسديد القروض
+Repayment of lease liabilities,cash_flow,سداد التزامات الإيجار
+Repayment of lease liabilities,cash_flow,سداد مطلوبات عقود الإيجار
+Proceeds from issue of shares,cash_flow,المتحصلات من إصدار الأسهم
+Proceeds from issue of shares,cash_flow,متحصلات إصدار أسهم
+Purchase of investments,cash_flow,شراء الاستثمارات
+Purchase of investments,cash_flow,شراء استثمارات
+Additions to property and equipment,cash_flow,الإضافات على الممتلكات والمعدات
+Additions to property and equipment,cash_flow,إضافات ممتلكات ومعدات
+Net movement in loans and advances,cash_flow,صافي الحركة في القروض والسلف
+Net movement in loans and advances,cash_flow,صافي التغير في القروض والسلف
+Net movement in customer deposits,cash_flow,صافي الحركة في ودائع العملاء
+Net movement in customer deposits,cash_flow,صافي التغير في ودائع العملاء
+Effect of exchange rate changes on cash,cash_flow,أثر تغيرات أسعار الصرف على النقد
+Effect of exchange rate changes on cash,cash_flow,تأثير تغير أسعار الصرف على النقدية
+Return on tangible equity,ratios,العائد على حقوق الملكية الملموسة
+Return on tangible equity,ratios,العائد على حقوق المساهمين الملموسة
+Return on equity,ratios,العائد على حقوق الملكية
+Return on equity,ratios,العائد على حقوق المساهمين
+Return on assets,ratios,العائد على الأصول
+Return on assets,ratios,العائد على الموجودات
+Cost-to-income ratio,ratios,نسبة التكلفة إلى الدخل
+Cost-to-income ratio,ratios,نسبة المصروفات إلى الإيرادات
+Net interest margin,ratios,صافي هامش الفائدة
+Net interest margin,ratios,هامش صافي الفائدة
+Common Equity Tier 1 ratio,ratios,نسبة رأس المال الأساسي من الشريحة الأولى
+Common Equity Tier 1 ratio,ratios,نسبة الشريحة الأولى للأسهم العادية
+Tier 1 capital ratio,ratios,نسبة رأس المال من الشريحة الأولى
+Total capital ratio,ratios,نسبة إجمالي رأس المال
+Total capital ratio,ratios,نسبة كفاية رأس المال الإجمالية
+Capital adequacy ratio,ratios,نسبة كفاية رأس المال
+Capital adequacy ratio,ratios,معدل كفاية رأس المال
+Liquidity coverage ratio,ratios,نسبة تغطية السيولة
+Liquidity coverage ratio,ratios,معدل تغطية السيولة
+Advances-to-deposits ratio,ratios,نسبة القروض إلى الودائع
+Advances-to-deposits ratio,ratios,نسبة التسهيلات إلى الودائع
+Risk-weighted assets,ratios,الأصول المرجحة بالمخاطر
+Risk-weighted assets,ratios,الموجودات المرجحة بالمخاطر
+Net asset value per share,ratios,صافي قيمة الأصول للسهم
+Net asset value per share,ratios,صافي قيمة الموجودات للسهم
+Tangible net asset value per share,ratios,صافي قيمة الأصول الملموسة للسهم
+Dividend per share,ratios,توزيعات الأرباح للسهم
+Dividend per share,ratios,الربح الموزع للسهم
+Cost of risk,ratios,تكلفة المخاطر
+Cost of risk,ratios,معدل تكلفة المخاطر
+Loan loss rate,ratios,معدل خسائر القروض
+Loan loss rate,ratios,نسبة خسائر القروض
+Corporate and Investment Banking,segments,الخدمات المصرفية للشركات والاستثمار
+Corporate and Investment Banking,segments,المصرفية للشركات والاستثمار
+Wealth and Retail Banking,segments,الخدمات المصرفية للأفراد والثروات
+Wealth and Retail Banking,segments,المصرفية للأفراد وإدارة الثروات
+Retail banking,segments,الخدمات المصرفية للأفراد
+Retail banking,segments,التجزئة المصرفية
+Retail banking,segments,المصرفية للأفراد
+Corporate banking,segments,الخدمات المصرفية للشركات
+Corporate banking,segments,المصرفية للشركات
+Treasury,segments,الخزينة
+Treasury,segments,الخزانة
+Investment banking,segments,الخدمات المصرفية الاستثمارية
+Investment banking,segments,المصرفية الاستثمارية
+Asset management,segments,إدارة الأصول
+Asset management,segments,إدارة الموجودات
+Insurance,segments,التأمين
+Insurance,segments,قطاع التأمين
+Head office,segments,المركز الرئيسي
+Head office,segments,الإدارة العامة
+Others,segments,أخرى
+Others,segments,بنود أخرى
+Domestic,segments,محلي
+Domestic,segments,المحلي
+International,segments,دولي
+International,segments,الدولي
+International,segments,خارجي
+Wholesale banking,segments,الخدمات المصرفية للمؤسسات
+Wholesale banking,segments,المصرفية للمؤسسات
+Wholesale banking,segments,الخدمات المصرفية بالجملة
+Private banking,segments,الخدمات المصرفية الخاصة
+Private banking,segments,المصرفية الخاصة
+Wealth management,segments,إدارة الثروات
+Wealth management,segments,إدارة الثروة
+Brokerage,segments,الوساطة
+Brokerage,segments,خدمات الوساطة المالية
+Brokerage,segments,الوساطة المالية
+Real estate,segments,العقارات
+Real estate,segments,القطاع العقاري
+Manufacturing,segments,الصناعة
+Manufacturing,segments,التصنيع
+Manufacturing,segments,القطاع الصناعي
+Trading,segments,التجارة
+Trading,segments,المتاجرة
+Trading,segments,القطاع التجاري
+Construction,segments,الإنشاءات
+Construction,segments,المقاولات
+Construction,segments,قطاع الإنشاءات
+Services,segments,الخدمات
+Services,segments,قطاع الخدمات
+Government,segments,الحكومة
+Government,segments,القطاع الحكومي
+Government,segments,الجهات الحكومية
+Individuals,segments,الأفراد
+Individuals,segments,قطاع الأفراد
+Small and medium enterprises,segments,المنشآت الصغيرة والمتوسطة
+Small and medium enterprises,segments,الشركات الصغيرة والمتوسطة
+Saudi Arabia,segments,المملكة العربية السعودية
+Saudi Arabia,segments,السعودية
+United Arab Emirates,segments,الإمارات العربية المتحدة
+United Arab Emirates,segments,الإمارات
+United Arab Emirates,segments,دولة الإمارات
+Kuwait,segments,الكويت
+Kuwait,segments,دولة الكويت
+Qatar,segments,قطر
+Qatar,segments,دولة قطر
+Bahrain,segments,البحرين
+Bahrain,segments,مملكة البحرين
+Oman,segments,عمان
+Oman,segments,سلطنة عمان
+Egypt,segments,مصر
+Egypt,segments,جمهورية مصر العربية
+Jordan,segments,الأردن
+Jordan,segments,المملكة الأردنية
+Lebanon,segments,لبنان
+Lebanon,segments,الجمهورية اللبنانية
+Iraq,segments,العراق
+Iraq,segments,جمهورية العراق
+Gulf Cooperation Council,segments,مجلس التعاون الخليجي
+Gulf Cooperation Council,segments,دول مجلس التعاون الخليجي
+Middle East,segments,الشرق الأوسط
+Middle East,segments,منطقة الشرق الأوسط
+North Africa,segments,شمال أفريقيا
+North Africa,segments,شمال إفريقيا
+Europe,segments,أوروبا
+Europe,segments,القارة الأوروبية
+Asia,segments,آسيا
+Asia,segments,القارة الآسيوية
+in thousands,units,بالآلاف
+in thousands,units,بالألف
+in thousands,units,بآلاف
+in millions,units,بالملايين
+in millions,units,بالمليون
+in millions,units,بملايين
+in billions,units,بالمليارات
+in billions,units,بالمليار
+$ million,units,مليون دولار
+$ million,units,بملايين الدولارات
+SAR '000,units,ألف ريال سعودي
+SAR '000,units,بآلاف الريالات السعودية
+AED '000,units,ألف درهم إماراتي
+AED '000,units,بآلاف الدراهم
+Saudi Riyal,units,ريال سعودي
+Saudi Riyal,units,الريال السعودي
+UAE Dirham,units,درهم إماراتي
+UAE Dirham,units,الدرهم الإماراتي
+Kuwaiti Dinar,units,دينار كويتي
+Kuwaiti Dinar,units,الدينار الكويتي
+Qatari Riyal,units,ريال قطري
+Qatari Riyal,units,الريال القطري
+Egyptian Pound,units,جنيه مصري
+Egyptian Pound,units,الجنيه المصري
+US Dollar,units,دولار أمريكي
+US Dollar,units,الدولار الأمريكي
+Percentage,units,النسبة المئوية
+Percentage,units,نسبة مئوية
+Percentage,units,بالمئة
+Currency,units,العملة
+Currency,units,عملة
+Bahraini Dinar,units,دينار بحريني
+Bahraini Dinar,units,الدينار البحريني
+Omani Rial,units,ريال عماني
+Omani Rial,units,الريال العماني
+Jordanian Dinar,units,دينار أردني
+Jordanian Dinar,units,الدينار الأردني
+Iraqi Dinar,units,دينار عراقي
+Iraqi Dinar,units,الدينار العراقي
+Lebanese Pound,units,ليرة لبنانية
+Lebanese Pound,units,الليرة اللبنانية
+Moroccan Dirham,units,درهم مغربي
+Moroccan Dirham,units,الدرهم المغربي
+Tunisian Dinar,units,دينار تونسي
+Tunisian Dinar,units,الدينار التونسي
+Algerian Dinar,units,دينار جزائري
+Algerian Dinar,units,الدينار الجزائري
+Libyan Dinar,units,دينار ليبي
+Libyan Dinar,units,الدينار الليبي
+Sudanese Pound,units,جنيه سوداني
+Sudanese Pound,units,الجنيه السوداني
+Syrian Pound,units,ليرة سورية
+Syrian Pound,units,الليرة السورية
+Yemeni Rial,units,ريال يمني
+Yemeni Rial,units,الريال اليمني
+Euro,units,يورو
+Euro,units,اليورو
+British Pound,units,جنيه إسترليني
+British Pound,units,الجنيه الإسترليني
+British Pound,units,الجنيه الاسترليني
+Japanese Yen,units,ين ياباني
+Japanese Yen,units,الين الياباني
+Swiss Franc,units,فرنك سويسري
+Swiss Franc,units,الفرنك السويسري
+Chinese Yuan,units,يوان صيني
+Chinese Yuan,units,اليوان الصيني
+Thousand,units,ألف
+Thousand,units,آلاف
+Million,units,مليون
+Million,units,ملايين
+Billion,units,مليار
+Billion,units,بليون
+Billion,units,مليارات
+Basis points,units,نقطة أساس
+Basis points,units,نقاط الأساس
+Net,common,صافي
+Net,common,الصافي
+Gross,common,إجمالي
+Gross,common,الإجمالي
+Total,common,مجموع
+Total,common,إجمالي
+Less,common,ناقصاً
+Less,common,يخصم
+Less,common,مطروحاً منه
+Add,common,يضاف
+Add,common,مضافاً إليه
+of which,common,منها
+of which,common,ومنها
+of which,common,من ذلك
+Increase,common,زيادة
+Increase,common,الزيادة
+Increase,common,ارتفاع
+Decrease,common,نقص
+Decrease,common,النقص
+Decrease,common,انخفاض
+Movement,common,الحركة
+Movement,common,التغير في
+Opening,common,الافتتاحي
+Opening,common,أول المدة
+Opening,common,بداية الفترة
+Closing,common,الختامي
+Closing,common,آخر المدة
+Closing,common,نهاية الفترة
+Beginning of the year,common,بداية السنة
+Beginning of the year,common,أول السنة
+End of the year,common,نهاية السنة
+End of the year,common,آخر السنة
+During the year,common,خلال السنة
+During the year,common,أثناء السنة
+Additions,common,الإضافات
+Additions,common,إضافات
+Disposals,common,الاستبعادات
+Disposals,common,استبعادات
+Disposals,common,المستبعد
+Transfers,common,التحويلات
+Transfers,common,المحول
+Write-offs,common,المشطوب
+Write-offs,common,الديون المشطوبة
+Write-offs,common,شطب
+Recoveries,common,المستردات
+Recoveries,common,المبالغ المستردة
+Fair value,common,القيمة العادلة
+Carrying amount,common,القيمة الدفترية
+Carrying amount,common,صافي القيمة الدفترية
+Cost,common,التكلفة
+Cost,common,الكلفة
+Accumulated depreciation,common,مجمع الاستهلاك
+Accumulated depreciation,common,الاستهلاك المتراكم
+Provision,common,المخصص
+Provision,common,مخصص
+Not applicable,common,لا ينطبق
+Not applicable,common,غير قابل للتطبيق
+Not meaningful,common,غير ذي دلالة
+Not meaningful,common,غير جوهري
+Ratio,common,النسبة
+Ratio,common,المعدل
+Average,common,المتوسط
+Average,common,متوسط
+Rate,common,المعدل
+Rate,common,السعر
+Rate,common,النسبة
+Yield,common,العائد
+Yield,common,معدل العائد
+Maturity,common,الاستحقاق
+Maturity,common,تاريخ الاستحقاق
+Current,common,المتداول
+Current,common,الحالي
+Current,common,الجاري
+Non-current,common,غير المتداول
+Non-current,common,غير الجاري
+Fixed,common,الثابت
+Fixed,common,ثابت
+Fixed,common,ثابتة
+Variable,common,المتغير
+Variable,common,متغير
+Variable,common,متغيرة
+Foreign,common,الأجنبي
+Foreign,common,أجنبي
+Foreign,common,أجنبية
+Local,common,المحلي
+Local,common,محلي
+Cumulative,common,التراكمي
+Cumulative,common,المتراكم
+Cumulative,common,تراكمي
+Annual,common,السنوي
+Annual,common,سنوي
+Quarterly,common,الربع سنوي
+Quarterly,common,ربع سنوي
+Monthly,common,الشهري
+Monthly,common,شهري
+Semi-annual,common,نصف سنوي
+Semi-annual,common,النصف سنوي
+By segment,common,حسب القطاع
+By segment,common,بحسب القطاع
+By segment,common,وفقاً للقطاع
+By geography,common,حسب المنطقة الجغرافية
+By geography,common,بحسب الموقع الجغرافي
+By geography,common,حسب الجغرافيا
+By product,common,حسب المنتج
+By product,common,بحسب المنتج
+By currency,common,حسب العملة
+By currency,common,بحسب العملة
+Total for the year,common,الإجمالي للسنة
+Total for the year,common,إجمالي السنة
+Balance at end of year,common,الرصيد في نهاية السنة
+Balance at end of year,common,الرصيد آخر السنة
+Balance at beginning of year,common,الرصيد في بداية السنة
+Balance at beginning of year,common,الرصيد أول السنة
+Charge for the year,common,المحمل للسنة
+Charge for the year,common,المكوّن خلال السنة
+Charge for the year,common,عبء السنة
+Utilised during the year,common,المستخدم خلال السنة
+Utilised during the year,common,المستنفد خلال السنة
+Reversed during the year,common,المسترد خلال السنة
+Reversed during the year,common,المعكوس خلال السنة
+Percentage of total,common,النسبة من الإجمالي
+Percentage of total,common,نسبة إلى الإجمالي
+Murabaha,islamic_finance,مرابحة
+Murabaha,islamic_finance,المرابحة
+Commodity Murabaha,islamic_finance,مرابحة السلع
+Commodity Murabaha,islamic_finance,المرابحة في السلع
+Commodity Murabaha,islamic_finance,المرابحة السلعية
+Ijara,islamic_finance,إجارة
+Ijara,islamic_finance,الإجارة
+Ijara,islamic_finance,الإجارة المنتهية بالتمليك
+Mudaraba,islamic_finance,مضاربة
+Mudaraba,islamic_finance,المضاربة
+Musharaka,islamic_finance,مشاركة
+Musharaka,islamic_finance,المشاركة
+Musharaka,islamic_finance,المشاركة المتناقصة
+Istisna'a,islamic_finance,استصناع
+Istisna'a,islamic_finance,الاستصناع
+Salam,islamic_finance,سلم
+Salam,islamic_finance,السلم
+Salam,islamic_finance,بيع السلم
+Sukuk,islamic_finance,صكوك
+Sukuk,islamic_finance,الصكوك
+Sukuk,islamic_finance,صكوك إسلامية
+Wakala,islamic_finance,وكالة
+Wakala,islamic_finance,الوكالة
+Wakala,islamic_finance,الوكالة بالاستثمار
+Tawarruq,islamic_finance,تورق
+Tawarruq,islamic_finance,التورق
+Qard Hasan,islamic_finance,قرض حسن
+Qard Hasan,islamic_finance,القرض الحسن
+Islamic financing and investing income,islamic_finance,إيرادات التمويل والاستثمار الإسلامي
+Islamic financing and investing income,islamic_finance,دخل التمويل والاستثمار الإسلامي
+Deferred profits,islamic_finance,الأرباح المؤجلة
+Deferred profits,islamic_finance,أرباح مؤجلة
+Deferred profits,islamic_finance,الربح المؤجل
+Profit rate,islamic_finance,معدل الربح
+Profit rate,islamic_finance,نسبة الربح
+Unrestricted investment accounts,islamic_finance,حسابات الاستثمار المطلقة
+Unrestricted investment accounts,islamic_finance,حسابات الاستثمار غير المقيدة
+Restricted investment accounts,islamic_finance,حسابات الاستثمار المقيدة
+Restricted investment accounts,islamic_finance,حسابات استثمار مقيدة
+Equity of investment account holders,islamic_finance,حقوق أصحاب حسابات الاستثمار
+Equity of investment account holders,islamic_finance,حقوق أصحاب حسابات الاستثمار المطلقة
+Investment risk reserve,islamic_finance,احتياطي مخاطر الاستثمار
+Investment risk reserve,islamic_finance,احتياطي مقابلة مخاطر الاستثمار
+Profit equalisation reserve,islamic_finance,احتياطي معدل الأرباح
+Profit equalisation reserve,islamic_finance,احتياطي مقابلة تقلبات الأرباح
+Sharia supervisory board,islamic_finance,هيئة الرقابة الشرعية
+Sharia supervisory board,islamic_finance,هيئة الفتوى والرقابة الشرعية
+Zakat and charity fund,islamic_finance,صندوق الزكاة والخيرات
+Zakat and charity fund,islamic_finance,صندوق الزكاة والأعمال الخيرية
+Wakala deposits,islamic_finance,ودائع الوكالة
+Wakala deposits,islamic_finance,ودائع وكالة
+Gross written premiums,insurance_takaful,إجمالي الأقساط المكتتبة
+Gross written premiums,insurance_takaful,إجمالي أقساط التأمين المكتتبة
+Net earned premiums,insurance_takaful,صافي الأقساط المكتسبة
+Net earned premiums,insurance_takaful,صافي أقساط التأمين المكتسبة
+Reinsurance premiums,insurance_takaful,أقساط إعادة التأمين
+Reinsurance premiums,insurance_takaful,أقساط معيدي التأمين
+Claims incurred,insurance_takaful,المطالبات المتكبدة
+Claims incurred,insurance_takaful,التعويضات المتكبدة
+Claims paid,insurance_takaful,المطالبات المدفوعة
+Claims paid,insurance_takaful,التعويضات المدفوعة
+Reinsurance,insurance_takaful,إعادة التأمين
+Reinsurance,insurance_takaful,اعادة التأمين
+Retakaful,insurance_takaful,إعادة التكافل
+Retakaful,insurance_takaful,اعادة التكافل
+Takaful,insurance_takaful,التكافل
+Takaful,insurance_takaful,التأمين التكافلي
+Technical provisions,insurance_takaful,المخصصات الفنية
+Technical provisions,insurance_takaful,الاحتياطيات الفنية
+Unearned premium reserve,insurance_takaful,احتياطي الأقساط غير المكتسبة
+Unearned premium reserve,insurance_takaful,مخصص الأقساط غير المكتسبة
+Outstanding claims reserve,insurance_takaful,احتياطي المطالبات تحت التسوية
+Outstanding claims reserve,insurance_takaful,احتياطي المطالبات القائمة
+Outstanding claims reserve,insurance_takaful,مخصص المطالبات تحت التسوية
+Policyholders,insurance_takaful,حملة الوثائق
+Policyholders,insurance_takaful,حاملو وثائق التأمين
+Policyholders,insurance_takaful,حملة وثائق التأمين
+Underwriting surplus,insurance_takaful,فائض الاكتتاب
+Underwriting surplus,insurance_takaful,الفائض الاكتتابي
+Underwriting result,insurance_takaful,نتيجة الاكتتاب
+Underwriting result,insurance_takaful,نتائج الاكتتاب
+Commission income,insurance_takaful,إيرادات العمولات
+Commission income,insurance_takaful,عمولات إعادة التأمين المكتسبة
+Solvency margin,insurance_takaful,هامش الملاءة
+Solvency margin,insurance_takaful,هامش الملاءة المالية
+Policyholders' fund,insurance_takaful,صندوق حملة الوثائق
+Policyholders' fund,insurance_takaful,أموال حملة الوثائق
+Shareholders' fund,insurance_takaful,صندوق المساهمين
+Shareholders' fund,insurance_takaful,أموال المساهمين
+Current tax,tax_zakat,الضريبة الحالية
+Current tax,tax_zakat,الضريبة المستحقة
+Current tax,tax_zakat,ضريبة العام الحالي
+Deferred tax,tax_zakat,الضريبة المؤجلة
+Deferred tax,tax_zakat,ضريبة مؤجلة
+Withholding tax,tax_zakat,ضريبة الاستقطاع
+Withholding tax,tax_zakat,الضريبة المقتطعة
+Withholding tax,tax_zakat,ضريبة الاستقطاع من المنبع
+Value added tax,tax_zakat,ضريبة القيمة المضافة
+Value added tax,tax_zakat,القيمة المضافة
+Effective tax rate,tax_zakat,معدل الضريبة الفعلي
+Effective tax rate,tax_zakat,المعدل الضريبي الفعلي
+Tax base,tax_zakat,الوعاء الضريبي
+Tax base,tax_zakat,القاعدة الضريبية
+Zakat base,tax_zakat,وعاء الزكاة
+Zakat base,tax_zakat,الوعاء الزكوي
+Zakat provision,tax_zakat,مخصص الزكاة
+Zakat provision,tax_zakat,مخصص الزكاة الشرعية
+Deferred tax movement,tax_zakat,الحركة في الضريبة المؤجلة
+Deferred tax movement,tax_zakat,التغير في الضريبة المؤجلة
+Tax expense,tax_zakat,مصروف الضريبة
+Tax expense,tax_zakat,المصروف الضريبي
+Taxable profit,tax_zakat,الربح الخاضع للضريبة
+Taxable profit,tax_zakat,الأرباح الخاضعة للضريبة
+Board of directors,audit_governance,مجلس الإدارة
+Board of directors,audit_governance,أعضاء مجلس الإدارة
+Chairman,audit_governance,رئيس مجلس الإدارة
+Chairman,audit_governance,الرئيس
+Vice Chairman,audit_governance,نائب رئيس مجلس الإدارة
+Vice Chairman,audit_governance,نائب الرئيس
+Chief Executive Officer,audit_governance,الرئيس التنفيذي
+Chief Executive Officer,audit_governance,المدير التنفيذي
+Chief Financial Officer,audit_governance,المدير المالي
+Chief Financial Officer,audit_governance,الرئيس المالي
+Chief Financial Officer,audit_governance,المدير المالي التنفيذي
+Managing Director,audit_governance,العضو المنتدب
+Managing Director,audit_governance,المدير العام
+Audit committee,audit_governance,لجنة المراجعة
+Audit committee,audit_governance,لجنة التدقيق
+External auditor,audit_governance,مراقب الحسابات الخارجي
+External auditor,audit_governance,المدقق الخارجي
+External auditor,audit_governance,المراجع الخارجي
+Auditor's opinion,audit_governance,رأي مراقب الحسابات
+Auditor's opinion,audit_governance,رأي المدقق
+Unqualified opinion,audit_governance,رأي غير متحفظ
+Unqualified opinion,audit_governance,رأي نظيف
+Qualified opinion,audit_governance,رأي متحفظ
+Qualified opinion,audit_governance,رأي مقيد
+Emphasis of matter,audit_governance,فقرة لفت انتباه
+Emphasis of matter,audit_governance,فقرة تأكيد أمر
+Emphasis of matter,audit_governance,لفت انتباه
+Material misstatement,audit_governance,تحريف جوهري
+Material misstatement,audit_governance,خطأ جوهري
+Going concern,audit_governance,مبدأ الاستمرارية
+Going concern,audit_governance,الاستمرارية
+Going concern,audit_governance,افتراض الاستمرارية
+Related parties,audit_governance,الأطراف ذات العلاقة
+Related parties,audit_governance,الأطراف ذوو العلاقة
+Related parties,audit_governance,الجهات ذات العلاقة
+Related party transactions,audit_governance,معاملات الأطراف ذات العلاقة
+Related party transactions,audit_governance,المعاملات مع الأطراف ذات العلاقة
+Key management personnel,audit_governance,كبار موظفي الإدارة
+Key management personnel,audit_governance,موظفو الإدارة الرئيسيون
+Key management personnel,audit_governance,الإدارة العليا
+Contingent liabilities,audit_governance,الالتزامات المحتملة
+Contingent liabilities,audit_governance,المطلوبات الطارئة
+Contingent liabilities,audit_governance,الالتزامات الطارئة
+Contingencies and commitments,audit_governance,الالتزامات المحتملة والارتباطات
+Contingencies and commitments,audit_governance,الارتباطات والالتزامات المحتملة
+Commitments,audit_governance,الارتباطات
+Commitments,audit_governance,الالتزامات الرأسمالية
+Commitments,audit_governance,التعهدات
+Capital commitments,audit_governance,الالتزامات الرأسمالية
+Capital commitments,audit_governance,الارتباطات الرأسمالية
+Subsequent events,audit_governance,الأحداث اللاحقة
+Subsequent events,audit_governance,أحداث لاحقة لتاريخ التقرير
+Comparative figures,audit_governance,أرقام المقارنة
+Comparative figures,audit_governance,الأرقام المقارنة
+Comparative figures,audit_governance,أرقام المقارنة للفترة السابقة
+Contingent assets,audit_governance,الأصول المحتملة
+Contingent assets,audit_governance,الموجودات المحتملة
+Forward contracts,derivatives_treasury,العقود الآجلة
+Forward contracts,derivatives_treasury,عقود آجلة
+Forward foreign exchange contracts,derivatives_treasury,عقود صرف العملات الآجلة
+Forward foreign exchange contracts,derivatives_treasury,العقود الآجلة للعملات الأجنبية
+Futures contracts,derivatives_treasury,العقود المستقبلية
+Futures contracts,derivatives_treasury,عقود مستقبلية
+Options,derivatives_treasury,الخيارات
+Options,derivatives_treasury,عقود الخيارات
+Options,derivatives_treasury,خيارات
+Swaps,derivatives_treasury,المبادلات
+Swaps,derivatives_treasury,عقود المبادلة
+Swaps,derivatives_treasury,المقايضات
+Interest rate swaps,derivatives_treasury,مبادلات أسعار الفائدة
+Interest rate swaps,derivatives_treasury,عقود مبادلة أسعار الفائدة
+Currency swaps,derivatives_treasury,مبادلات العملات
+Currency swaps,derivatives_treasury,عقود مبادلة العملات
+Profit rate swaps,derivatives_treasury,مبادلات معدل الربح
+Profit rate swaps,derivatives_treasury,عقود مبادلة معدل الربح
+Hedging instruments,derivatives_treasury,أدوات التحوط
+Hedging instruments,derivatives_treasury,أدوات التغطية
+Fair value hedge,derivatives_treasury,تحوط القيمة العادلة
+Fair value hedge,derivatives_treasury,تغطية القيمة العادلة
+Cash flow hedge,derivatives_treasury,تحوط التدفقات النقدية
+Cash flow hedge,derivatives_treasury,تغطية التدفقات النقدية
+Net investment hedge,derivatives_treasury,تحوط صافي الاستثمار
+Net investment hedge,derivatives_treasury,تغطية صافي الاستثمار
+Notional amount,derivatives_treasury,المبلغ الاسمي
+Notional amount,derivatives_treasury,القيمة الاسمية
+Notional amount,derivatives_treasury,المبلغ الافتراضي
+Positive fair value,derivatives_treasury,القيمة العادلة الموجبة
+Positive fair value,derivatives_treasury,القيمة العادلة الإيجابية
+Negative fair value,derivatives_treasury,القيمة العادلة السالبة
+Negative fair value,derivatives_treasury,القيمة العادلة السلبية
+Amortised cost,derivatives_treasury,التكلفة المطفأة
+Amortised cost,derivatives_treasury,الكلفة المطفأة
+Available for sale,derivatives_treasury,المتاحة للبيع
+Available for sale,derivatives_treasury,متاح للبيع
+Held to maturity,derivatives_treasury,المحتفظ بها حتى الاستحقاق
+Held to maturity,derivatives_treasury,محتفظ به حتى الاستحقاق
+Held for trading,derivatives_treasury,المحتفظ بها للمتاجرة
+Held for trading,derivatives_treasury,محتفظ به للمتاجرة
+Fair value hierarchy,derivatives_treasury,التسلسل الهرمي للقيمة العادلة
+Fair value hierarchy,derivatives_treasury,مستويات القيمة العادلة
+Level 1,derivatives_treasury,المستوى الأول
+Level 1,derivatives_treasury,المستوى ١
+Level 2,derivatives_treasury,المستوى الثاني
+Level 2,derivatives_treasury,المستوى ٢
+Level 3,derivatives_treasury,المستوى الثالث
+Level 3,derivatives_treasury,المستوى ٣
+Credit risk,risk_capital,مخاطر الائتمان
+Credit risk,risk_capital,المخاطر الائتمانية
+Market risk,risk_capital,مخاطر السوق
+Market risk,risk_capital,المخاطر السوقية
+Operational risk,risk_capital,المخاطر التشغيلية
+Operational risk,risk_capital,مخاطر التشغيل
+Liquidity risk,risk_capital,مخاطر السيولة
+Liquidity risk,risk_capital,خطر السيولة
+Interest rate risk,risk_capital,مخاطر أسعار الفائدة
+Interest rate risk,risk_capital,مخاطر معدلات الفائدة
+Currency risk,risk_capital,مخاطر العملات
+Currency risk,risk_capital,مخاطر أسعار الصرف
+Currency risk,risk_capital,مخاطر العملات الأجنبية
+Foreign exchange risk,risk_capital,مخاطر صرف العملات الأجنبية
+Foreign exchange risk,risk_capital,مخاطر الصرف الأجنبي
+Concentration risk,risk_capital,مخاطر التركز
+Concentration risk,risk_capital,مخاطر التركيز
+Capital adequacy,risk_capital,كفاية رأس المال
+Capital adequacy,risk_capital,كفاية رأس المال النظامي
+Tier 1 capital,risk_capital,رأس المال من الشريحة الأولى
+Tier 1 capital,risk_capital,الشريحة الأولى لرأس المال
+Tier 1 capital,risk_capital,رأس المال الأساسي
+Tier 2 capital,risk_capital,رأس المال من الشريحة الثانية
+Tier 2 capital,risk_capital,الشريحة الثانية لرأس المال
+Tier 2 capital,risk_capital,رأس المال المساند
+Regulatory capital,risk_capital,رأس المال النظامي
+Regulatory capital,risk_capital,رأس المال الرقابي
+Leverage ratio,risk_capital,نسبة الرافعة المالية
+Leverage ratio,risk_capital,معدل الرافعة المالية
+Stage 1,risk_capital,المرحلة الأولى
+Stage 1,risk_capital,المرحلة ١
+Stage 2,risk_capital,المرحلة الثانية
+Stage 2,risk_capital,المرحلة ٢
+Stage 3,risk_capital,المرحلة الثالثة
+Stage 3,risk_capital,المرحلة ٣
+Non-performing loans,risk_capital,القروض المتعثرة
+Non-performing loans,risk_capital,القروض غير العاملة
+Non-performing loans,risk_capital,القروض غير المنتظمة
+Non-performing financing,risk_capital,التمويل المتعثر
+Non-performing financing,risk_capital,التمويلات غير العاملة
+Past due,risk_capital,المتأخرة
+Past due,risk_capital,المتأخرة السداد
+Past due,risk_capital,تجاوزت تاريخ الاستحقاق
+Past due but not impaired,risk_capital,المتأخرة وغير منخفضة القيمة
+Past due but not impaired,risk_capital,متأخرة السداد وغير منخفضة القيمة
+Impaired loans,risk_capital,القروض منخفضة القيمة
+Impaired loans,risk_capital,القروض المنخفضة القيمة
+Collateral,risk_capital,الضمانات
+Collateral,risk_capital,الرهونات
+Collateral,risk_capital,الضمانات المقدمة
+Provision coverage ratio,risk_capital,نسبة تغطية المخصصات
+Provision coverage ratio,risk_capital,معدل تغطية المخصصات
+Loss given default,risk_capital,الخسارة عند التعثر
+Loss given default,risk_capital,الخسارة الناتجة عن التعثر
+Probability of default,risk_capital,احتمالية التعثر
+Probability of default,risk_capital,احتمال التعثر
+Exposure at default,risk_capital,التعرض عند التعثر
+Exposure at default,risk_capital,قيمة التعرض عند التعثر
+January,dates_periods,يناير
+January,dates_periods,كانون الثاني
+February,dates_periods,فبراير
+February,dates_periods,شباط
+March,dates_periods,مارس
+March,dates_periods,آذار
+April,dates_periods,أبريل
+April,dates_periods,نيسان
+April,dates_periods,ابريل
+May,dates_periods,مايو
+May,dates_periods,أيار
+June,dates_periods,يونيو
+June,dates_periods,حزيران
+July,dates_periods,يوليو
+July,dates_periods,تموز
+August,dates_periods,أغسطس
+August,dates_periods,آب
+August,dates_periods,اغسطس
+September,dates_periods,سبتمبر
+September,dates_periods,أيلول
+October,dates_periods,أكتوبر
+October,dates_periods,تشرين الأول
+October,dates_periods,اكتوبر
+November,dates_periods,نوفمبر
+November,dates_periods,تشرين الثاني
+December,dates_periods,ديسمبر
+December,dates_periods,كانون الأول
+Financial year,dates_periods,السنة المالية
+Financial year,dates_periods,العام المالي
+Fiscal year,dates_periods,السنة المالية
+Fiscal year,dates_periods,السنة الضريبية
+Half year,dates_periods,نصف السنة
+Half year,dates_periods,النصف سنوي
+Half year,dates_periods,نصف سنوي
+First half,dates_periods,النصف الأول
+First half,dates_periods,النصف الأول من العام
+Second half,dates_periods,النصف الثاني
+Second half,dates_periods,النصف الثاني من العام
+Nine months,dates_periods,التسعة أشهر
+Nine months,dates_periods,تسعة أشهر
+Period,dates_periods,الفترة
+Period,dates_periods,المدة
+Comparative period,dates_periods,الفترة المقارنة
+Comparative period,dates_periods,فترة المقارنة
+During the period,dates_periods,خلال الفترة
+During the period,dates_periods,أثناء الفترة
+As at the date,dates_periods,كما في تاريخ
+As at the date,dates_periods,بتاريخ
+Reporting date,dates_periods,تاريخ التقرير
+Reporting date,dates_periods,تاريخ إعداد التقرير
+Reporting period,dates_periods,فترة التقرير
+Reporting period,dates_periods,الفترة المشمولة بالتقرير
+Trade receivables and other receivables,general_business,الذمم المدينة التجارية والأخرى
+Trade receivables and other receivables,general_business,المدينون التجاريون والآخرون
+Trade payables and other payables,general_business,الذمم الدائنة التجارية والأخرى
+Trade payables and other payables,general_business,الدائنون التجاريون والآخرون
+Accounts receivable,general_business,الذمم المدينة
+Accounts receivable,general_business,المدينون
+Accounts receivable,general_business,حسابات مدينة
+Accounts payable,general_business,الذمم الدائنة
+Accounts payable,general_business,الدائنون
+Accounts payable,general_business,حسابات دائنة
+Allowance for doubtful debts,general_business,مخصص الديون المشكوك في تحصيلها
+Allowance for doubtful debts,general_business,مخصص الذمم المشكوك في تحصيلها
+Bad debts written off,general_business,الديون المعدومة المشطوبة
+Bad debts written off,general_business,الديون المشطوبة
+Inventory,general_business,المخزون
+Inventory,general_business,البضاعة
+Inventory,general_business,بضاعة
+Work in progress,general_business,الإنتاج تحت التشغيل
+Work in progress,general_business,أعمال تحت التنفيذ
+Work in progress,general_business,بضاعة تحت التشغيل
+Finished goods,general_business,البضاعة الجاهزة
+Finished goods,general_business,المنتجات التامة الصنع
+Raw materials,general_business,المواد الخام
+Raw materials,general_business,المواد الأولية
+Par value,general_business,القيمة الاسمية
+Par value,general_business,القيمة الإسمية
+Number of shares,general_business,عدد الأسهم
+Number of shares,general_business,عدد الأسهم القائمة
+Weighted average number of shares,general_business,المتوسط المرجح لعدد الأسهم
+Weighted average number of shares,general_business,المتوسط المرجح لعدد الأسهم القائمة
+Bonus shares,general_business,أسهم المنحة
+Bonus shares,general_business,الأسهم المجانية
+Bonus shares,general_business,أسهم مجانية
+Rights issue,general_business,إصدار حقوق أولوية
+Rights issue,general_business,أسهم حقوق الأولوية
+Book value,general_business,القيمة الدفترية
+Book value,general_business,القيمة الدفترية للسهم
+Market value,general_business,القيمة السوقية
+Market value,general_business,القيمة السوقية للسهم
+Net realisable value,general_business,صافي القيمة القابلة للتحقق
+Net realisable value,general_business,صافي القيمة البيعية
+Recoverable amount,general_business,القيمة القابلة للاسترداد
+Recoverable amount,general_business,المبلغ القابل للاسترداد
+Value in use,general_business,القيمة قيد الاستخدام
+Value in use,general_business,القيمة أثناء الاستخدام
+Useful life,general_business,العمر الإنتاجي
+Useful life,general_business,العمر الافتراضي
+Useful life,general_business,العمر الإنتاجي المقدر
+Salvage value,general_business,القيمة المتبقية
+Salvage value,general_business,قيمة الخردة
+Depreciation for the year,general_business,استهلاك السنة
+Depreciation for the year,general_business,إهلاك السنة
+Accumulated depreciation,general_business,مجمع الاستهلاك
+Accumulated depreciation,general_business,الاستهلاك المتراكم
+Accumulated depreciation,general_business,مجمع الإهلاك
+Amortisation for the year,general_business,إطفاء السنة
+Amortisation for the year,general_business,اطفاء السنة
+Cost,general_business,التكلفة
+Cost,general_business,الكلفة
+Additions,general_business,الإضافات
+Additions,general_business,إضافات
+Disposals,general_business,الاستبعادات
+Disposals,general_business,المستبعدات
+Disposals,general_business,استبعادات
+Transfers,general_business,التحويلات
+Transfers,general_business,المحول
+Transfers,general_business,تحويلات
+Revenue recognition,general_business,الاعتراف بالإيراد
+Revenue recognition,general_business,إثبات الإيرادات
+Deferred revenue,general_business,الإيرادات المؤجلة
+Deferred revenue,general_business,إيرادات مؤجلة
+Accrued revenue,general_business,الإيرادات المستحقة
+Accrued revenue,general_business,إيرادات مستحقة غير مفوترة
+Working capital,general_business,رأس المال العامل
+Working capital,general_business,صافي رأس المال العامل
+Capital expenditure,general_business,النفقات الرأسمالية
+Capital expenditure,general_business,المصروفات الرأسمالية
+Capital expenditure,general_business,الإنفاق الرأسمالي
+Operating expenditure,general_business,النفقات التشغيلية
+Operating expenditure,general_business,المصروفات التشغيلية
+Budget,general_business,الموازنة
+Budget,general_business,الميزانية التقديرية
+Budget,general_business,الموازنة التقديرية
+Forecast,general_business,التوقعات
+Forecast,general_business,التنبؤات
+Forecast,general_business,المتوقع
+Actual,general_business,الفعلي
+Actual,general_business,المبالغ الفعلية
+Variance,general_business,الانحراف
+Variance,general_business,الفرق
+Variance,general_business,التباين
+Reclassification,general_business,إعادة التصنيف
+Reclassification,general_business,اعادة التصنيف
+Consolidation,general_business,التوحيد
+Consolidation,general_business,التجميع
+Consolidation,general_business,توحيد القوائم
+Elimination,general_business,الاستبعاد
+Elimination,general_business,الحذف
+Elimination,general_business,استبعاد المعاملات
+Adjustment,general_business,التسوية
+Adjustment,general_business,التعديل
+Adjustment,general_business,تسوية
+Estimate,general_business,التقدير
+Estimate,general_business,المقدّر
+Estimate,general_business,تقدير
+Impairment loss,general_business,خسارة انخفاض القيمة
+Impairment loss,general_business,خسائر انخفاض القيمة
+Depreciation rate,general_business,معدل الاستهلاك
+Depreciation rate,general_business,نسبة الاستهلاك
